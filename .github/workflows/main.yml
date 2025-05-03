@@ -1,33 +1,27 @@
-name: Auto Update EPG
+name: Update EPG XML daily
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Daily at 03:00 UTC
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
-  update:
+  update-epg:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repo
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+    - name: Download EPG XML
+      run: curl -o epg.xml "https://epg.pw/api/epg.xml?channel_id=403626"
 
-      - name: Install requests
-        run: pip install requests
-
-      - name: Run EPG download script
-        run: python update_epg.py
-
-      - name: Commit and push changes
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add epg.xml
-          git commit -m "Daily EPG auto-update" || echo "No changes"
-          git push
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add epg.xml
+        git commit -m "Update EPG XML - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+        git push
