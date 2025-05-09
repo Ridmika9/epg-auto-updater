@@ -1,119 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250508113035 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250508.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250508&amp;timezone=None">
+<tv date="20250509114824 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250509.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250509&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250508000000 +0000" stop="20250508023000 +0000">
-    <title lang="zh">Creed III</title>
-    <desc>Adonis has been thriving in both his career and family life, but when a childhood friend and former boxing prodigy resurfaces, the face-off is more than just a fight.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508023000 +0000" stop="20250508050300 +0000">
-    <title lang="zh">Mission: Impossible</title>
-    <desc>Branded a traitor, an elite intelligence agent (Tom Cruise) investigates a failed Prague mission to retrieve a computer disk.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508050300 +0000" stop="20250508060300 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An investigation into the near-fatal beating of a 12-year-old boy uncovers a female suspect whose trial becomes about the rights of same-sex parents.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508060300 +0000" stop="20250508070100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A mother becomes Stabler and Benson's prime suspect in the poisoning of her child; Novak enlists Clark's assistance in obtaining evidence to remove a judge from the bench after his bias in two child abuse cases leads to a wrongful arrest.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508070100 +0000" stop="20250508080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A video voyeur catches a sexual assault against a minor on tape, which changes the focus of the investigation as the detectives search for a pedophile.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508080000 +0000" stop="20250508090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The son of an outspoken critic becomes the prime suspect when the star of a controversial teen show is raped in her trailer on the set.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508090000 +0000" stop="20250508100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After recovering from being shot during a robbery, Fin returns to the narcotics division to keep a promise he made to locate a missing person.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508100000 +0000" stop="20250508110000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>A truck transporting Christmas trees hits a suspected North Korean spy; Kensi and Deeks try to include their mothers in their plans for Christmas; Hetty thinks Granger is not in the holiday spirit.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508110000 +0000" stop="20250508120000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>When a gunnery sergeant moonlighting as a security guard at a decommissioned nuclear power plant suffers radiation poisoning, the team goes under cover to investigate.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508120000 +0000" stop="20250508130000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>A tech entrepreneur and venture capitalist who secretly developed a computer program that stealthily collects data is murdered.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508130000 +0000" stop="20250508140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Fin investigate the brutal rape and murder of a prostitute, and the prime suspects turn out to be a group of teens suspected of re-enacting a favorite video game.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508140000 +0000" stop="20250508150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives discover that a murdered teenage girl was a prostitute and had contracted HIV while working on a pornographic film, which leads them to her killer.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508150000 +0000" stop="20250508160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a wealthy couple laundering money for South American drug dealers is murdered, former ADA Alexandra Cabot (Stephanie March) returns from witness protection to help solve the case.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508160000 +0000" stop="20250508170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler struggles to keep his emotions in check as he interrogates a man (Matthew Modine) suspected in the murder of a teenage girl -- a man he once let get away on similar charges.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508170000 +0000" stop="20250508180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A mother who reported the statutory rape of her daughter is found murdered.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508180000 +0000" stop="20250508190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler have a suspect (Alfred Molina) but not enough evidence when a serial rapist preys on illegal immigrant women, and Tracy Kibre (Bebe Neuwirth) is brought in to work on the case.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508190000 +0000" stop="20250508200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler probe an assault and carjacking, only to find that it is connected to illegal trafficking in painkillers apparently headed by an elderly woman (Melinda Dillon).</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508200000 +0000" stop="20250508210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When two police officers in separate precincts attack their wives and demonstrate suicidal behavior, Benson and Stabler suspect a malaria drug both men received while serving in a reserve unit in Afghanistan.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508210000 +0000" stop="20250508220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a high-school student is brutally assaulted, detectives interview a suspect who becomes enraged and attacks Detective Tutuola.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508220000 +0000" stop="20250508225900 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>While searching for a child molester who has abducted three young children orphaned by Hurricane Katrina, detectives learn that the suspect also possesses a deadly strain of anthrax.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508225900 +0000" stop="20250508235700 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When an 8-year-old girl is kidnapped on her way home from school, DNA tests on the blood found in the abductor's abandoned van reveal she has leukemia.</desc>
-    <date>2025-05-08</date>
-  </programme>
-  <programme channel="403626" start="20250508235700 +0000" stop="20250509000000 +0000">
-    <title lang="zh">Mission: Impossible</title>
-    <desc>Branded a traitor, an elite intelligence agent (Tom Cruise) investigates a failed Prague mission to retrieve a computer disk.</desc>
-    <date>2025-05-08</date>
-  </programme>
   <programme channel="403626" start="20250509023000 +0000" stop="20250509043000 +0000">
     <title lang="zh">Nobody</title>
     <desc>In a barrage of fists, gunfire and squealing tires, an enraged man must save his wife and son from a dangerous adversary -- and ensure that he will never be underestimated again.</desc>
@@ -219,9 +109,89 @@
     <desc>Following the devastating fire at the Nash home, Bobby's fate remains uncertain; Athena embarks on a mission to uncover the truth; Hen and Karin engage in a heated custody battle; Christopher grapples with forgiving Eddie.</desc>
     <date>2025-05-09</date>
   </programme>
-  <programme channel="403626" start="20250510000000 +0000" stop="20250511000000 +0000">
+  <programme channel="403626" start="20250510000000 +0000" stop="20250510030000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510030000 +0000" stop="20250510040900 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Fearing he's facing failure, Harry enlists an unlikely ally to help find his ship, featuring a behind-the-scenes look.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510040900 +0000" stop="20250510050500 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>After his devastating family tragedy in Minnesota, Bobby Nash moves to Los Angeles to start over, where he becomes captain of the 118 and meets Athena Grant for the first time.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510050500 +0000" stop="20250510060400 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The first responders deal with a calamity at a chocolate factory; a mail bomb explosion; Eddie receives some surprising news from Shannon; Maddie contemplates her future in the call center.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510060400 +0000" stop="20250510070100 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A stunt driver is caught in a hairy situation; a teenage social influencer is bugging out; the city is on high alert after two mail bombs go off; Eddie's family comes to town; Buck faces a life-or-death situation.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510070100 +0000" stop="20250510080000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A woman's story about an abduction and murder helps reopen a decades-old case that has weighed heavy on a New York town.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510080000 +0000" stop="20250510090000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When three people are found dead on the same day in a Kentucky town, investigators know it isn't a coincidence; years pass before there's an arrest as the case continues to divide the community.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510090000 +0000" stop="20250510100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When three people are found dead on the same day in a Kentucky town, investigators know it isn't a coincidence; years pass before there's an arrest as the case continues to divide the community.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510100000 +0000" stop="20250510110000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>When District 21 goes after a Colombian drug gang following a series of brutal slayings, an asset in the investigation emerges.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510110000 +0000" stop="20250510120000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Antonio believes a Colombian gang is involved in his son's kidnapping; Halstead learns new information about Lindsay; Voight offers Antonio a new way to get information about Diego's whereabouts.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510120000 +0000" stop="20250510130000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Voight and the team check out a house that has been associated with a series of gangs; people from the past cause Halstead's temper to rise.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510130000 +0000" stop="20250510140000 +0000">
+    <title lang="zh">Live: Premier League Mornings</title>
+    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510140000 +0000" stop="20250510160000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>Southampton (2-5-28) try to avoid history as they host Manchester City (19-7-9). The Saints need one point in their last three games to avoid tying the Premier League mark for futility at 11 points, set by Derby County in the 2007-08 campaign.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510160000 +0000" stop="20250510163000 +0000">
+    <title lang="zh">Live: Premier League Mornings</title>
+    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510163000 +0000" stop="20250510193000 +0000">
+    <title lang="zh">Stillwater</title>
+    <desc>A father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510193000 +0000" stop="20250510230000 +0000">
+    <title lang="zh">Any Given Sunday</title>
+    <desc>A football head coach (Al Pacino) and an aging quarterback (Dennis Quaid) clash with the new, contemporary, money-oriented owner (Cameron Diaz) of their team.</desc>
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="403626" start="20250510230000 +0000" stop="20250511000000 +0000">
+    <title lang="zh">Live: AMA Supercross Series</title>
+    <desc>From Rice-Eccles Stadium in Salt Lake City.</desc>
     <date>2025-05-10</date>
   </programme>
 </tv>
