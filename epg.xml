@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250515095717 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250515.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250515&amp;timezone=None">
+<tv date="20250516113146 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250516.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250516&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250515000000 +0000" stop="20250515030000 +0000">
-    <title lang="zh">F9 The Fast Saga</title>
-    <desc>Dom Toretto and his crew come together to stop a world-shattering plot by the most skilled assassin and high-performance driver they've ever encountered, who is Dom's forsaken brother.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515030000 +0000" stop="20250515060000 +0000">
-    <title lang="zh">F9 The Fast Saga</title>
-    <desc>Dom Toretto and his crew come together to stop a world-shattering plot by the most skilled assassin and high-performance driver they've ever encountered, who is Dom's forsaken brother.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515060000 +0000" stop="20250515070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a runaway teenage girl is found badly beaten, doctors discover the beating killed her unborn child, and detectives begin to question the father.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515070000 +0000" stop="20250515080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a polygamist's wife is murdered, he fears his testimony in a separate case may have led to her death; a Web site exposes potential witnesses.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515080000 +0000" stop="20250515090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A wealthy teen is found murdered in New York's Central Park, and the clues lead to a gang of homeless children.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515090000 +0000" stop="20250515100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman's body is found in a park alongside a man with a bullet in his head.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515100000 +0000" stop="20250515110000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>A discovery sends Callen and Sam to Africa to investigate; Sam's family is transported to a safe house.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515110000 +0000" stop="20250515120000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>A Cuban spy escapes custody before a scheduled prisoner exchange with his country; Kensi learns that Deeks thinks she's too messy.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515120000 +0000" stop="20250515130000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>The team try to rescue a child who is in danger after being brainwashed by a terrorist.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515130000 +0000" stop="20250515140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives track down two junior-high students in connection with the rape and murder of a cancer patient who's been growing marijuana in her apartment.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515140000 +0000" stop="20250515150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A drug dealer dies in jail after being beaten and sexually assaulted.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515150000 +0000" stop="20250515160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Alexandra Cabot questions a pediatrician (Judd Hirsch) about a dead baby found in a cooler in the East River.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515160000 +0000" stop="20250515170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The life of a law-abiding engineer (Robin Williams) goes terribly wrong, leading him to challenge authority and to urge others to do so as well.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515170000 +0000" stop="20250515180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives suspect a wealthy family of coffee traders when a pregnant woman is found raped and murdered in her burned-out loft.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515180000 +0000" stop="20250515190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Lake, wounded in a gunfight prompted by the reopening of an old murder case, escapes from the hospital and takes hostage the original case's only witness (Victoria Cartagena).</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515190000 +0000" stop="20250515200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An abused foster child (Jae Head), apprehended while driving a runaway van, leads the detectives to re-examine a case involving a rape victim (Sara Gilbert).</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515200000 +0000" stop="20250515210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A teen named Eric admits to looking at a Web site in an attempt to curb pedophilic urges toward his stepbrother; when Eric goes missing, the stepfather (Tom Noonan) is questioned.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515210000 +0000" stop="20250515220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Stabler's job and personal life intertwine when his daughter Kathleen becomes a suspect in a case; after learning that Kathleen may have an emotional disorder, he turns to his estranged mother (Ellen Burstyn) for help.</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515220000 +0000" stop="20250515230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the corpse of a famous astronaut is found floating in the waters of Battery Park, Detectives Benson and Stabler think the murder may be connected to a string of serial rapes; at a dead end, Stabler seeks advice from an old mentor (James Brolin).</desc>
-    <date>2025-05-15</date>
-  </programme>
-  <programme channel="403626" start="20250515230000 +0000" stop="20250516000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>While investigating the death of a teenager, detectives Elliot Stabler and John Munch discover a group of girls in a pregnancy pact.</desc>
-    <date>2025-05-15</date>
-  </programme>
   <programme channel="403626" start="20250516000000 +0000" stop="20250516023000 +0000">
     <title lang="zh">Operation Fortune: Ruse de guerre</title>
     <desc>Elite spy Orson Fortune must track down and stop the sale of a deadly new weapons technology wielded by a billionaire arms broker. Fortune and his crew recruit Hollywood's biggest star to help them on their globe-trotting mission to save the world.</desc>
@@ -129,9 +29,159 @@
     <desc>Detective Lake, wounded in a gunfight prompted by the reopening of an old murder case, escapes from the hospital and takes hostage the original case's only witness (Victoria Cartagena).</desc>
     <date>2025-05-16</date>
   </programme>
-  <programme channel="403626" start="20250516080000 +0000" stop="20250517000000 +0000">
+  <programme channel="403626" start="20250516080000 +0000" stop="20250516090000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>An abused foster child (Jae Head), apprehended while driving a runaway van, leads the detectives to re-examine a case involving a rape victim (Sara Gilbert).</desc>
     <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516090000 +0000" stop="20250516100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A teen named Eric admits to looking at a Web site in an attempt to curb pedophilic urges toward his stepbrother; when Eric goes missing, the stepfather (Tom Noonan) is questioned.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516100000 +0000" stop="20250516110000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 race to the rescue to a renaissance faire; an overbearing boss is poisoned; Athena fears for May's life when she encounters a disturbed young man; Uncle Buck babysits young Jee-Yun as Maddie and Chimney begin house-hunting.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516110000 +0000" stop="20250516120000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The Santa Ana winds bring in a variety of weirder-than-usual emergencies; a family dog retrieves a severed hand; a young woman sleep-drives into the station; Denny questions Hen and Karen about his biological parents.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516120000 +0000" stop="20250516130000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A dry thunderstorm rolls over Los Angeles, bringing in a series of lightning strike emergencies for the 118 and leaves a first responder's life hanging in the balance; Chimney get a surprise from a visiting Albert.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516130000 +0000" stop="20250516140000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>As Buck's life hangs in the balance, he dreams of a world where he never became a firefighter, for better and worse.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516140000 +0000" stop="20250516150000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Despite the case being closed, Bobby is determined to prove his Alcoholics Anonymous sponsor was murdered and bring his killer to justice; Buck struggles with his post-traumatic stress.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516150000 +0000" stop="20250516160000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 faces emergencies at a spin class and a hair salon; a husband and wife find themselves in a compromising position; Buck discovers new cognitive abilities; Hen and Karen find out Denny has been seeing his biological father.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516160000 +0000" stop="20250516170000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 race to emergencies at a commercial bakery and a bodybuilding competition; Bobby's annual performance reviews send Chimney to the firefighter academy, where he runs into a familiar face; Eddie's aunt gets involved in his personal life.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516170000 +0000" stop="20250516180000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A fire breaks out in an accountant's office and a car crashes into a "living funeral"; Athena is shocked when a suspect dies in her custody minutes after she arrests him; Buck is attracted to a death doula; Maddie and Chimney are audited by the IRS.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516180000 +0000" stop="20250516183000 +0000">
+    <title lang="zh">Live: Premier League Live</title>
+    <desc>Discussion and analysis of Premier League soccer.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516183000 +0000" stop="20250516203000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>Aston Villa face Tottenham Hotspur in their final home outing of the season. Aston Villa enter matchround 37 in sixth place, but tied with Chelsea on 63 points. Spurs beat the Villans 4-1 in matchround 10, but Villa won 2-1 in an FA Cup match Feb. 9.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516203000 +0000" stop="20250516210000 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>Weed analysis and photogrammetry are used to help solve the 1995 murder of a California teenager is found dead after disappearing from her home.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516210000 +0000" stop="20250516220000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 race to rescue two roommates desperately trying to find a needle in a haystack at a landfill, and help a woman whose nightmare dream suddenly becomes a painful reality; Athena and Maddie team up to find a missing boy in a crowded mall.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516220000 +0000" stop="20250516230000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A wedding proposal tragically intersects with a bank robbery; a bride is literally stuck on her way to the altar; Athena talks a victim through her grief; Buck finds a surprise visitor on his doorstep.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250516230000 +0000" stop="20250517000000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A series of freeway car accidents leads to a catastrophic overpass collapse that endangers the lives of civilians and members of the 118.</desc>
+    <date>2025-05-16</date>
+  </programme>
+  <programme channel="403626" start="20250517000000 +0000" stop="20250517030000 +0000">
+    <title lang="zh">Live: WWE Friday Night SmackDown</title>
+    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517030000 +0000" stop="20250517040800 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry must rely on Asta and D'arcy for survival, featuring a behind-the-scenes look.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517040800 +0000" stop="20250517050500 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 race to the rescue to a renaissance faire; an overbearing boss is poisoned; Athena fears for May's life when she encounters a disturbed young man; Uncle Buck babysits young Jee-Yun as Maddie and Chimney begin house-hunting.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517050500 +0000" stop="20250517060400 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The Santa Ana winds bring in a variety of weirder-than-usual emergencies; a family dog retrieves a severed hand; a young woman sleep-drives into the station; Denny questions Hen and Karen about his biological parents.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517060400 +0000" stop="20250517070300 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A dry thunderstorm rolls over Los Angeles, bringing in a series of lightning strike emergencies for the 118 and leaves a first responder's life hanging in the balance; Chimney get a surprise from a visiting Albert.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517070300 +0000" stop="20250517080200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When Nichole Payne and her son Taylor are found dead in their home, it takes nearly a decade to unravel what happened; now, Nichole's children share what they saw the day their mother and brother were murdered.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517080200 +0000" stop="20250517090100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The disappearance of 19-year-old Alaska Native Sonya Ivanoff sends shockwaves through the small coastal city of Nome, Alaska; police scramble to find answers until a note is found in a stolen police vehicle telling the cops to back off or else.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517090100 +0000" stop="20250517100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The disappearance of 19-year-old Alaska Native Sonya Ivanoff sends shockwaves through the small coastal city of Nome, Alaska; police scramble to find answers until a note is found in a stolen police vehicle telling the cops to back off or else.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517100000 +0000" stop="20250517110000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Olinsky tries to protect his daughter; a counterfeiting operation is investigated; when a hoarder is arrested, more than clutter is uncovered.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517110000 +0000" stop="20250517120000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Atwater and Burgess must keep their new patrol car in mint condition; the Intelligence Unit uncovers drug smuggling; Voight's behavior toward Lindsay drives her right where he doesn't want her; tensions rise between Olinsky and Ruzek.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517120000 +0000" stop="20250517150000 +0000">
+    <title lang="zh">The Matrix</title>
+    <desc>When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517150000 +0000" stop="20250517180000 +0000">
+    <title lang="zh">The Matrix Reloaded</title>
+    <desc>Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517180000 +0000" stop="20250517210000 +0000">
+    <title lang="zh">The Matrix Revolutions</title>
+    <desc>The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250517210000 +0000" stop="20250518000000 +0000">
+    <title lang="zh">The Matrix</title>
+    <desc>When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.</desc>
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="403626" start="20250518000000 +0000" stop="20250519000000 +0000">
+    <title lang="zh">The Matrix Reloaded</title>
+    <desc>Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.</desc>
+    <date>2025-05-18</date>
   </programme>
 </tv>
