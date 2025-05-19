@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250518101545 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250518.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250518&amp;timezone=None">
+<tv date="20250519113712 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250519.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250519&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250518000000 +0000" stop="20250518030000 +0000">
-    <title lang="zh">The Matrix Reloaded</title>
-    <desc>Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518030000 +0000" stop="20250518060000 +0000">
-    <title lang="zh">The Matrix Revolutions</title>
-    <desc>The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518060000 +0000" stop="20250518070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the accused killer of a teen's mother is released due to lack of evidence, the youth exacts his own justice by killing the man.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518070000 +0000" stop="20250518080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives discover that the body of a young woman, found murdered in her apartment, is that of a lawyer who secretly moonlights as a stripper.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518080000 +0000" stop="20250518090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Stabler's job and personal life intertwine when his daughter Kathleen becomes a suspect in a case; after learning that Kathleen may have an emotional disorder, he turns to his estranged mother (Ellen Burstyn) for help.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518090000 +0000" stop="20250518100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the corpse of a famous astronaut is found floating in the waters of Battery Park, Detectives Benson and Stabler think the murder may be connected to a string of serial rapes; at a dead end, Stabler seeks advice from an old mentor (James Brolin).</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518100000 +0000" stop="20250518103000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>The owner of a restaurant is killed; investigators uncover tales of debt and deceit, but the case remains open, until one detective gets inspired by an earlier episode of "Forensic Files," and looks for clues in an empty holster.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518103000 +0000" stop="20250518110000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518110000 +0000" stop="20250518130000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Everton (9-15-12) bid farewell to Goodison Park as they host Southampton (2-6-28). The Toffees have played at the ground since leaving Anfield in 1892, but move to the newly-built, 52,888-seat Everton Stadium on the Liverpool waterfront next season.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518130000 +0000" stop="20250518131500 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518131500 +0000" stop="20250518151500 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Nottingham Forest try to get it in gear in this trip to play West Ham United. Forest have gone 1-2-3 across their past six Premier League outings to fall out of the top six. West Ham won the last meeting at London Stadium 3-2 on Nov. 12, 2023.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518151500 +0000" stop="20250518153000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518153000 +0000" stop="20250518173000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Newcastle United seek an unprecedented sweep of Arsenal. The Magpies blanked the Gunners 1-0 in league play Nov. 2, 2024, then earned a pair of 2-0 decisions in the League Cup semifinals. Newcastle would leapfrog Arsenal into second with a win.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518173000 +0000" stop="20250518180000 +0000">
-    <title lang="zh">Live: Premier League Goal Zone</title>
-    <desc>The best moments from the weekend in Premier League action.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518180000 +0000" stop="20250518190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a series of rapes is linked to a speed-dating service, Benson goes under cover and discovers Mike Jergens (Dean Cain) is the assailant.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518190000 +0000" stop="20250518200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler suspect the drug-dealing uncle of a girl (Shareeka Epps) found raped and beaten, but the theft of the rape kit identifying her attacker leads them to a crooked prison guard.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518200000 +0000" stop="20250518210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler discover that a murder victim had been involved in the fight to expose questionable practices in the meat-packing industry.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518210000 +0000" stop="20250518220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a stranger assaults an FBI agent (Marcia Gay Harden), she asks Benson to have her rape kit tested; the agent refuses to talk about the incident, fearing she will be pulled off the case she is working.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518220000 +0000" stop="20250518230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler have to get creative when a rape victim's father refuses to help the detectives get the information they need to solve a case.</desc>
-    <date>2025-05-18</date>
-  </programme>
-  <programme channel="403626" start="20250518230000 +0000" stop="20250519000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a young mail-order bride is found dead, the investigation leads the detectives to the Russian mafia.</desc>
-    <date>2025-05-18</date>
-  </programme>
   <programme channel="403626" start="20250519000000 +0000" stop="20250519010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>When Officer Michael Groves ends up in a psych ward after leveling accusations at the 12th Precinct, Internal Affairs asks the team to help investigate.</desc>
@@ -219,9 +119,129 @@
     <desc>A judge asks Benson and Stabler to ask a convicted serial killer about the location of his son's body.</desc>
     <date>2025-05-19</date>
   </programme>
-  <programme channel="403626" start="20250520000000 +0000" stop="20250521000000 +0000">
+  <programme channel="403626" start="20250520000000 +0000" stop="20250520010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>A tourist is found dead with the word "guilty" written on her forehead; Detective Munch is forced to ask his ex-wife (Carol Kane) for help.</desc>
     <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520010000 +0000" stop="20250520020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Officer Nate Kendall (Wentworth Miller) helps a woman in trouble and gets roped into investigating a rape; when evidence connects multiple cases, the team realizes there may be a serial rapist responsible.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520020000 +0000" stop="20250520030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Stabler and Benson suspect a sugar daddy (Matt C. Burns) of murder when a young woman's body is found stuffed inside a suitcase.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520030000 +0000" stop="20250520040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a woman goes missing, her boyfriend points Detectives Benson and Stabler in the direction of convicted bank robber Callum Donovan (Stephen Rea); to comprehend the impact of solitary confinement, Stabler experiences it.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520040000 +0000" stop="20250520050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After a night of drinking, a man (Scott Foley) wakes up with a head injury and a dead woman in his bed; Detectives Benson and Stabler try to piece together the crime by returning to the bar where the night began.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520050000 +0000" stop="20250520060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After a young boy is raped, detectives find out their suspect is the leader of a civil rights group that supports adult-child relationships.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520060000 +0000" stop="20250520070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detective Benson goes into hiding to find justice for an abused housewife (Clea Duvall), uncovering a 34-year-old unsolved murder case in the process.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520070000 +0000" stop="20250520080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A young female Marine goes missing as she is about to give birth to her rapist's child; Olivia struggles with painful flashbacks of her sexual assault.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520080000 +0000" stop="20250520090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler begin to question the story of a missing teenager (Ellen Woglom) who returns home after four years, claiming to have been kept as a sex slave in a concrete cell.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520090000 +0000" stop="20250520100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When the body of a 14-year-old girl is found in the Hudson River, Benson and Stabler think she was smuggled into the country by sex traffickers; in an attempt to identify her, Benson poses as a madam.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520100000 +0000" stop="20250520110000 +0000">
+    <title lang="zh">NCIS: Los Angeles</title>
+    <desc>The team searches for a North Korean spy while assigned to protective details for the commander of the Pacific Command.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520110000 +0000" stop="20250520120000 +0000">
+    <title lang="zh">NCIS: Los Angeles</title>
+    <desc>Operational psychologist Nate Getz's loyalties come into question when he fails to make contact with Hetty while working under cover to establish a link between organized crime and terrorism.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520120000 +0000" stop="20250520130000 +0000">
+    <title lang="zh">NCIS: Los Angeles</title>
+    <desc>Granger escorts Jennifer Kim to Los Angeles; while being questioned about a North Korean spy, Jennifer admits to Granger that she knows he is her father.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520130000 +0000" stop="20250520140000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Following the deaths of three children, Fin realizes they were all "anchor babies" of immigrant families, and he reaches out to the Center of Immigrant Services.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520140000 +0000" stop="20250520150000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler search for a man who is knowingly spreading HIV.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520150000 +0000" stop="20250520160000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler speak to the daughter of a powerful couple who were found murdered in their bedroom.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520160000 +0000" stop="20250520170000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A lesbian-rights activist (Kathy Griffin) claims a woman's death was the result of police neglect; when more women from the activist's group are attacked, it becomes clear that someone has a plan to bring down the group.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520170000 +0000" stop="20250520180000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Several young prostitutes are found dead with homemade prayer cards attached to their bodies; Benson is forced to make a difficult decision.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520180000 +0000" stop="20250520190000 +0000">
+    <title lang="zh">Live: Premier League Live</title>
+    <desc>Discussion and analysis of Premier League soccer.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520190000 +0000" stop="20250520210000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>Manchester City (19-8-9) host AFC Bournemouth (14-11-11). The Cherries snapped a 15-game overall win streak for the Citizens with their first series victory, 2-1 on Nov. 2, 2024. Man City booted Bournemouth from the FA Cup quarterfinals March 30.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520210000 +0000" stop="20250520213000 +0000">
+    <title lang="zh">Live: Premier League Goal Zone</title>
+    <desc>The best moments from the weekend in Premier League action.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520213000 +0000" stop="20250520220000 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>With very little else to go on, investigators find that a show impression puts them on the right track to finding a killer in Lansing, Mich.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520220000 +0000" stop="20250520230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler must determine a murder victim's actual identity when the presumed victim turns up alive.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250520230000 +0000" stop="20250521000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler investigate when a 10-year-old girl goes missing.</desc>
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="403626" start="20250521000000 +0000" stop="20250522000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives try to identify a girl who is so traumatized after being raped that she cannot tell them her name.</desc>
+    <date>2025-05-21</date>
   </programme>
 </tv>
