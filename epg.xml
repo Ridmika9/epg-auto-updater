@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250520105913 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250520.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250520&amp;timezone=None">
+<tv date="20250521102017 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250521.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250521&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250520000000 +0000" stop="20250520010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A tourist is found dead with the word "guilty" written on her forehead; Detective Munch is forced to ask his ex-wife (Carol Kane) for help.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520010000 +0000" stop="20250520020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Officer Nate Kendall (Wentworth Miller) helps a woman in trouble and gets roped into investigating a rape; when evidence connects multiple cases, the team realizes there may be a serial rapist responsible.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520020000 +0000" stop="20250520030000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Benson suspect a sugar daddy (Matt C. Burns) of murder when a young woman's body is found stuffed inside a suitcase.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520030000 +0000" stop="20250520040000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a woman goes missing, her boyfriend points Detectives Benson and Stabler in the direction of convicted bank robber Callum Donovan (Stephen Rea); to comprehend the impact of solitary confinement, Stabler experiences it.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520040000 +0000" stop="20250520050000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a night of drinking, a man (Scott Foley) wakes up with a head injury and a dead woman in his bed; Detectives Benson and Stabler try to piece together the crime by returning to the bar where the night began.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520050000 +0000" stop="20250520060000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a young boy is raped, detectives find out their suspect is the leader of a civil rights group that supports adult-child relationships.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520060000 +0000" stop="20250520070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Benson goes into hiding to find justice for an abused housewife (Clea Duvall), uncovering a 34-year-old unsolved murder case in the process.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520070000 +0000" stop="20250520080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A young female Marine goes missing as she is about to give birth to her rapist's child; Olivia struggles with painful flashbacks of her sexual assault.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520080000 +0000" stop="20250520090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler begin to question the story of a missing teenager (Ellen Woglom) who returns home after four years, claiming to have been kept as a sex slave in a concrete cell.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520090000 +0000" stop="20250520100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the body of a 14-year-old girl is found in the Hudson River, Benson and Stabler think she was smuggled into the country by sex traffickers; in an attempt to identify her, Benson poses as a madam.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520100000 +0000" stop="20250520110000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>The team searches for a North Korean spy while assigned to protective details for the commander of the Pacific Command.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520110000 +0000" stop="20250520120000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>Operational psychologist Nate Getz's loyalties come into question when he fails to make contact with Hetty while working under cover to establish a link between organized crime and terrorism.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520120000 +0000" stop="20250520130000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>Granger escorts Jennifer Kim to Los Angeles; while being questioned about a North Korean spy, Jennifer admits to Granger that she knows he is her father.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520130000 +0000" stop="20250520140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Following the deaths of three children, Fin realizes they were all "anchor babies" of immigrant families, and he reaches out to the Center of Immigrant Services.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520140000 +0000" stop="20250520150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler search for a man who is knowingly spreading HIV.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520150000 +0000" stop="20250520160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler speak to the daughter of a powerful couple who were found murdered in their bedroom.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520160000 +0000" stop="20250520170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A lesbian-rights activist (Kathy Griffin) claims a woman's death was the result of police neglect; when more women from the activist's group are attacked, it becomes clear that someone has a plan to bring down the group.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520170000 +0000" stop="20250520180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Several young prostitutes are found dead with homemade prayer cards attached to their bodies; Benson is forced to make a difficult decision.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520180000 +0000" stop="20250520190000 +0000">
-    <title lang="zh">Live: Premier League Live</title>
-    <desc>Discussion and analysis of Premier League soccer.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520190000 +0000" stop="20250520210000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Manchester City (19-8-9) host AFC Bournemouth (14-11-11). The Cherries snapped a 15-game overall win streak for the Citizens with their first series victory, 2-1 on Nov. 2, 2024. Man City booted Bournemouth from the FA Cup quarterfinals March 30.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520210000 +0000" stop="20250520213000 +0000">
-    <title lang="zh">Live: Premier League Goal Zone</title>
-    <desc>The best moments from the weekend in Premier League action.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520213000 +0000" stop="20250520220000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>With very little else to go on, investigators find that a show impression puts them on the right track to finding a killer in Lansing, Mich.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520220000 +0000" stop="20250520230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler must determine a murder victim's actual identity when the presumed victim turns up alive.</desc>
-    <date>2025-05-20</date>
-  </programme>
-  <programme channel="403626" start="20250520230000 +0000" stop="20250521000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler investigate when a 10-year-old girl goes missing.</desc>
-    <date>2025-05-20</date>
-  </programme>
   <programme channel="403626" start="20250521000000 +0000" stop="20250521010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>Detectives try to identify a girl who is so traumatized after being raped that she cannot tell them her name.</desc>
@@ -244,9 +124,59 @@
     <desc>Burgess works an extra shift at the 13th District and gets caught in the middle of a drive-by attack on refugees; the team works together to track down the shooter and uncover the true motive behind the attack.</desc>
     <date>2025-05-21</date>
   </programme>
-  <programme channel="403626" start="20250522000000 +0000" stop="20250523000000 +0000">
+  <programme channel="403626" start="20250522000000 +0000" stop="20250522032600 +0000">
     <title lang="zh">Harry Potter and the Sorcerer's Stone</title>
     <desc>On his 11th birthday Harry Potter learns he is the orphaned son of two wizards and is invited to attend Hogwarts School of Witchcraft &amp; Wizardry where he embarks on the adventure of a lifetime.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522032600 +0000" stop="20250522070000 +0000">
+    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
+    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522070000 +0000" stop="20250522080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler speak to the daughter of a powerful couple who were found murdered in their bedroom.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522080000 +0000" stop="20250522090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler must determine a murder victim's actual identity when the presumed victim turns up alive.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522090000 +0000" stop="20250522100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler investigate when a 10-year-old girl goes missing.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522100000 +0000" stop="20250522105800 +0000">
+    <title lang="zh">NCIS: Los Angeles</title>
+    <desc>When secret information about suspected terrorists goes missing from a secure Department of Defense container at the site of a fire, Sam and Callen must go under cover to investigate.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522105800 +0000" stop="20250522115600 +0000">
+    <title lang="zh">NCIS: Los Angeles</title>
+    <desc>When Sam gets a distress code from his son Aiden saying his school is being taken over by an extremist group, the team rushes to San Francisco to free the hostages and protect Aiden.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522115600 +0000" stop="20250522145400 +0000">
+    <title lang="zh">Fantastic Beasts: The Crimes of Grindelwald</title>
+    <desc>The second installment of the Fantastic Beasts series featuring the adventures of Magizoologist Newt Scamander.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522145400 +0000" stop="20250522180100 +0000">
+    <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
+    <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522180100 +0000" stop="20250522212700 +0000">
+    <title lang="zh">Harry Potter and the Sorcerer's Stone</title>
+    <desc>On his 11th birthday Harry Potter learns he is the orphaned son of two wizards and is invited to attend Hogwarts School of Witchcraft &amp; Wizardry where he embarks on the adventure of a lifetime.</desc>
+    <date>2025-05-22</date>
+  </programme>
+  <programme channel="403626" start="20250522212700 +0000" stop="20250523000000 +0000">
+    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
+    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
     <date>2025-05-22</date>
   </programme>
 </tv>
