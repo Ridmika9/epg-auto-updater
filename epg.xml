@@ -1,64 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250522102146 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250522.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250522&amp;timezone=None">
+<tv date="20250523113059 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250523.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250523&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250522000000 +0000" stop="20250522032600 +0000">
-    <title lang="zh">Harry Potter and the Sorcerer's Stone</title>
-    <desc>On his 11th birthday Harry Potter learns he is the orphaned son of two wizards and is invited to attend Hogwarts School of Witchcraft &amp; Wizardry where he embarks on the adventure of a lifetime.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522032600 +0000" stop="20250522070000 +0000">
-    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
-    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522070000 +0000" stop="20250522080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler speak to the daughter of a powerful couple who were found murdered in their bedroom.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522080000 +0000" stop="20250522090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler must determine a murder victim's actual identity when the presumed victim turns up alive.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522090000 +0000" stop="20250522100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler investigate when a 10-year-old girl goes missing.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522100000 +0000" stop="20250522105800 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>When secret information about suspected terrorists goes missing from a secure Department of Defense container at the site of a fire, Sam and Callen must go under cover to investigate.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522105800 +0000" stop="20250522115600 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>When Sam gets a distress code from his son Aiden saying his school is being taken over by an extremist group, the team rushes to San Francisco to free the hostages and protect Aiden.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522115600 +0000" stop="20250522145400 +0000">
-    <title lang="zh">Fantastic Beasts: The Crimes of Grindelwald</title>
-    <desc>The second installment of the Fantastic Beasts series featuring the adventures of Magizoologist Newt Scamander.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522145400 +0000" stop="20250522180100 +0000">
-    <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
-    <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522180100 +0000" stop="20250522212700 +0000">
-    <title lang="zh">Harry Potter and the Sorcerer's Stone</title>
-    <desc>On his 11th birthday Harry Potter learns he is the orphaned son of two wizards and is invited to attend Hogwarts School of Witchcraft &amp; Wizardry where he embarks on the adventure of a lifetime.</desc>
-    <date>2025-05-22</date>
-  </programme>
-  <programme channel="403626" start="20250522212700 +0000" stop="20250523000000 +0000">
-    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
-    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
-    <date>2025-05-22</date>
-  </programme>
   <programme channel="403626" start="20250523010100 +0000" stop="20250523040400 +0000">
     <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
     <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
@@ -94,9 +39,49 @@
     <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
     <date>2025-05-23</date>
   </programme>
-  <programme channel="403626" start="20250524000000 +0000" stop="20250525000000 +0000">
+  <programme channel="403626" start="20250524000000 +0000" stop="20250524030000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524030000 +0000" stop="20250524040700 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta attend an alien convention, featuring a behind-the-scenes look.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524040700 +0000" stop="20250524070000 +0000">
+    <title lang="zh">Fantastic Beasts: The Crimes of Grindelwald</title>
+    <desc>The second installment of the Fantastic Beasts series featuring the adventures of Magizoologist Newt Scamander.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524070000 +0000" stop="20250524103000 +0000">
+    <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
+    <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524103000 +0000" stop="20250524133200 +0000">
+    <title lang="zh">Harry Potter and the Order of the Phoenix</title>
+    <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524133200 +0000" stop="20250524165800 +0000">
+    <title lang="zh">Harry Potter and the Half-Blood Prince</title>
+    <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524165800 +0000" stop="20250524200400 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524200400 +0000" stop="20250524225900 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250524225900 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
     <date>2025-05-24</date>
   </programme>
 </tv>
