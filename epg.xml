@@ -1,44 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250523113059 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250523.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250523&amp;timezone=None">
+<tv date="20250524105512 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250524.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250524&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250523010100 +0000" stop="20250523040400 +0000">
-    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
-    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme channel="403626" start="20250523040400 +0000" stop="20250523073000 +0000">
-    <title lang="zh">Harry Potter and the Goblet of Fire</title>
-    <desc>During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme channel="403626" start="20250523073000 +0000" stop="20250523110000 +0000">
-    <title lang="zh">Harry Potter and the Sorcerer's Stone</title>
-    <desc>On his 11th birthday Harry Potter learns he is the orphaned son of two wizards and is invited to attend Hogwarts School of Witchcraft &amp; Wizardry where he embarks on the adventure of a lifetime.</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme channel="403626" start="20250523110000 +0000" stop="20250523143100 +0000">
-    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
-    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme channel="403626" start="20250523143100 +0000" stop="20250523173200 +0000">
-    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
-    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme channel="403626" start="20250523173200 +0000" stop="20250523205800 +0000">
-    <title lang="zh">Harry Potter and the Goblet of Fire</title>
-    <desc>During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
-    <date>2025-05-23</date>
-  </programme>
-  <programme channel="403626" start="20250523205800 +0000" stop="20250524000000 +0000">
-    <title lang="zh">Harry Potter and the Order of the Phoenix</title>
-    <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
-    <date>2025-05-23</date>
-  </programme>
   <programme channel="403626" start="20250524000000 +0000" stop="20250524030000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
@@ -83,5 +48,105 @@
     <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
     <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
     <date>2025-05-24</date>
+  </programme>
+  <programme channel="403626" start="20250525020500 +0000" stop="20250525050000 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525050000 +0000" stop="20250525060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The creator of a dating app is accused of using it to rape women; Velasco's experience as an SVU detective is put on trial.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525060000 +0000" stop="20250525070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives try to identify a girl who is so traumatized after being raped that she cannot tell them her name.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525070000 +0000" stop="20250525080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler help a repeat rape victim (Jennifer Love Hewitt) stand up to her attacker; the investigation leads Benson to Los Angeles, where she meets a detective (Skeet Ulrich) with information that could help the victim get justice.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525080000 +0000" stop="20250525090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A teenage girl's death in a hit-and-run accident leads Benson and Stabler to a human trafficking ring; Cragen becomes frustrated by his crumbling precinct.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525090000 +0000" stop="20250525100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When Benson and Stabler investigate a young woman's rape and murder, the case puts them in the line of fire and exposes a larger mystery that includes more victims.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525100000 +0000" stop="20250525110000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry the alien is back on Earth and doesn't remember who he is, and only Asta can keep him safe.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525110000 +0000" stop="20250525120000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry has a plan to save Asta and himself but he must first attend the Sheriff's poker game.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525120000 +0000" stop="20250525130000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry meets a woman unlike any other and realizes that she is the key to his new mission.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525130000 +0000" stop="20250525140000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Asta is concerned Harry is building another bomb and hopes to find out when they go camping on the reservation.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525140000 +0000" stop="20250525150000 +0000">
+    <title lang="zh">Live: Premier League Mornings</title>
+    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525150000 +0000" stop="20250525170000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>Nottingham Forest and Chelsea meet in a crucial Premier League finale. Forest would overtake the Blues with a win, securing at least a Europa League berth. Chelsea faces Spanish side Real Betis in the UEFA Conference League final on May 28 in Poland.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525170000 +0000" stop="20250525180000 +0000">
+    <title lang="zh">Live: Premier League Goal Zone</title>
+    <desc>The best moments from the weekend in Premier League action.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525180000 +0000" stop="20250525190000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>As the investigation into a sex-for-housing scheme expands, Benson's loyalty to Garland is tested; Rollins and Carisi try to keep their witnesses on board when a powerful congressman is identified as a suspect.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525190000 +0000" stop="20250525200000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The search for a missing witness leads Fin and Kat down a dangerous path; Chief McGrath puts pressure on Garland and Benson to get a conviction.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525200000 +0000" stop="20250525210000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU searches for a serial rapist who preys on mothers with young children; Benson and Fin struggle under the tightened reins of Chief McGrath.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525210000 +0000" stop="20250525220000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The creator of a dating app is accused of using it to rape women; Velasco's experience as an SVU detective is put on trial.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525220000 +0000" stop="20250525230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Velasco asks Benson for help finding three girls who were trafficked from his hometown to New York City.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250525230000 +0000" stop="20250526000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Carisi must tread carefully when Maxwell's husband becomes a person of interest in an SVU investigation; Benson sends Velasco to take an old friend into custody.</desc>
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="403626" start="20250526000000 +0000" stop="20250527000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>To identify a woman's attacker, the SVU must track down a mysterious suspect targeting tourists staying in hostels.</desc>
+    <date>2025-05-26</date>
   </programme>
 </tv>
