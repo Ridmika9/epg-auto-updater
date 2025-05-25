@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250524105512 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250524.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250524&amp;timezone=None">
+<tv date="20250525113722 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250525.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250525&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250524000000 +0000" stop="20250524030000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-05-24</date>
-  </programme>
-  <programme channel="403626" start="20250524030000 +0000" stop="20250524040700 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and Asta attend an alien convention, featuring a behind-the-scenes look.</desc>
-    <date>2025-05-24</date>
-  </programme>
-  <programme channel="403626" start="20250524040700 +0000" stop="20250524070000 +0000">
-    <title lang="zh">Fantastic Beasts: The Crimes of Grindelwald</title>
-    <desc>The second installment of the Fantastic Beasts series featuring the adventures of Magizoologist Newt Scamander.</desc>
-    <date>2025-05-24</date>
-  </programme>
-  <programme channel="403626" start="20250524070000 +0000" stop="20250524103000 +0000">
-    <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
-    <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
-    <date>2025-05-24</date>
-  </programme>
-  <programme channel="403626" start="20250524103000 +0000" stop="20250524133200 +0000">
-    <title lang="zh">Harry Potter and the Order of the Phoenix</title>
-    <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
-    <date>2025-05-24</date>
-  </programme>
-  <programme channel="403626" start="20250524133200 +0000" stop="20250524165800 +0000">
-    <title lang="zh">Harry Potter and the Half-Blood Prince</title>
-    <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
-    <date>2025-05-24</date>
-  </programme>
-  <programme channel="403626" start="20250524165800 +0000" stop="20250524200400 +0000">
-    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
-    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
-    <date>2025-05-24</date>
-  </programme>
-  <programme channel="403626" start="20250524200400 +0000" stop="20250524225900 +0000">
-    <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
-    <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
-    <date>2025-05-24</date>
-  </programme>
-  <programme channel="403626" start="20250524225900 +0000" stop="20250525000000 +0000">
-    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
-    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
-    <date>2025-05-24</date>
-  </programme>
   <programme channel="403626" start="20250525020500 +0000" stop="20250525050000 +0000">
     <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
     <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
@@ -144,9 +99,129 @@
     <desc>Carisi must tread carefully when Maxwell's husband becomes a person of interest in an SVU investigation; Benson sends Velasco to take an old friend into custody.</desc>
     <date>2025-05-25</date>
   </programme>
-  <programme channel="403626" start="20250526000000 +0000" stop="20250527000000 +0000">
+  <programme channel="403626" start="20250526000000 +0000" stop="20250526010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>To identify a woman's attacker, the SVU must track down a mysterious suspect targeting tourists staying in hostels.</desc>
     <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526010000 +0000" stop="20250526020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A brutal assault in the street leads Carisi to pursue hate crime charges; Benson must support a homebound witness who is too scared to speak up.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526020000 +0000" stop="20250526031400 +0000">
+    <title lang="zh">The Day of the Jackal</title>
+    <desc>When his previous client backs out of payment, the Jackal's reputation is on the line and he plots revenge.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526031400 +0000" stop="20250526041200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A group of teens terrorizing tourists has the SVU squad working overtime; McGrath teams them up with the Bronx gang unit to track down a crucial lead.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526041200 +0000" stop="20250526051000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A young man asks the SVU for help when he suspects his boss is preying on his sister; Velasco tries to convince a reluctant witness to testify in court.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526051000 +0000" stop="20250526060800 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson tries to help a student after she's assaulted on a field trip; Fin suspects a witness in the case may not be telling the whole truth.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526060800 +0000" stop="20250526070600 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry the alien is back on Earth and doesn't remember who he is, and only Asta can keep him safe.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526070600 +0000" stop="20250526080400 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry has a plan to save Asta and himself but he must first attend the Sheriff's poker game.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526080400 +0000" stop="20250526090200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry meets a woman unlike any other and realizes that she is the key to his new mission.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526090200 +0000" stop="20250526100000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Asta is concerned Harry is building another bomb and hopes to find out when they go camping on the reservation.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526100000 +0000" stop="20250526110000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta's trip is interrupted by an uninvited relative as the town celebrates family.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526110000 +0000" stop="20250526120000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta travel to New York looking for one of his people, but things go horribly wrong.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526120000 +0000" stop="20250526130000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta find what they are looking for, but not what they need, as danger closes in.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526130000 +0000" stop="20250526140000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>It's a surprise party as everyone gathers to celebrate Harry, but some dangerous guests cause havoc.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526140000 +0000" stop="20250526150000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Asta is overwhelmed with guilt after she, Harry, and D'arcy get rid of the dead body.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526150000 +0000" stop="20250526160000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Asta helps Harry learn how to deal with his newfound fear of death.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526160000 +0000" stop="20250526170000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Asta tells Dan about the shooting; Harry learns what it takes to be a good friend.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526170000 +0000" stop="20250526180000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Halloween comes to Patience, and Harry sheds his human mask.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526180000 +0000" stop="20250526190000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>After losing the alien baby, Harry learns which alien race is on Earth and it's not what he expected.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526190000 +0000" stop="20250526200000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry goes head-to-head with one of his biggest enemies.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526200000 +0000" stop="20250526210000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry has an unexpected partner as he tries to infiltrate a military base to find his alien baby.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526210000 +0000" stop="20250526220000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry comes face to face with his greatest enemy and makes a choice that may affect Earth forever.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526220000 +0000" stop="20250526230000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>In an attempt to gather information on the Grey Aliens, Harry puts Asta in harm's way.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250526230000 +0000" stop="20250527000000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>D'arcy inserts herself into Harry's mission, while Kate grows more uncomfortable in her own home.</desc>
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="403626" start="20250527000000 +0000" stop="20250528000000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry tags along on Ben, Kate and Max's family trip, hoping the mayor will lead him to answers.</desc>
+    <date>2025-05-27</date>
   </programme>
 </tv>
