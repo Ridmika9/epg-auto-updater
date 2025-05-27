@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250526095652 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250526.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250526&amp;timezone=None">
+<tv date="20250527095225 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250527.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250527&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250526000000 +0000" stop="20250526010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>To identify a woman's attacker, the SVU must track down a mysterious suspect targeting tourists staying in hostels.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526010000 +0000" stop="20250526020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A brutal assault in the street leads Carisi to pursue hate crime charges; Benson must support a homebound witness who is too scared to speak up.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526020000 +0000" stop="20250526031400 +0000">
-    <title lang="zh">The Day of the Jackal</title>
-    <desc>When his previous client backs out of payment, the Jackal's reputation is on the line and he plots revenge.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526031400 +0000" stop="20250526041200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A group of teens terrorizing tourists has the SVU squad working overtime; McGrath teams them up with the Bronx gang unit to track down a crucial lead.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526041200 +0000" stop="20250526051000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A young man asks the SVU for help when he suspects his boss is preying on his sister; Velasco tries to convince a reluctant witness to testify in court.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526051000 +0000" stop="20250526060800 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson tries to help a student after she's assaulted on a field trip; Fin suspects a witness in the case may not be telling the whole truth.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526060800 +0000" stop="20250526070600 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry the alien is back on Earth and doesn't remember who he is, and only Asta can keep him safe.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526070600 +0000" stop="20250526080400 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry has a plan to save Asta and himself but he must first attend the Sheriff's poker game.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526080400 +0000" stop="20250526090200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry meets a woman unlike any other and realizes that she is the key to his new mission.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526090200 +0000" stop="20250526100000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Asta is concerned Harry is building another bomb and hopes to find out when they go camping on the reservation.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526100000 +0000" stop="20250526110000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and Asta's trip is interrupted by an uninvited relative as the town celebrates family.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526110000 +0000" stop="20250526120000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and Asta travel to New York looking for one of his people, but things go horribly wrong.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526120000 +0000" stop="20250526130000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and Asta find what they are looking for, but not what they need, as danger closes in.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526130000 +0000" stop="20250526140000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>It's a surprise party as everyone gathers to celebrate Harry, but some dangerous guests cause havoc.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526140000 +0000" stop="20250526150000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Asta is overwhelmed with guilt after she, Harry, and D'arcy get rid of the dead body.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526150000 +0000" stop="20250526160000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Asta helps Harry learn how to deal with his newfound fear of death.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526160000 +0000" stop="20250526170000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Asta tells Dan about the shooting; Harry learns what it takes to be a good friend.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526170000 +0000" stop="20250526180000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Halloween comes to Patience, and Harry sheds his human mask.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526180000 +0000" stop="20250526190000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>After losing the alien baby, Harry learns which alien race is on Earth and it's not what he expected.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526190000 +0000" stop="20250526200000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry goes head-to-head with one of his biggest enemies.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526200000 +0000" stop="20250526210000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry has an unexpected partner as he tries to infiltrate a military base to find his alien baby.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526210000 +0000" stop="20250526220000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry comes face to face with his greatest enemy and makes a choice that may affect Earth forever.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526220000 +0000" stop="20250526230000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>In an attempt to gather information on the Grey Aliens, Harry puts Asta in harm's way.</desc>
-    <date>2025-05-26</date>
-  </programme>
-  <programme channel="403626" start="20250526230000 +0000" stop="20250527000000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>D'arcy inserts herself into Harry's mission, while Kate grows more uncomfortable in her own home.</desc>
-    <date>2025-05-26</date>
-  </programme>
   <programme channel="403626" start="20250527000000 +0000" stop="20250527010000 +0000">
     <title lang="zh">Resident Alien</title>
     <desc>Harry tags along on Ben, Kate and Max's family trip, hoping the mayor will lead him to answers.</desc>
@@ -249,9 +129,129 @@
     <desc>After a baby is found on a playground, Detectives Stabler and Benson look for the child's caregiver.</desc>
     <date>2025-05-27</date>
   </programme>
-  <programme channel="403626" start="20250528000000 +0000" stop="20250529000000 +0000">
+  <programme channel="403626" start="20250528000000 +0000" stop="20250528010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>When a teenage girl disappears, the squad discovers a suspect who seems to be targeting young, vulnerable women with a similar personal connection; Dr. Huang delves into his past in order to help solve the case.</desc>
     <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528010000 +0000" stop="20250528020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Voight and members of the Chicago PD travel to New York to help SVU pursue Yates, their prime suspect in a rape/murder case.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528020000 +0000" stop="20250528030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detective Rollins hopes to elicit a confession from serial killer Gregory Yates (Dallas Roberts) when a body washes up on the beach where he buried victims, but the information he provides sends shock waves through the police department.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528030000 +0000" stop="20250528040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives continue to investigate a woman's murder and dismemberment by following a lead provided by serial killer Gregory Yates.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528040000 +0000" stop="20250528050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a young woman accuses a celebrity plastic surgeon and his girlfriend of sexual assault, Benson and the team must determine if the woman was attacked or if it was a night of sex games gone wrong.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528050000 +0000" stop="20250528060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU helps a man come to terms with being victimized; Benson tries to support a victim's family when tragedy strikes twice.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528060000 +0000" stop="20250528070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>An 18-year-old girl (Kelly Hutchinson) brings molestation charges against her father (Brian Kerwin) after therapy uncovers repressed memories of abuse, despite his claims that the allegations are false.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528070000 +0000" stop="20250528080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives launch a search for a serial killer who raped and murdered two women in Central Park. Michael Gross guest stars.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528080000 +0000" stop="20250528090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler hunt for the fiend who raped and impregnated a comatose patient; the trail leads them to a doctor (Bruce Davison) whose stem cell research is funded by a billionaire with Parkinson's disease.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528090000 +0000" stop="20250528100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A murdered 14-year-old girl leads the detectives to a prominent physician who specializes in reproduction therapy.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528100000 +0000" stop="20250528110000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Ruzek's father, Bob, goes missing, and the team races to find him before it's too late.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528110000 +0000" stop="20250528120000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>A wellness check on a family reveals signs of foul play, and Detective Upton is determined to find the parents and young daughter; as she delves further into the troubled family dynamics, she reflects on her own childhood trauma.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528120000 +0000" stop="20250528130000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>The team pursues a crafty serial rapist; Sgt. Voight finds himself resisting some old, familiar tendencies in his quest for justice.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528130000 +0000" stop="20250528140000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>After a series of brutal home-invasion robberies, Upton immerses herself in the case and finds herself caught between Voight and Halstead.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528140000 +0000" stop="20250528150000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Voight and the team pursue a ruthless crime ring whose business has hit close to home; as they dig deeper, the extent of the danger becomes more apparent; Deputy Superintendent Samantha Miller second-guesses her decisions.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528150000 +0000" stop="20250528160000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Voight and the team muster all their expertise to bring down a deadly crime ring; Burgess finds herself in a dangerous situation.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528160000 +0000" stop="20250528170000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Burgess fights for her life as the team scrambles to find her kidnapper; Dep. Supt. Sam Miller is desperate to find her son's killer; Voight and Upton deal with the aftermath of their decision; Ruzek struggles with the pressure of the situation.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528170000 +0000" stop="20250528180000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A series of false alarms at a private school hinders 51's ability to respond to legitimate emergencies; Kidd asks for ideas to surprise Severide on his birthday; Cruz and Brett rent out their extra room but get more than they bargained for.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528180000 +0000" stop="20250528190000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>The surprising arrival of a new fire truck brings both joy and chaos to members of Firehouse 51; Boden and Severide are asked to make peace with an old foe for the greater good; Brett receives family news while Foster plans a party with friends.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528190000 +0000" stop="20250528200000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A series of mysterious gas leaks has members of Firehouse 51 puzzled and spread thin; Brett's conflicted when her birth mother gets serious about finding her; Severide misunderstands his role as Cruz's best man; Mouch bites off more than he can chew.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528200000 +0000" stop="20250528210000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A series of teen opioid overdoses sees Severide partner with Sean Roman, but he begins to suspect there's more to the story than his old friend is telling him; Casey tries to be there for Brett as she considers her birth mother's offer to meet.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528210000 +0000" stop="20250528220000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Boden is on edge after starting a new fad diet; Casey and Severide disagree on a call; Brett's birth mother shares life-altering news; a familiar face has a proposition for Herrmann.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528220000 +0000" stop="20250528230000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Things get personal for Casey and Gallo in the aftermath of a suburban house fire involving a mother and her young son; Herrmann campaigns for more respect; Kidd has an idea for giving back to her community.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250528230000 +0000" stop="20250529000000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Severide teams up with Seager and the OFI when a motel structure fire turns suspicious; Firehouse 51 members become amateur sleuths following a Reddit post involving one of their own; Brett continues to get invested in her birth mother, Julie.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="403626" start="20250529000000 +0000" stop="20250530000000 +0000">
+    <title lang="zh">Any Given Sunday</title>
+    <desc>A football head coach (Al Pacino) and an aging quarterback (Dennis Quaid) clash with the new, contemporary, money-oriented owner (Cameron Diaz) of their team.</desc>
+    <date>2025-05-29</date>
   </programme>
 </tv>
