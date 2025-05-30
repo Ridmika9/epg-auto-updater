@@ -1,94 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250529095409 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250529.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250529&amp;timezone=None">
+<tv date="20250530095207 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250530&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250529000000 +0000" stop="20250529033000 +0000">
-    <title lang="zh">Any Given Sunday</title>
-    <desc>A football head coach (Al Pacino) and an aging quarterback (Dennis Quaid) clash with the new, contemporary, money-oriented owner (Cameron Diaz) of their team.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529033000 +0000" stop="20250529043000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>As Firehouse 51 welcomes a new member to the team, whose presence could provide some complications, Brett's leadership shines during a scary call; Boden sees great potential in Kidd and proposes an idea that could have lasting repercussions.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529043000 +0000" stop="20250529053000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Brett and Mackey find their lives in peril; Casey and Brett tread in unfamiliar territory; Severide chases a memory while Kidd adeptly solves a firehouse problem; Ritter puts himself in harm's way during a harrowing call.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529053000 +0000" stop="20250529060000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>Investigators piece together evidence found at the scene of a Native American woman's murder; the tyre tracks and shoe impressions could lead them to the killer.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529060000 +0000" stop="20250529070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A dead newborn leads detectives to a dermatologist, then a serial pedophile.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529070000 +0000" stop="20250529080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman claiming to have been the victim of rape commits suicide while she is still in the emergency room.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529080000 +0000" stop="20250529090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a missing 5-year-old boy is found dead, suspicion falls on his unstable 13-year-old neighbor, whose mental problems began after he was abused at a camp recommended by the dead child's father.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529090000 +0000" stop="20250529100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The dismembered body of a woman is found in a junkyard, and detectives must determine who killed her and who attempted to harvest organs from her corpse.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529100000 +0000" stop="20250529110000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Stabler's former partner (Sharon Stone) is put on the case when two young sisters are killed in a fire.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529110000 +0000" stop="20250529120000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Capt. Cragen begins a movement to catch a man who has raped three girls; after a rookie cop makes an arrest in the case, it is discovered the so-called rookie has some secrets.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529120000 +0000" stop="20250529130000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An 8-year-old boy is kidnapped; members of the SVU team are in a dangerous standoff; shocking details about ADA Jo Marlowe's (Sharon Stone) past come to light.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529130000 +0000" stop="20250529140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman with a seemingly squeaky-clean image is found dead in a fountain; further investigation reveals a surprising motive and multiple suspects.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529140000 +0000" stop="20250529150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Benson seek a connection between two men who are beaten and branded with a wire hanger in seemingly separate incidents.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529150000 +0000" stop="20250529160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A girl at Detective Stabler's daughter's school accuses another student of rape; ADA Paxton (Christine Lahti) returns to prosecute.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529160000 +0000" stop="20250529220000 +0000">
-    <title lang="zh">Live: 2025 U.S. Women's Open Golf Championship</title>
-    <desc>The first round of the U.S. Women's Open is underway at Erin Hills Golf Course in Erin, Wis.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529220000 +0000" stop="20250529230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler's investigation into a sexual abuse case goes awry when their wealthy suspect involves his lawyer.</desc>
-    <date>2025-05-29</date>
-  </programme>
-  <programme channel="403626" start="20250529230000 +0000" stop="20250530000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Stabler and Tutuola search for a victim and her attacker after video of a sexual assault is featured on a college campus Intranet feed.</desc>
-    <date>2025-05-29</date>
-  </programme>
   <programme channel="403626" start="20250530000000 +0000" stop="20250530010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>Detectives Benson and Stabler work with a sex therapist, Capt. Jackson (Jeremy Irons), when a young girl is murdered.</desc>
@@ -169,9 +84,74 @@
     <desc>New York City becomes the bullet-riddled playground of a former assassin (Keanu Reeves) as he hunts down the Russian mobsters who destroyed everything he held dear.</desc>
     <date>2025-05-30</date>
   </programme>
-  <programme channel="403626" start="20250531000000 +0000" stop="20250601000000 +0000">
+  <programme channel="403626" start="20250531000000 +0000" stop="20250531030000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531030000 +0000" stop="20250531040800 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>On the verge of completing his mission, Harry faces his own humanity, featuring a behind-the-scenes look.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531040800 +0000" stop="20250531050500 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A massive earthquake rocks Los Angeles; the first responders rush to rescue victims from a crumbling high-rise hotel; Athena must deal with wreckage from a collapsed freeway overpass; Maddie faces her first crisis as a 911 dispatcher.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531050500 +0000" stop="20250531060400 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The first responders continue to deal with the fallout of a massive earthquake; Athena tries to keep the peace as Bobby and team continue to rescue victims from a collapsing high-rise hotel; Maddie must help a pregnant couple deliver their baby.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531060400 +0000" stop="20250531070300 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The first responders race to rescue victims trapped in various tight spots; Athena contemplates accepting a promotion that will take her out of the field; Chimney finally deals with the aftermath of his near fatal car crash.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531070300 +0000" stop="20250531080200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A Kentucky man is convicted of murdering his co-worker; the mystery is considered solved until a stunning disclosure years later turns the closed case upside down.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531080200 +0000" stop="20250531090100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The remains of 11 female bodies are found in the desert outside of Albuquerque, N.M.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531090100 +0000" stop="20250531100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The remains of 11 female bodies are found in the desert outside of Albuquerque, N.M.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531100000 +0000" stop="20250531124500 +0000">
+    <title lang="zh">John Wick: Chapter 2</title>
+    <desc>Legendary hit man John Wick comes out of retirement when a former associate plots to seize control of an international assassins' guild. Bound by a blood oath to help him, Wick travels to Rome to square off against the world's deadliest killers.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531124500 +0000" stop="20250531154500 +0000">
+    <title lang="zh">John Wick: Chapter 3 -- Parabellum</title>
+    <desc>Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531154500 +0000" stop="20250531174500 +0000">
+    <title lang="zh">John Wick</title>
+    <desc>New York City becomes the bullet-riddled playground of a former assassin (Keanu Reeves) as he hunts down the Russian mobsters who destroyed everything he held dear.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531174500 +0000" stop="20250531203000 +0000">
+    <title lang="zh">John Wick: Chapter 2</title>
+    <desc>Legendary hit man John Wick comes out of retirement when a former associate plots to seize control of an international assassins' guild. Bound by a blood oath to help him, Wick travels to Rome to square off against the world's deadliest killers.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531203000 +0000" stop="20250531232800 +0000">
+    <title lang="zh">John Wick: Chapter 3 -- Parabellum</title>
+    <desc>Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="403626" start="20250531232800 +0000" stop="20250601000000 +0000">
+    <title lang="zh">John Wick: Chapter 4</title>
+    <desc>With the price on his head ever increasing, legendary hit man John Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Japan to Berlin.</desc>
     <date>2025-05-31</date>
   </programme>
 </tv>
