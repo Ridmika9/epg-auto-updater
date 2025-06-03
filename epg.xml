@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250602111439 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250602.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250602&amp;timezone=None">
+<tv date="20250603095611 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250603.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250603&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250602000000 +0000" stop="20250602010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When an infant goes missing, members of the SVU find themselves taking sides in a family's right-to-die court case; Barba's interference in the case puts the entire DA's office in jeopardy.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602010000 +0000" stop="20250602020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The squad spends New Year's Eve tracking down an Amber Alert, and Carisi faces off against counselor Rafael Barba in an emotional courtroom battle.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602020000 +0000" stop="20250602031200 +0000">
-    <title lang="zh">The Day of the Jackal</title>
-    <desc>Armed with the knowledge of his wayward client's identity, the Jackal tracks him down in Munich, determined to settle the score.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602031200 +0000" stop="20250602041200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Carisi tries Richard Wheatley for the murder of Kathy Stabler; Benson finds herself at odds with a friend when Barba agrees to take the case.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602041200 +0000" stop="20250602051000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU provides help and protection for a longtime domestic violence victim, but when she winds up at the defendant's table in court, Rollins surprises Carisi with a formidable opponent at trial.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602051000 +0000" stop="20250602060800 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>ADA Barba finds that a friend (Kirk Acevedo) -- with a connection to a mayoral candidate frontrunner -- is accused of rape.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602060800 +0000" stop="20250602070600 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A famous TV host (Roger Bart) forces himself on the young author (Anna Chlumsky) of an erotic novel; Detective Amaro uncovers a secret that could damage the author's career and her case.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602070600 +0000" stop="20250602080400 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman claims that Brian Cassidy (Dean Winters) raped her while he was working under cover; when Cassidy and his lawyer utilize surprising defense methods, Detective Amaro is affected.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602080400 +0000" stop="20250602090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A popular sports reporter (Lauren Cohan) accuses a cameraman (David Marciano) of rape and stalking; when the victim learns she is pregnant as a result of the rape, the defense employs controversial tactics in hope of gaining favor with the jury.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602090000 +0000" stop="20250602100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a concert turns into a mob scene, a teenager is brutally assaulted; Detective Amaro ends up defending the prime suspect's reputation.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602100000 +0000" stop="20250602110000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the investigation into a missing teen leads the detectives to a severed leg, they are drawn into the world of self-mutilation and ritual amputation.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602110000 +0000" stop="20250602120000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The team must proceed with caution when an underage escort is found dead at a wild bachelor party with high-profile people in attendance; Brian Cassidy (Dean Winters), a former SVU detective who is working under, helps Benson and Amaro investigate.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602120000 +0000" stop="20250602130000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The squad reels from the fallout of Capt. Cragen being arrested for the murder of an escort.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602130000 +0000" stop="20250602140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The investigation into Capt. Cragen and two warring escort services continues; Brian Cassidy's undercover work becomes increasingly difficult; Amaro struggles with the case and his marriage.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602140000 +0000" stop="20250602150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The special victims squad tries to take down a sex-trafficking operation that enslaves young women; when the investigation is halted by Lt. Alexandra Eames (Kathryn Erbe), Detective Benson has to get creative.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602150000 +0000" stop="20250602160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The kidnapping of a young boy reminds Cragen, Munch and Benson of an unsolved case from 13 years earlier.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602160000 +0000" stop="20250602170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>As the detectives investigate reports of sexual abuse at an elite private school, decades of secrets are exposed.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602170000 +0000" stop="20250602180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Holiday celebrations are interrupted when Detective Tutuola's ex-brother-in-law is arrested for attacking a priest; during the investigation, a church scandal is uncovered.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602180000 +0000" stop="20250602190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a rape victim is arrested for murder in Suffolk County, Detective Benson questions the case and finds enough evidence for District Attorney Barba to charge a different suspect in Manhattan.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602190000 +0000" stop="20250602200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives go under cover to arrest a man who brutally attacks other men; a deceptively tough defense attorney (Nia Vardalos) complicates ADA Barba's case.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602200000 +0000" stop="20250602210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a young boy is found alone in Central Park, the search for his parents leads to evidence of a planned mass-casualty event in the city; the SVU works with the joint-terrorism task force to identify the suspects and the motive.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602210000 +0000" stop="20250602220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>One day after a convicted rapist is exonerated by DNA evidence, a shocking new crime forces Fin and the team to search for the whereabouts of the man again.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602220000 +0000" stop="20250602230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a man uses a false identity to lure a vulnerable married woman to bed, Barba thinks the evidence amounts to rape.</desc>
-    <date>2025-06-02</date>
-  </programme>
-  <programme channel="403626" start="20250602230000 +0000" stop="20250603000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A sexually assaulted athlete's secret double life could destroy her Olympic career and ruin the case against her attacker; Rollins' sister is released from prison on parole.</desc>
-    <date>2025-06-02</date>
-  </programme>
   <programme channel="403626" start="20250603000000 +0000" stop="20250603010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>When a sergeant's son is accused of rape, Benson is put in a difficult position and forced to make a choice between loyalty and duty.</desc>
@@ -244,9 +124,134 @@
     <desc>When a pop star is assaulted in her home, the SVU investigates the public feud between her rapper husband and a competing recording artist; Fin's family ties to a suspect take him off the case.</desc>
     <date>2025-06-03</date>
   </programme>
-  <programme channel="403626" start="20250604000000 +0000" stop="20250605000000 +0000">
+  <programme channel="403626" start="20250604000000 +0000" stop="20250604010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>When an actress accuses a high-powered media mogul of attempted rape, Benson finds herself in a high-stakes game of cat and mouse; changes in the squad room put Carisi between a rock and a hard place.</desc>
     <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604010000 +0000" stop="20250604020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After a sexual assault investigation is stalled for months, a woman puts her accusations against a popular athlete on a billboard.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604020000 +0000" stop="20250604030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a popular fighter doesn't show up for the biggest bout of the year, Rollins and Velasco are drawn into a complicated web of secrets; McGrath confides in Benson.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604030000 +0000" stop="20250604030100 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>A sneak preview of the newest season of Resident Alien on USA &amp; SYFY.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604030100 +0000" stop="20250604040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson investigates allegations against a popular radio personality; Rollins goes under cover when a shocking confession leads to another crime.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604040000 +0000" stop="20250604050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson tries to help a pop star in a volatile relationship; Rollins struggles with taking the stress of work home with her; Fin teaches a rookie a lesson in respecting fellow officers.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604050000 +0000" stop="20250604060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When the case against a popular sports star falls through, Benson digs into the suspect's past to uncover additional victims; Velasco is disappointed when he meets one of his heroes.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604060000 +0000" stop="20250604070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>ADA Sonya Paxton (Christine Lahti) tries to help an old friend (Debra Messing) who starts receiving personal threats.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604070000 +0000" stop="20250604080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After auditioning for a reality show, a woman is found in Central Park unconscious, with drugs in her system and evidence of sexual assault; Detective Benson and Executive ADA Haden (Harry Connick Jr.) continue to grow closer.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604080000 +0000" stop="20250604090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A promising singer is beaten by her boyfriend, a famous hip-hop star, but she refuses to help ADA Barba build his case; the defendant and his attorney turn the case into a media circus.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604090000 +0000" stop="20250604100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>As a series of rapes on the Upper West Side puts the city on edge, a celebrity chef (Cybill Shepherd) fears she is the next victim when someone follows her home; Detective Benson has a hard time overcoming her traumatic ordeal.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604100000 +0000" stop="20250604110000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>When a P.D. informant is murdered, the team digs in to track down the perpetrator only to learn a shocking truth; Voight and Ruzek strategize to help Burgess.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604110000 +0000" stop="20250604120000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Halstead's past resurfaces when a former Army colleague is implicated in a deadly blast; as the FBI launches an investigation into Roy's disappearance, Upton feels the pressure of the secret she and Voight are sharing.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604120000 +0000" stop="20250604130000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>When Upton and Ruzek answer an emergency call to an abandoned house, their investigation leads them down a dark path.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604130000 +0000" stop="20250604140000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>As the team works to solve a deadly shooting in Burnside, Atwater realizes he has a very personal connection to the case.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604140000 +0000" stop="20250604150000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Ruzek reunites with an old colleague to take down a crime ring, but when things don't add up, Voight and Burgess do some investigating of their own.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604150000 +0000" stop="20250604160000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>As the team works to bring down a drug ring, Voight builds trust with a new informant; however, it soon becomes clear she has a plan of her own.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604160000 +0000" stop="20250604170000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>As the team investigates the stabbing of a father with two young daughters, they begin to suspect there is more to the story than meets the eye; the FBI investigation into Roy Walton's death intensifies while Voight, Upton and Halstead feel the heat.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604170000 +0000" stop="20250604180000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A mishap on the aerial ladder in the midst of a fire rescue leaves Mouch shaken and questioning his abilities; Kidd looks for support from Severide while Casey and Brett discuss their future.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604180000 +0000" stop="20250604190000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>While completing a task assigned by headquarters, Boden makes an unforeseen connection; Gallo is forced to make a surprise rescue of one of their own when the firehouse is called to the site of a construction explosion; Mouch reignites an old feud.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604190000 +0000" stop="20250604200000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>When Firehouse 51 is called to the scene of a dangerous blaze inside a 10-story storage unit, Herrmann and Cruz find themselves trapped inside a freight elevator with all communications cut off.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604200000 +0000" stop="20250604210000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Gallo makes a split-second decision during a dangerous fire rescue, leaving Casey steaming that his direct orders weren't obeyed; Kidd feels a strain in her relationship with Severide; Brett and Mackey search for answers after some suspicious calls.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604210000 +0000" stop="20250604220000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A call to a familiar location brings back mixed emotions for Severide; Herrmann heads out for a vacation; Casey is not thrilled with his replacement.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604220000 +0000" stop="20250604230000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>While Mouch makes an incredible save, all eyes are on a mystery man who helped save his neighbor; Casey worries about his future at the CFD.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250604230000 +0000" stop="20250605000000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A mysterious caller who is in danger relies on Kidd to help save her and her brother; the firehouse helps Cruz get ready for fatherhood.</desc>
+    <date>2025-06-04</date>
+  </programme>
+  <programme channel="403626" start="20250605000000 +0000" stop="20250606000000 +0000">
+    <title lang="zh">Walking Tall</title>
+    <desc>When Chris Vaughn returns to his hometown to find work, he finds that the lumber mill has closed and the town's big business is now a casino. Aided by his friend Ray Templeton, Vaughn tries to make a stand against the area's crime and corruption.</desc>
+    <date>2025-06-05</date>
   </programme>
 </tv>
