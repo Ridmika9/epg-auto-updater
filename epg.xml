@@ -1,114 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250605095504 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250605.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250605&amp;timezone=None">
+<tv date="20250606095421 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250606.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250606&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250605000000 +0000" stop="20250605015500 +0000">
-    <title lang="zh">Walking Tall</title>
-    <desc>When Chris Vaughn returns to his hometown to find work, he finds that the lumber mill has closed and the town's big business is now a casino. Aided by his friend Ray Templeton, Vaughn tries to make a stand against the area's crime and corruption.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605015500 +0000" stop="20250605045300 +0000">
-    <title lang="zh">Gridiron Gang</title>
-    <desc>A counselor (The Rock) at a juvenile detention facility turns a group of young criminals into a football team to teach them self-respect and responsibility.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605045300 +0000" stop="20250605055500 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a young woman is attacked in her apartment, evidence points to traumatic events from her buried past.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605055500 +0000" stop="20250605065700 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A 4-year-old student makes claims of sexual abuse against a singing coach and popular TV personality (Billy Porter).</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605065700 +0000" stop="20250605075800 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Murphy question a television producer when he is accused of molesting his daughter; Benson strives to discover the truth as accusations fly in the media.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605075800 +0000" stop="20250605085900 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A famous fashion photographer accused of raping a young model asks his successful brother to help him avoid charges.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605085900 +0000" stop="20250605100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a pop star is assaulted in her home, the SVU investigates the public feud between her rapper husband and a competing recording artist; Fin's family ties to a suspect take him off the case.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605100000 +0000" stop="20250605110000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>A Triad assassin poisons a Homeland Security agent; the discovery of a warehouse of counterfeit purses reveals a money trail to stolen government funds; Nell joins the team in the field.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605110000 +0000" stop="20250605120000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>The murder of a Navy machinist sends the team on a citywide hunt for evidence; Anna Kolcheck (Bar Paly) partners with Callen and Sam in the on-going mole investigation.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605120000 +0000" stop="20250605130000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>A maintenance worker with a dark history puts a local teenager in danger; Sam has to choose which of his colleagues he'll take to the football game.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605130000 +0000" stop="20250605140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a young woman is attacked in her apartment, evidence points to traumatic events from her buried past.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605140000 +0000" stop="20250605150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson questions Detective Qadri's involvement in the case of a district attorney who fell to her death.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605150000 +0000" stop="20250605160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler investigate when a woman scheduled to testify in a high-profile rape case is murdered.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605160000 +0000" stop="20250605170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives are called to investigate when a hotel maid reports being assaulted by a powerful Italian diplomat.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605170000 +0000" stop="20250605180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a dancer is raped by a man with a unique tattoo, details of the case remind Rollins of a serial rapist she was tracking in Atlanta.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605180000 +0000" stop="20250605190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives investigate when woman visiting from Buffalo, N.Y., claims her car was stolen with her baby in the backseat.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605190000 +0000" stop="20250605200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Rollins investigate when a mental patient says he witnessed a rape, but the alleged victim denies the assault happened.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605200000 +0000" stop="20250605210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a child disappears on his way home from school, Benson and Amaro interview the distraught parents, who don't trust the police; with the help of their TARU tech (Gilbert Gottfried) and a meddling reporter, the detectives narrow the suspects list.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605210000 +0000" stop="20250605220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the detectives find a missing 14-year-old working as a prostitute, they set up a sting to put the johns away for statutory rape and find one of her customers is a former professional football player.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605220000 +0000" stop="20250605230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives investigate a rape of an actress during a theater production.</desc>
-    <date>2025-06-05</date>
-  </programme>
-  <programme channel="403626" start="20250605230000 +0000" stop="20250606000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The investigation into a home invasion that ended with two dead leads to a shocking revelation about Detective Rollins.</desc>
-    <date>2025-06-05</date>
-  </programme>
   <programme channel="403626" start="20250606000000 +0000" stop="20250606010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>A rape investigation leads to one of Detective Benson's old cases being reopened; as Benson's work is scrutinized, her relationship with Executive ADA David Haden is put in jeopardy.</desc>
@@ -224,9 +119,94 @@
     <desc>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
     <date>2025-06-06</date>
   </programme>
-  <programme channel="403626" start="20250607000000 +0000" stop="20250608000000 +0000">
+  <programme channel="403626" start="20250607000000 +0000" stop="20250607030000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607030000 +0000" stop="20250607040200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry must escape an outer space prison to stop a dangerous threat in town.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607040200 +0000" stop="20250607050300 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta get surprise visits; Ben grows suspicious of Mike and Liv's private investigation.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607050300 +0000" stop="20250607060300 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta team up with an unlikely ally to try to save the Earth.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607060300 +0000" stop="20250607070300 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry must escape an outer space prison to stop a dangerous threat in town.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607070300 +0000" stop="20250607080200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A popular high school student is found murdered in her bed; two students help police solve the case.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607080200 +0000" stop="20250607090100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a woman disappears after an encounter on a train, her family hires detectives to investigate.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607090100 +0000" stop="20250607100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a woman disappears after an encounter on a train, her family hires detectives to investigate.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607100000 +0000" stop="20250607103000 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>Woman disappears from grocery store parking lot in Boulder, Colo.; investigators find extraordinary clues in a pair of bloody gloves, unique tire tracks, and ordinary grass and pine needles.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607103000 +0000" stop="20250607113000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Voight's son may be involved with the Fitori murder case, intensifying tension between Antonio and Voight; Ruzek helps Burgess get retribution.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607113000 +0000" stop="20250607123000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Voight's new Internal Affairs handler proves to be suspicious of his actions; Voight must work with his former partner from the Gang Unit; Halsted enlists Jin to help him gather more information on Lonnie Rodiger; Olinsky takes Ruzek down a peg.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607123000 +0000" stop="20250607133000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Burgess and Atwater come across a gunshot victim and the only witness is Olinsky's daughter; Ruzek goes to Burgess for help with an undercover mission.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607133000 +0000" stop="20250607143000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Dueling gangs are suspected when a massacre occurs and $8 million is stolen; Platt asks Ruzek for help.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607143000 +0000" stop="20250607152900 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>As Voight and his team search for the bombers, they realize there might be more bombs set to detonate; Burgess' niece fights for her life.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607152900 +0000" stop="20250607180000 +0000">
+    <title lang="zh">Olympus Has Fallen</title>
+    <desc>Disgraced Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607180000 +0000" stop="20250607200000 +0000">
+    <title lang="zh">London Has Fallen</title>
+    <desc>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607200000 +0000" stop="20250607230000 +0000">
+    <title lang="zh">Black Panther</title>
+    <desc>Black Panther's mettle as king gets tested when an old enemy draws him into a conflict that puts his nation and the world at risk. The king must soon rally his allies and release his full power to defeat his foes and secure the safety of his people.</desc>
+    <date>2025-06-07</date>
+  </programme>
+  <programme channel="403626" start="20250607230000 +0000" stop="20250608000000 +0000">
+    <title lang="zh">Black Panther: Wakanda Forever</title>
+    <desc>Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T'Challa's death.</desc>
     <date>2025-06-07</date>
   </programme>
 </tv>
