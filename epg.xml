@@ -1,64 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250612095533 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250612.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250612&amp;timezone=None">
+<tv date="20250613095645 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250613.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250613&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250612000000 +0000" stop="20250612023000 +0000">
-    <title lang="zh">The Mummy</title>
-    <desc>An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612023000 +0000" stop="20250612050000 +0000">
-    <title lang="zh">Twister</title>
-    <desc>Storm-chasers (Helen Hunt, Bill Paxton) finalizing their divorce try to place equipment inside a tornado on the Oklahoma plains.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612050000 +0000" stop="20250612060000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry must escape an outer space prison to stop a dangerous threat in town.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612060000 +0000" stop="20250612070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When Rollins strikes a deal with the managers of a gambling club in order to protect her job, she ends up drawing the suspicion of Benson and Tutuola.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612070000 +0000" stop="20250612080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson is assigned a 24/7 security detail when William Lewis (Pablo Schreiber) escapes from prison and starts killing again; Benson must decide how much she is willing to sacrifice to save a child's life.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612080000 +0000" stop="20250612090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Sgt. Olivia Benson is investigated by Internal Affairs after William Lewis' death; as pressure mounts, Olivia has to choose between her convictions and her badge.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612090000 +0000" stop="20250612100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A teenager disappears after schoolmates make her the subject of a vicious cyberbullying attack.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612100000 +0000" stop="20250612103000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>Two women are murdered in the same town and police fear a serial killer is on the loose, further investigation finds that they were both close to the same man.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612103000 +0000" stop="20250612210000 +0000">
-    <title lang="zh">Live: 2025 U.S. Open Golf Championship</title>
-    <desc>From Oakmont Country Club in Oakmont, Pa.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612210000 +0000" stop="20250612233000 +0000">
-    <title lang="zh">The Mummy</title>
-    <desc>An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.</desc>
-    <date>2025-06-12</date>
-  </programme>
-  <programme channel="403626" start="20250612233000 +0000" stop="20250613000000 +0000">
-    <title lang="zh">Twister</title>
-    <desc>Storm-chasers (Helen Hunt, Bill Paxton) finalizing their divorce try to place equipment inside a tornado on the Oklahoma plains.</desc>
-    <date>2025-06-12</date>
-  </programme>
   <programme channel="403626" start="20250613020000 +0000" stop="20250613030500 +0000">
     <title lang="zh">Revival</title>
     <desc>As the dead return to life in a small town, Officer Dana Cypress unearths a new deadly mystery.</desc>
@@ -169,9 +114,74 @@
     <desc>Members of the 118 attempt to rescue a wellness retreat guru after his followers turn on him; an emergency call at an upscale hair salon; Maddie contemplates returning to work, Eddie and May make decisions about their future.</desc>
     <date>2025-06-13</date>
   </programme>
-  <programme channel="403626" start="20250614000000 +0000" stop="20250615000000 +0000">
+  <programme channel="403626" start="20250614000000 +0000" stop="20250614030000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614030000 +0000" stop="20250614040200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta work together to try and get something Harry desperately needs.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614040200 +0000" stop="20250614060400 +0000">
+    <title lang="zh">Skyscraper</title>
+    <desc>A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family is trapped inside by criminals.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614060400 +0000" stop="20250614070300 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta work together to try and get something Harry desperately needs.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614070300 +0000" stop="20250614080200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The homicide of private first class soldier and young mother Karlyn Ramirez; a glimpse into the FBI's crime lab and an in-depth look at how multiple agencies uncovered a plot that spanned several states and prompted suspicions of espionage.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614080200 +0000" stop="20250614090100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>John Sutton and his wife Susan are brutally attacked in their million dollar Florida home, but the motive is unknown.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614090100 +0000" stop="20250614100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>John Sutton and his wife Susan are brutally attacked in their million dollar Florida home, but the motive is unknown.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614100000 +0000" stop="20250614110000 +0000">
+    <title lang="zh">Revival</title>
+    <desc>As the dead return to life in a small town, Officer Dana Cypress unearths a new deadly mystery.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614110000 +0000" stop="20250614140000 +0000">
+    <title lang="zh">F9 The Fast Saga</title>
+    <desc>Dom Toretto and his crew come together to stop a world-shattering plot by the most skilled assassin and high-performance driver they've ever encountered, who is Dom's forsaken brother.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614140000 +0000" stop="20250614160000 +0000">
+    <title lang="zh">Live: 2025 U.S. Open Golf Championship</title>
+    <desc>From Oakmont Country Club in Oakmont, Pa.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614160000 +0000" stop="20250614170000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Asta work together to try and get something Harry desperately needs.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614170000 +0000" stop="20250614190400 +0000">
+    <title lang="zh">Skyscraper</title>
+    <desc>A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family is trapped inside by criminals.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614190400 +0000" stop="20250614220000 +0000">
+    <title lang="zh">Gridiron Gang</title>
+    <desc>A counselor (The Rock) at a juvenile detention facility turns a group of young criminals into a football team to teach them self-respect and responsibility.</desc>
+    <date>2025-06-14</date>
+  </programme>
+  <programme channel="403626" start="20250614220000 +0000" stop="20250615000000 +0000">
+    <title lang="zh">F9 The Fast Saga</title>
+    <desc>Dom Toretto and his crew come together to stop a world-shattering plot by the most skilled assassin and high-performance driver they've ever encountered, who is Dom's forsaken brother.</desc>
     <date>2025-06-14</date>
   </programme>
 </tv>
