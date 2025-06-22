@@ -1,119 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250621092636 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250621.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250621&amp;timezone=None">
+<tv date="20250622111903 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250622&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250621000000 +0000" stop="20250621030000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621030000 +0000" stop="20250621040200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and D'arcy travel to an unexpected place to recover an alien device left behind by his people.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621040200 +0000" stop="20250621050200 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Athena and the 118 respond to bizarre emergency calls on Halloween, including a flock of crows terrorizing a field trip, an office employee having a close encounter with an eight-limbed creature and a ghost-like girl wandering a neighborhood.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621050200 +0000" stop="20250621060200 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>When a murder weapon from a case close to Athena in the early '90s resurfaces, flashbacks to 1989 show how Athena joined the LAPD and became the police officer she is today.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621060200 +0000" stop="20250621070200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and D'arcy travel to an unexpected place to recover an alien device left behind by his people.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621070200 +0000" stop="20250621080100 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>When Ohio mother Heather Bogle goes missing, a detective identifies multiple suspects, until he himself comes under scrutiny for his investigation.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621080100 +0000" stop="20250621090000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>The investigation into the death of a woman whose remains were found in her Frisco, Texas, garage leads detectives to a series of suspects with connections to the victim's complicated and secretive life.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621090000 +0000" stop="20250621100000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>The investigation into the death of a woman whose remains were found in her Frisco, Texas, garage leads detectives to a series of suspects with connections to the victim's complicated and secretive life.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621100000 +0000" stop="20250621110000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Firehouse 51 bands together to fight a raging fire on the 20th floor of the residential high-rise where Jay and Will Halstead's father lives and has gone missing; in the midst of the chaos, Brett learns unsettling information about her new partner.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621110000 +0000" stop="20250621120000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Severide investigates a victim's motives after rescuing him and his child from a car accident; Boden clashes with Gorsch over appointing a new lieutenant; Mouch reaches out to a fellow firefighter; Cruz discovers he has a new admirer.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621120000 +0000" stop="20250621130000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Herrmann faces hazing in his new role as lieutenant; Foster suspects a young gymnast's injury is more than meets the eye; Severide is jealous of Kidd's best friend; Casey and Boden turn to P.D. after treating two victims who have similar injuries.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621130000 +0000" stop="20250621140000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Foster faces blowback after pointing out a doctor's oversight; Brett helps Casey look for a new apartment; Kidd prepares Tuesday the Dalmatian for the Fire Safety Dog Competition; a serious accusation is leveled against Severide.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621140000 +0000" stop="20250621150000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Casey struggles to get Boden to sign off on an energetic new recruit; Foster extends an olive branch to her irritating new medic; Otis inspires Herrmann to seek new partners at Molly's; Brett realizes life in Fowlerton will take some getting used to.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621150000 +0000" stop="20250621160000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Tension builds when a group of rabble-rousers attempts to lock down the firehouse; Brett is faced with a monumental decision; Cruz readies himself for a big day; Gallo and Ritter attempt to launch Firehouse 51 into the social media age.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621160000 +0000" stop="20250621170000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>A series of false alarms at a private school hinders 51's ability to respond to legitimate emergencies; Kidd asks for ideas to surprise Severide on his birthday; Cruz and Brett rent out their extra room but get more than they bargained for.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621170000 +0000" stop="20250621180000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Brett and Mackey find their lives in peril; Casey and Brett tread in unfamiliar territory; Severide chases a memory while Kidd adeptly solves a firehouse problem; Ritter puts himself in harm's way during a harrowing call.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621180000 +0000" stop="20250621190000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>A fire at a homeless encampment leaves Severide and Casey searching for answers; Cruz is shaken up after a close call; Ritter lends a helping hand to a victim.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621190000 +0000" stop="20250621200000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Severide and Casey try to find the best fit for Kidd; Ritter, Gallo and Violet help plan an event for Mouch.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621200000 +0000" stop="20250621210000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Firehouse 51 deals with the aftermath of the capsized boat rescue; Gallo, Ritter and Violet discuss plans for a side gig.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621210000 +0000" stop="20250621220000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Griffin learns the truth about his father's death and reveals why he really came to visit Casey; Gallo, Ritter and Violet take steps to expand their microbrewery business.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621220000 +0000" stop="20250621230000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Kidd spreads her wings as a lieutenant; Chief Hawkins rides with Ambulance 61 to learn more about Brett; Casey takes a trip out of town; a Ritter date night turns into an emergency situation.</desc>
-    <date>2025-06-21</date>
-  </programme>
-  <programme channel="403626" start="20250621230000 +0000" stop="20250622000000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Casey makes a life-altering decision; Gallo, Ritter and Violet agree to an interview and photo shoot; Brett and Mouch launch the paramedicine program; Cruz comes closer to fatherhood.</desc>
-    <date>2025-06-21</date>
-  </programme>
   <programme channel="403626" start="20250622000000 +0000" stop="20250622010000 +0000">
     <title lang="zh">Chicago Fire</title>
     <desc>A major security breach in the city's computer networks forces Firehouse 51's senior leaders to take matters into their own hands; Severide gears up for an arson investigation.</desc>
@@ -234,9 +124,129 @@
     <desc>When a pregnant 13-year-old won't identify the father of her baby, Benson and the squad try to determine if she was raped; after the investigation uncovers a secret, someone goes missing.</desc>
     <date>2025-06-22</date>
   </programme>
-  <programme channel="403626" start="20250623000000 +0000" stop="20250624000000 +0000">
+  <programme channel="403626" start="20250623000000 +0000" stop="20250623010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>Three young girls' search for a mythical character leads to one of them becoming injured and the other two disappearing.</desc>
     <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Rollins and Kat respond to a dangerous domestic violence call while Fin gives his deposition in the lawsuit against him.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A teenager found unconscious in the park leads to a missing persons investigation; Benson must help Noah come to terms with the past when he questions the origins of his birth.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623030000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Three cocky prep-school teens are prime suspects when a high-school student from Montreal vanishes during a class trip to New York.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623040000 +0000" stop="20250623050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives track down two junior-high students in connection with the rape and murder of a cancer patient who's been growing marijuana in her apartment.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623050000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU detectives investigate after a school nurse notices multiple injuries on a young girl; Detective Amaro tries to bond with his recently discovered son.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The state pursues a media-sensationalized case against a known pedophile who's suspected of assaulting and killing a youth.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a young gymnast is found murdered, Detectives Benson and Stabler investigate both her demanding coach and a wealthy benefactor.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler have the gruesome task of identifying the remains of a man and woman who were stabbed in a park.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A gang member is pushed from a rooftop in what appears to be retribution for a sexual assault, but when the assault victim also turns up dead, the detectives realize the case is far more complicated.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623100000 +0000" stop="20250623110000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Stabler and Benson investigate the murder and dismemberment of a cabdriver who was a wanted man.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623110000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler run into multiple dead ends while investigating the case of a woman who fell to her death wearing only a slip.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623120000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler believe a fellow cop may be behind murders going back 30 years; Munch is in rare form during a child molestation case.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623130000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler believe a pedophile (John Dossett) may be behind the murder of a travel writer, especially after meeting the victim's landlady and her streetwise daughter (Patricia Richardson, Lynn Collins).</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler suspect a pair of college basketball players of murdering a female student, but officials don't want to draw negative attention to the school.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Stabler fears a combative Benson will be the next victim of a real estate agent suspected of sexually assaulting and murdering a lawyer.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623160000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler hunt for the killer of a gay man whose father heads a conservative watchdog group; Munch looks for Benson's biological father.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler investigate the shooting death of a sleazy judge who abused the criminal-justice system.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives must solve a 5-year-old sexual assault case before the statute of limitations closes it.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Two local hoods are implicated in the murder and rape of an elderly woman, though they claim they only broke in to rob her.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives learn that the pregnant daughter-in-law of a prominent religious educator may have been having an affair at the time of her murder.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and the team investigate a father's murder after his teenage daughters call in a home burglary that turns into an attempted assault; when the team speaks with the medical examiner, the details don't add up.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson, Fin, Carisi and Rollins debate what they should and should not conjecture about a defendant's situation while waiting to testify at her murder trial.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and the SVU investigate the death of a man they believe to be a pedophile; when they dig deeper, they realize things are not what they seem and that the case actually hits really close to home.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403626" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU pursues a suspect when a child is discovered in the trunk of an abandoned car.</desc>
+    <date>2025-06-24</date>
   </programme>
 </tv>
