@@ -1,119 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250626105134 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250626.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250626&amp;timezone=None">
+<tv date="20250627095810 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250627.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250627&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250626000000 +0000" stop="20250626033000 +0000">
-    <title lang="zh">Black Panther: Wakanda Forever</title>
-    <desc>Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T'Challa's death.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626033000 +0000" stop="20250626043000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and D'arcy travel to an unexpected place to recover an alien device left behind by his people.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626043000 +0000" stop="20250626053000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An abused 7-year-old girl lies comatose while Benson and Stabler try to figure out which member of her dysfunctional family is responsible for her state.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626053000 +0000" stop="20250626063000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The shooting death of a school student by a 7-year-old classmate leads to new information on an unsolved slaying.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626063000 +0000" stop="20250626073000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Rollins clashes with the parents of a teenage runaway; the squad comes together for a significant event.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626073000 +0000" stop="20250626083000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives are spread thin when three major cases come in at midnight; Rollins and Carisi argue over an arrest.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626083000 +0000" stop="20250626093000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU joins an under cover task force in busting a human trafficking ring.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626093000 +0000" stop="20250626100000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>Three seemingly unrelated deaths proved to be serial murders; the killer had been careful, he uses poison which had no taste or odour, fortunately for investigators, it also has a unique chemical signature.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626100000 +0000" stop="20250626110000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>Callen and Sam go under cover to track an engineer attempting to sell classified information; Deeks plans a surprise for Kensi and her friends.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626110000 +0000" stop="20250626120000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>The team investigates when a defense contractor designing a nuclear attack weapon is suspected, by her husband, of selling Navy secrets to a foreign government.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626120000 +0000" stop="20250626130000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>The NCIS team must work with Hetty's former Vietnam War colleagues after a highly decorated Navy captain kidnaps a Veterans Affairs administrator who has been siphoning funds.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626130000 +0000" stop="20250626140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The truth behind the alleged rape of a woman by her police officer husband comes to light when a history of domestic abuse is uncovered.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626140000 +0000" stop="20250626150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An abused 7-year-old girl lies comatose while Benson and Stabler try to figure out which member of her dysfunctional family is responsible for her state.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626150000 +0000" stop="20250626160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The shooting death of a school student by a 7-year-old classmate leads to new information on an unsolved slaying.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626160000 +0000" stop="20250626170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives probe the backgrounds of the family of a 17-year-old girl who was raped during a hotel-opening gala.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626170000 +0000" stop="20250626180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives investigate the celebrity parents of a boy who killed himself by running into oncoming traffic.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626180000 +0000" stop="20250626190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A cop-turned-activist (Eric Roberts) becomes a suspect in the killings of several rapists who were recently paroled.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626190000 +0000" stop="20250626200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The rape of a veteran police officer is first linked to her ex-husband's gambling debts, and then to her fellow officers.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626200000 +0000" stop="20250626210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler take over the search for a runaway girl and are led to an underground rave culture that caters to wayward teens.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626210000 +0000" stop="20250626220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The beating of a young man uncovers a dangerous male escort service where the boss may have reasons for sending her staff on potentially deadly dates.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626220000 +0000" stop="20250626230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The details of a kidnapping are similar to a series of rapes and murders that may link the crime to a serial killer.</desc>
-    <date>2025-06-26</date>
-  </programme>
-  <programme channel="403626" start="20250626230000 +0000" stop="20250627000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the detectives investigate the death of a Romanian immigrant, suspicions surface that she is alive and masquerading as her twin.</desc>
-    <date>2025-06-26</date>
-  </programme>
   <programme channel="403626" start="20250627000000 +0000" stop="20250627030000 +0000">
     <title lang="zh">Black Panther</title>
     <desc>Black Panther's mettle as king gets tested when an old enemy draws him into a conflict that puts his nation and the world at risk. The king must soon rally his allies and release his full power to defeat his foes and secure the safety of his people.</desc>
@@ -224,9 +114,74 @@
     <desc>After years of anticipation, Maddie and Chimney's long-awaited wedding day arrives; when the groom mysteriously vanishes, the 118 races against time to ensure he doesn't miss the most crucial day of his life.</desc>
     <date>2025-06-27</date>
   </programme>
-  <programme channel="403626" start="20250628000000 +0000" stop="20250629000000 +0000">
+  <programme channel="403626" start="20250628000000 +0000" stop="20250628030000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628030000 +0000" stop="20250628040200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Heather reunite, but their relationship is more complicated than ever.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628040200 +0000" stop="20250628050200 +0000">
+    <title lang="zh">Revival</title>
+    <desc>As Wausau fractures, Dana's search brings her into conflict with a dangerous local family.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628050200 +0000" stop="20250628060300 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and D'arcy travel to an unexpected place to recover an alien device left behind by his people.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628060300 +0000" stop="20250628070300 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Heather reunite, but their relationship is more complicated than ever.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628070300 +0000" stop="20250628080200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The father of an Alabama teenager calls the police after he returns home to find his son had thrown a party, leaving the place trashed; 11 minutes after the deputy leaves the house, another 911 call is placed reporting a shooting at the residence.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628080200 +0000" stop="20250628090100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>Rocky Mountain National Park rangers question whether a woman's fatal fall was an accident or the result of an act of violence.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628090100 +0000" stop="20250628100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>Rocky Mountain National Park rangers question whether a woman's fatal fall was an accident or the result of an act of violence.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628100000 +0000" stop="20250628130000 +0000">
+    <title lang="zh">Ambulance</title>
+    <desc>A decorated veteran teams up with his adoptive brother to steal $32 million from a Los Angeles bank. However, when their getaway goes spectacularly wrong, the desperate thieves hijack an ambulance that's carrying a wounded cop and an EMT worker.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628130000 +0000" stop="20250628145400 +0000">
+    <title lang="zh">Walking Tall</title>
+    <desc>When Chris Vaughn returns to his hometown to find work, he finds that the lumber mill has closed and the town's big business is now a casino. Aided by his friend Ray Templeton, Vaughn tries to make a stand against the area's crime and corruption.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628145400 +0000" stop="20250628175400 +0000">
+    <title lang="zh">Ambulance</title>
+    <desc>A decorated veteran teams up with his adoptive brother to steal $32 million from a Los Angeles bank. However, when their getaway goes spectacularly wrong, the desperate thieves hijack an ambulance that's carrying a wounded cop and an EMT worker.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628175400 +0000" stop="20250628205700 +0000">
+    <title lang="zh">Jurassic World Dominion</title>
+    <desc>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628205700 +0000" stop="20250628232700 +0000">
+    <title lang="zh">Twister</title>
+    <desc>Storm-chasers (Helen Hunt, Bill Paxton) finalizing their divorce try to place equipment inside a tornado on the Oklahoma plains.</desc>
+    <date>2025-06-28</date>
+  </programme>
+  <programme channel="403626" start="20250628232700 +0000" stop="20250629000000 +0000">
+    <title lang="zh">Jurassic World Dominion</title>
+    <desc>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</desc>
     <date>2025-06-28</date>
   </programme>
 </tv>
