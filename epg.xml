@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250704095729 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250704.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250704&amp;timezone=None">
+<tv date="20250705095331 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250705.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250705&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250704023000 +0000" stop="20250704060000 +0000">
-    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
-    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="403626" start="20250704060000 +0000" stop="20250704070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The investigation of a young woman's death reveals that she and other women were recently accused of a raping a male stripper.</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="403626" start="20250704070000 +0000" stop="20250704080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A boy, 6, is shot and then abandoned in an emergency room by his fearful mother, sending detectives in search of his missing family and the gunman.</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="403626" start="20250704080000 +0000" stop="20250704090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Fin are forced to team up to investigate a rape-murder case in which a police officer (guest star Michael O'Keefe) might be the prime suspect.</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="403626" start="20250704090000 +0000" stop="20250704100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Stabler races against time to determine if a convicted man on death row also murdered and raped another victim.</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="403626" start="20250704100000 +0000" stop="20250704133000 +0000">
-    <title lang="zh">Harry Potter and the Sorcerer's Stone</title>
-    <desc>On his 11th birthday Harry Potter learns he is the orphaned son of two wizards and is invited to attend Hogwarts School of Witchcraft &amp; Wizardry where he embarks on the adventure of a lifetime.</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="403626" start="20250704133000 +0000" stop="20250704173000 +0000">
-    <title lang="zh">Harry Potter and the Chamber of Secrets</title>
-    <desc>Harry Potter returns to Hogwarts for his second year but dreadful things begin to happen at the school. Harry, Hermione and Ron do everything wizardly possible to solve this deadly mystery.</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="403626" start="20250704173000 +0000" stop="20250704203000 +0000">
-    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
-    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
-    <date>2025-07-04</date>
-  </programme>
-  <programme channel="403626" start="20250704203000 +0000" stop="20250705000000 +0000">
-    <title lang="zh">Harry Potter and the Goblet of Fire</title>
-    <desc>During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
-    <date>2025-07-04</date>
-  </programme>
   <programme channel="403626" start="20250705000000 +0000" stop="20250705020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
@@ -74,9 +29,149 @@
     <desc>Harry struggles to find balance with his new human form.</desc>
     <date>2025-07-05</date>
   </programme>
-  <programme channel="403626" start="20250705060700 +0000" stop="20250706000000 +0000">
+  <programme channel="403626" start="20250705060700 +0000" stop="20250705090000 +0000">
     <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
     <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
     <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705090000 +0000" stop="20250705100000 +0000">
+    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
+    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705100000 +0000" stop="20250705120000 +0000">
+    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
+    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705120000 +0000" stop="20250705153000 +0000">
+    <title lang="zh">Harry Potter and the Goblet of Fire</title>
+    <desc>During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705153000 +0000" stop="20250705183000 +0000">
+    <title lang="zh">Harry Potter and the Order of the Phoenix</title>
+    <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705183000 +0000" stop="20250705220000 +0000">
+    <title lang="zh">Harry Potter and the Half-Blood Prince</title>
+    <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705220000 +0000" stop="20250706000000 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250706010000 +0000" stop="20250706040000 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706040000 +0000" stop="20250706050200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry struggles to find balance with his new human form.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706050200 +0000" stop="20250706060200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a missing 16-year-old girl is found in a deserted building, she tells the skeptical detectives that three men in uniform kept her there for several days.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706060200 +0000" stop="20250706070100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives investigate a cellist's (Tamara Gorski) orchestra conductor (Michael Nader) after she is brutally attacked in her apartment.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706070100 +0000" stop="20250706080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Assistant DA Cabot jeopardizes the detectives' careers and her own when she exceeds legal limits to collect evidence against a serial child-abuser.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706080000 +0000" stop="20250706090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When the detectives find a baby's finger in a rape victim's purse, their investigation widens to encompass three generations of women harboring secrets.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706090000 +0000" stop="20250706100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives investigate to determine whether a 22-year-old with Down syndrome is pregnant as a result of rape, as her mother contends.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706100000 +0000" stop="20250706110200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry and Heather reunite, but their relationship is more complicated than ever.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706110200 +0000" stop="20250706120300 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry struggles to find balance with his new human form.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706120300 +0000" stop="20250706130200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a criminology student is raped and murdered, detectives hunt for a suspect with an expert knowledge of forensic medicine.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706130200 +0000" stop="20250706140100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a missing 16-year-old girl is found in a deserted building, she tells the skeptical detectives that three men in uniform kept her there for several days.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706140100 +0000" stop="20250706150000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler have a suspect (Alfred Molina) but not enough evidence when a serial rapist preys on illegal immigrant women, and Tracy Kibre (Bebe Neuwirth) is brought in to work on the case.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706150000 +0000" stop="20250706160000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>While searching for a child molester who has abducted three young children orphaned by Hurricane Katrina, detectives learn that the suspect also possesses a deadly strain of anthrax.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706160000 +0000" stop="20250706170000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detective Benson goes under cover to combat terrorist activities; a victim refuses a rape kit.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706170000 +0000" stop="20250706180000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The life of a law-abiding engineer (Robin Williams) goes terribly wrong, leading him to challenge authority and to urge others to do so as well.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706180000 +0000" stop="20250706190000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When the body of a 14-year-old girl is found in the Hudson River, Benson and Stabler think she was smuggled into the country by sex traffickers; in an attempt to identify her, Benson poses as a madam.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706190000 +0000" stop="20250706200000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detective Stabler's former partner (Sharon Stone) is put on the case when two young sisters are killed in a fire.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706200000 +0000" stop="20250706210000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler investigate when a woman scheduled to testify in a high-profile rape case is murdered.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706210000 +0000" stop="20250706220000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The squad makes a quick arrest when a student is raped at gunpoint in her apartment, but the defense attorney works to undermine their police work.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706220000 +0000" stop="20250706230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives investigate a rape of an actress during a theater production.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250706230000 +0000" stop="20250707000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A man goes on a killing spree, but he has links to a prostitute that Benson encountered in an earlier investigation, so the FBI contacts SVU for information.</desc>
+    <date>2025-07-06</date>
+  </programme>
+  <programme channel="403626" start="20250707000000 +0000" stop="20250708000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU is called in to help investigate a wave of hate crimes on Christmas Eve; Rollins catches up with an old flame.</desc>
+    <date>2025-07-07</date>
   </programme>
 </tv>
