@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250705095331 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250705.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250705&amp;timezone=None">
+<tv date="20250706094206 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250706.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250706&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250705000000 +0000" stop="20250705020000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705020000 +0000" stop="20250705030200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry struggles to find balance with his new human form.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705030200 +0000" stop="20250705040400 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry struggles to find balance with his new human form.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705040400 +0000" stop="20250705050600 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and Heather reunite, but their relationship is more complicated than ever.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705050600 +0000" stop="20250705060700 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry struggles to find balance with his new human form.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705060700 +0000" stop="20250705090000 +0000">
-    <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
-    <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705090000 +0000" stop="20250705100000 +0000">
-    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
-    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705100000 +0000" stop="20250705120000 +0000">
-    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
-    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705120000 +0000" stop="20250705153000 +0000">
-    <title lang="zh">Harry Potter and the Goblet of Fire</title>
-    <desc>During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705153000 +0000" stop="20250705183000 +0000">
-    <title lang="zh">Harry Potter and the Order of the Phoenix</title>
-    <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705183000 +0000" stop="20250705220000 +0000">
-    <title lang="zh">Harry Potter and the Half-Blood Prince</title>
-    <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705220000 +0000" stop="20250706000000 +0000">
-    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
-    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
-    <date>2025-07-05</date>
-  </programme>
   <programme channel="403626" start="20250706010000 +0000" stop="20250706040000 +0000">
     <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
     <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
@@ -169,9 +109,49 @@
     <desc>A man goes on a killing spree, but he has links to a prostitute that Benson encountered in an earlier investigation, so the FBI contacts SVU for information.</desc>
     <date>2025-07-06</date>
   </programme>
-  <programme channel="403626" start="20250707000000 +0000" stop="20250708000000 +0000">
+  <programme channel="403626" start="20250707000000 +0000" stop="20250707010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>The SVU is called in to help investigate a wave of hate crimes on Christmas Eve; Rollins catches up with an old flame.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707010000 +0000" stop="20250707020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>An internet dating site becomes the source of terror for a young widow; Muncy struggles with Velasco's absence.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707020000 +0000" stop="20250707030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU helps a man come to terms with being victimized; Benson tries to support a victim's family when tragedy strikes twice.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707030000 +0000" stop="20250707040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler hit a wall of silence while questioning fraternity brothers about the murder and sodomy of their hard-nosed pledge master.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707040000 +0000" stop="20250707050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler begin hunting for a serial pedophile after a 5-year-old girl's decomposed body is found in the trash.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707050000 +0000" stop="20250707060200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry struggles to find balance with his new human form.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707060200 +0000" stop="20250707070100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detective Benson goes under cover to combat terrorist activities; a victim refuses a rape kit.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707070100 +0000" stop="20250707080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The life of a law-abiding engineer (Robin Williams) goes terribly wrong, leading him to challenge authority and to urge others to do so as well.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707080000 +0000" stop="20250708000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The squad makes a quick arrest when a student is raped at gunpoint in her apartment, but the defense attorney works to undermine their police work.</desc>
     <date>2025-07-07</date>
   </programme>
 </tv>
