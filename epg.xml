@@ -1,114 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250706094206 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250706.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250706&amp;timezone=None">
+<tv date="20250707095248 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250707.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250707&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250706010000 +0000" stop="20250706040000 +0000">
-    <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
-    <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706040000 +0000" stop="20250706050200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry struggles to find balance with his new human form.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706050200 +0000" stop="20250706060200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a missing 16-year-old girl is found in a deserted building, she tells the skeptical detectives that three men in uniform kept her there for several days.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706060200 +0000" stop="20250706070100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives investigate a cellist's (Tamara Gorski) orchestra conductor (Michael Nader) after she is brutally attacked in her apartment.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706070100 +0000" stop="20250706080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Assistant DA Cabot jeopardizes the detectives' careers and her own when she exceeds legal limits to collect evidence against a serial child-abuser.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706080000 +0000" stop="20250706090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the detectives find a baby's finger in a rape victim's purse, their investigation widens to encompass three generations of women harboring secrets.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706090000 +0000" stop="20250706100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives investigate to determine whether a 22-year-old with Down syndrome is pregnant as a result of rape, as her mother contends.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706100000 +0000" stop="20250706110200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and Heather reunite, but their relationship is more complicated than ever.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706110200 +0000" stop="20250706120300 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry struggles to find balance with his new human form.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706120300 +0000" stop="20250706130200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a criminology student is raped and murdered, detectives hunt for a suspect with an expert knowledge of forensic medicine.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706130200 +0000" stop="20250706140100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a missing 16-year-old girl is found in a deserted building, she tells the skeptical detectives that three men in uniform kept her there for several days.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706140100 +0000" stop="20250706150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler have a suspect (Alfred Molina) but not enough evidence when a serial rapist preys on illegal immigrant women, and Tracy Kibre (Bebe Neuwirth) is brought in to work on the case.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706150000 +0000" stop="20250706160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>While searching for a child molester who has abducted three young children orphaned by Hurricane Katrina, detectives learn that the suspect also possesses a deadly strain of anthrax.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706160000 +0000" stop="20250706170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Benson goes under cover to combat terrorist activities; a victim refuses a rape kit.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706170000 +0000" stop="20250706180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The life of a law-abiding engineer (Robin Williams) goes terribly wrong, leading him to challenge authority and to urge others to do so as well.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706180000 +0000" stop="20250706190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the body of a 14-year-old girl is found in the Hudson River, Benson and Stabler think she was smuggled into the country by sex traffickers; in an attempt to identify her, Benson poses as a madam.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706190000 +0000" stop="20250706200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Stabler's former partner (Sharon Stone) is put on the case when two young sisters are killed in a fire.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706200000 +0000" stop="20250706210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler investigate when a woman scheduled to testify in a high-profile rape case is murdered.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706210000 +0000" stop="20250706220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The squad makes a quick arrest when a student is raped at gunpoint in her apartment, but the defense attorney works to undermine their police work.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706220000 +0000" stop="20250706230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives investigate a rape of an actress during a theater production.</desc>
-    <date>2025-07-06</date>
-  </programme>
-  <programme channel="403626" start="20250706230000 +0000" stop="20250707000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A man goes on a killing spree, but he has links to a prostitute that Benson encountered in an earlier investigation, so the FBI contacts SVU for information.</desc>
-    <date>2025-07-06</date>
-  </programme>
   <programme channel="403626" start="20250707000000 +0000" stop="20250707010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>The SVU is called in to help investigate a wave of hate crimes on Christmas Eve; Rollins catches up with an old flame.</desc>
@@ -149,9 +44,209 @@
     <desc>The life of a law-abiding engineer (Robin Williams) goes terribly wrong, leading him to challenge authority and to urge others to do so as well.</desc>
     <date>2025-07-07</date>
   </programme>
-  <programme channel="403626" start="20250707080000 +0000" stop="20250708000000 +0000">
+  <programme channel="403626" start="20250707080000 +0000" stop="20250707090000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>The squad makes a quick arrest when a student is raped at gunpoint in her apartment, but the defense attorney works to undermine their police work.</desc>
     <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707090000 +0000" stop="20250707100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives investigate a rape of an actress during a theater production.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707100000 +0000" stop="20250707110000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The murder of a software company employee leads Benson and Stabler to a fired co-worker who may have a horrifying motive for the slaying.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707110000 +0000" stop="20250707120000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The death of a boy and his abusive guardian leads the detectives to a travel agency specializing in exotic trips for sexual predators.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707120000 +0000" stop="20250707130000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler begin hunting for a serial pedophile after a 5-year-old girl's decomposed body is found in the trash.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707130000 +0000" stop="20250707140000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A 15-year-old rape victim steps off of a subway platform, and two suspects in the case admit to being sexually involved with the girl's mother.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707140000 +0000" stop="20250707150000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The death of a baby leads the detectives to a smuggling operation that hides cocaine in baby formula.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707150000 +0000" stop="20250707160000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A drug dealer dies in jail after being beaten and sexually assaulted.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707160000 +0000" stop="20250707170000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives investigate the apparent suicide of a 20-year-old woman who jumped from the balcony of a prominent family's home.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707170000 +0000" stop="20250707180000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When an 8-year-old beauty queen's body is found in a suitcase on a Manhattan bus, detectives hunt for a pedophile with a fetish for pageants.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707180000 +0000" stop="20250707190000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A female party-goer claims self-defense after killing her attacker.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707190000 +0000" stop="20250707200000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A serial rapist is the main suspect when an expectant mother is abducted during a car jacking.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707200000 +0000" stop="20250707210000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives investigate when two high-school basketball players are gunned down while shooting hoops in the gymnasium.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707210000 +0000" stop="20250707220000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Rollins must contend with the FBI and the Organized Crime bureau when a rape victim identifies a dangerous mobster as her assailant.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707220000 +0000" stop="20250707230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU searches for a serial rapist who preys on mothers with young children; Benson and Fin struggle under the tightened reins of Chief McGrath.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707230000 +0000" stop="20250708000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU faces the fury of social media fans when they arrest two popular influencer brothers.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250708000000 +0000" stop="20250708010000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a teenage sex worker disappears, Rollins and Velasco find a key clue in a pile of neglected missing persons reports.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708010000 +0000" stop="20250708020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Carisi asks the SVU for help with a murder investigation when one of the witnesses shows signs of abuse.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708020000 +0000" stop="20250708030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Carisi tries Richard Wheatley for the murder of Kathy Stabler; Benson finds herself at odds with a friend when Barba agrees to take the case.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708030000 +0000" stop="20250708040200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry struggles to find balance with his new human form.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708040200 +0000" stop="20250708050200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The death of a boy and his abusive guardian leads the detectives to a travel agency specializing in exotic trips for sexual predators.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708050200 +0000" stop="20250708060200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A 15-year-old rape victim steps off of a subway platform, and two suspects in the case admit to being sexually involved with the girl's mother.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708060200 +0000" stop="20250708070200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A drug dealer dies in jail after being beaten and sexually assaulted.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708070200 +0000" stop="20250708080100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When an 8-year-old beauty queen's body is found in a suitcase on a Manhattan bus, detectives hunt for a pedophile with a fetish for pageants.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708080100 +0000" stop="20250708090000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a California housewife is murdered in broad daylight, the suspected killer claims it was a burglary gone awry.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708090000 +0000" stop="20250708100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a California housewife is murdered in broad daylight, the suspected killer claims it was a burglary gone awry.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708100000 +0000" stop="20250708110000 +0000">
+    <title lang="zh">NCIS: Los Angeles</title>
+    <desc>When Hetty turns in retirement papers and disappears, Shay Mosley comes to Los Angeles to oversee the team and makes staffing changes; Sam insists that Callen find a new partner.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708110000 +0000" stop="20250708120000 +0000">
+    <title lang="zh">NCIS: Los Angeles</title>
+    <desc>When the daughter of a notorious counterfeiter arrives in Los Angeles, Sam goes under cover as a financier; Callen partners with Anna to track the family's latest scheme.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708120000 +0000" stop="20250708130000 +0000">
+    <title lang="zh">NCIS: Los Angeles</title>
+    <desc>During the murder investigation of a Navy Lieutenant on leave in Los Angeles, the team uncovers classified surveillance briefs she smuggled into the city that may have been sold to a foreign buyer.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708130000 +0000" stop="20250708140000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Alexandra Cabot questions a pediatrician (Judd Hirsch) about a dead baby found in a cooler in the East River.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708140000 +0000" stop="20250708150000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Stabler hunts for a missing 14-year-old girl who may have been abducted by a foreign child pornographer.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708150000 +0000" stop="20250708160000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler look for a killer with a foot fetish.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708160000 +0000" stop="20250708170000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A young boy witnesses the brutal sexual assault and murder of his mother.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708170000 +0000" stop="20250708180000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A man (Fred Savage) accused of rape becomes a formidable opponent when he decides to handle his own defense.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708180000 +0000" stop="20250708190000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Evidence points to an angry ex-boyfriend when a cocktail waitress is murdered outside a popular nightspot.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708190000 +0000" stop="20250708200000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives suspect several young socialites of raping a girl at a Manhattan nightclub, then killing her.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708200000 +0000" stop="20250708210000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives face off against a Colombian cartel and the Drug Enforcement Administration while investigating the brutal rape and murder of an undercover agent.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708210000 +0000" stop="20250708220000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A young woman learning about her birth parents asks Benson for help; Carisi and Rollins weigh the risks of taking their relationship public.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708220000 +0000" stop="20250708230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The creator of a dating app is accused of using it to rape women; Velasco's experience as an SVU detective is put on trial.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250708230000 +0000" stop="20250709000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Velasco asks Benson for help finding three girls who were trafficked from his hometown to New York City.</desc>
+    <date>2025-07-08</date>
+  </programme>
+  <programme channel="403626" start="20250709000000 +0000" stop="20250710000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Garland asks Benson to reopen a missing persons case he worked as a rookie officer; a victim in one of Carisi's recent cases is arrested.</desc>
+    <date>2025-07-09</date>
   </programme>
 </tv>
