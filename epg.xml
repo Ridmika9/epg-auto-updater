@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250709095956 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250709.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250709&amp;timezone=None">
+<tv date="20250710095954 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250710.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250710&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250709000000 +0000" stop="20250709010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Garland asks Benson to reopen a missing persons case he worked as a rookie officer; a victim in one of Carisi's recent cases is arrested.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709010000 +0000" stop="20250709020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the only evidence in a crime is a church confession, Carisi must find another way to prove his suspect guilty; Benson agrees to meet with an old friend seeking to make amends for past transgressions.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709020000 +0000" stop="20250709030000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU provides help and protection for a longtime domestic violence victim, but when she winds up at the defendant's table in court, Rollins surprises Carisi with a formidable opponent at trial.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709030000 +0000" stop="20250709040000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A girl is shot and Cosgrove teams with Detective Jalen Shaw to track down her killer; Benson and Stabler assist and realize it's more than a typical homicide; McCoy and Price seek justice against an international crime ring; part 2 of 3.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709040000 +0000" stop="20250709050000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A group of teens terrorizing tourists has the SVU squad working overtime; McGrath teams them up with the Bronx gang unit to track down a crucial lead.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709050000 +0000" stop="20250709060000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Alexandra Cabot questions a pediatrician (Judd Hirsch) about a dead baby found in a cooler in the East River.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709060000 +0000" stop="20250709070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler hunts for a missing 14-year-old girl who may have been abducted by a foreign child pornographer.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709070000 +0000" stop="20250709080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler look for a killer with a foot fetish.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709080000 +0000" stop="20250709090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A young boy witnesses the brutal sexual assault and murder of his mother.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709090000 +0000" stop="20250709100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A man (Fred Savage) accused of rape becomes a formidable opponent when he decides to handle his own defense.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709100000 +0000" stop="20250709110000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>A series of brutal home invasion robberies finds the team paired with Detective Borkowski, an old friend of Ruzek's, to work the case; things get complicated for Torres when it becomes clear Borkowski has a vastly different policing style.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709110000 +0000" stop="20250709120000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>A shocking ambush at a funeral leads the team into a heated investigation to find the shooters; much to Atwater's surprise, he must rely on someone from his past to help in the investigation, dredging up old memories and revealing new truths.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709120000 +0000" stop="20250709130000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Sean O'Neal surprises Upton with a call from prison, revealing sensitive information; while Upton grapples with how to keep O'Neal at a distance, the team quickly mobilizes to stop a crime in progress before it's too late.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709130000 +0000" stop="20250709140000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Voight and the team help ASA Nina Chapman pursue a drug runner who dodged prison years ago after Chapman's informant mysteriously disappeared; the investigation takes a turn when Voight uncovers a damaging secret from Chapman's past.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709140000 +0000" stop="20250709150000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>After a brutal shooting, Burgess and Ruzek find themselves trapped aboard the busy "L" subway; as they piece together scant evidence, the team is drawn into a dark family drama; Burgess' proximity to the shooting triggers harsh memories.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709150000 +0000" stop="20250709160000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>When a family is poisoned in their home, the team discovers a connection to the Becks; Ruzek goes undercover to work for their business, and as he gets closer to Samantha, chilling information about her father, Richard, comes to light.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709160000 +0000" stop="20250709170000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Voight takes the stand in a high-stakes murder trial against notorious drug kingpin Arturo Morales; when it becomes clear that Morales and his henchmen have compromised a juror, Voight and the team work furiously to ensure justice prevails.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709170000 +0000" stop="20250709180000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>An annoying floater takes a romantic interest in Violet; Ritter catches a local politician in a compromising position; Mouch and Severide help Trudy with an arson investigation.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709180000 +0000" stop="20250709190000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Kidd, Seager and Carver investigate a fire at the city stables; Kylie clashes with some of the firefighters over changes due to budget cuts; Herrmann struggles to keep it together as Cindy's condition worsens.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709190000 +0000" stop="20250709200000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Cruz feels the burden of his increased responsibilities; Kidd, Gallo and Carver get caught in the middle of a gang war on a call; Herrmann wrangles Trudy for help lifting Cindy's mood.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709200000 +0000" stop="20250709210000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Mouch builds a classic firetruck model for the Deputy District Chief but needs assistance from Gallo and Ritter; Brett and Violet encounter multiple victims with a strange set of symptoms; Cindy's chemotherapy results loom over the Herrmann family.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709210000 +0000" stop="20250709220000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>A familiar face returns to Firehouse 51 to serve with Kidd on a special task force; with Tony close to breaking the CFD's perfect attendance record, Mouch and Capp work to keep him safe; old grudges resurface when Gallo reunites with a family member.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709220000 +0000" stop="20250709230000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Boden, Ritter, Herrmann and Kidd work together to take down a local politician responsible for a chemical fire; after his aunt's accident, Gallo worries about their future; Brett steps in to perform Dylan's magic show when he's out of town.</desc>
-    <date>2025-07-09</date>
-  </programme>
-  <programme channel="403626" start="20250709230000 +0000" stop="20250710000000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Herrmann works on becoming a better man after Cindy's cancer journey; Kidd bonds with a homeless victim on a call; Kylie takes her firefighter exams; a harrowing call takes a toll on Brett.</desc>
-    <date>2025-07-09</date>
-  </programme>
   <programme channel="403626" start="20250710000000 +0000" stop="20250710023000 +0000">
     <title lang="zh">Ticket to Paradise</title>
     <desc>A man and his ex-wife race to Bali, Indonesia, to stop their daughter from marrying a seaweed farmer. As they desperately try to sabotage the wedding, the bickering duo soon find themselves rekindling old feelings that once made them happy together.</desc>
@@ -224,9 +104,109 @@
     <desc>Detectives try to decipher a motive for the strangulation of a Bronx assistant DA in an area where hookers stroll.</desc>
     <date>2025-07-10</date>
   </programme>
-  <programme channel="403626" start="20250711000000 +0000" stop="20250712000000 +0000">
+  <programme channel="403626" start="20250711000000 +0000" stop="20250711010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>A mother becomes Stabler and Benson's prime suspect in the poisoning of her child; Novak enlists Clark's assistance in obtaining evidence to remove a judge from the bench after his bias in two child abuse cases leads to a wrongful arrest.</desc>
     <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711010000 +0000" stop="20250711040300 +0000">
+    <title lang="zh">Jurassic World Dominion</title>
+    <desc>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711040300 +0000" stop="20250711050300 +0000">
+    <title lang="zh">The McBee Dynasty: Real American Cowboys</title>
+    <desc>Eldest brother Steven has a plan to save the farm from financial ruin, but younger brother Cole has his own idea on what's best.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711050300 +0000" stop="20250711060300 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A boy, 5, is abducted from his bed in the middle of the night, prompting detectives to take a hard look at the boy's estranged father.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711060300 +0000" stop="20250711070200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A standoff in a motel on the Jersey Shore incites a pedophile to take detective Benson hostage.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711070200 +0000" stop="20250711080100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives investigate the murder of a gay man who was the poster boy for sexual re-education.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711080100 +0000" stop="20250711090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After a man's mutilation on the subway, detectives discover he has been abducting women for years and forcing them to live in his dungeon.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711090000 +0000" stop="20250711100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Stabler and Capt. Cragen search for suspects after a missing infant is discovered badly beaten in the bushes at a local park.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711100000 +0000" stop="20250711110000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 has a day from hell with a never-ending series of bizarre emergency calls; a man tapes himself to a freeway billboard; a restaurant manager destroys his own business; Eddie feels a spark with Christopher's former teacher.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711110000 +0000" stop="20250711120000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The members of the 118 rush to the site of a hit-and-run that leaves a familiar face in critical condition; with Buck's help, Athena investigates the case of a missing woman; Josh recalls an emergency in 2006 that led him to become a first responder.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711120000 +0000" stop="20250711130000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>When a famous mystery writer dies, Athena, Bobby and the 118 respond to the chaos caused by a citywide manhunt for buried treasure the author left behind.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711130000 +0000" stop="20250711140000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The members of the 118 make calls to save a bridezilla at a disastrous wedding; Hen plays medical detective when her mother falls ill; Eddie and Christopher receive a visit from Carla; Athena uncovers a secret Bobby has been hiding.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711140000 +0000" stop="20250711150000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Athena and the 118 are on high alert when a sniper is targeting members of the LAFD; Maddie makes a life decision.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711150000 +0000" stop="20250711160000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A series of ransomware threats leads to emergencies for the 118, including a helicopter crash at a hospital and an air traffic control tower system failure; the case of the realtor serial rapist goes to trial.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711160000 +0000" stop="20250711170000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 springs into action when a citywide blackout and a record heat wave causes mayhem in Los Angeles; Chimney confides in Hen about Maddie's condition; Athena's worst nightmare comes true.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711170000 +0000" stop="20250711180000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>As the citywide blackout continues to cause mayhem in Los Angeles, Athena races to save her family from a tragedy; Eddie must make a difficult choice about his future; Maddie makes a life-changing decision.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711180000 +0000" stop="20250711190000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A truck crashes into a high school homecoming parade; Athena and Michael try to help Harry in the aftermath of his kidnapping; May is intimidated by a returning call center legend; Bobby gives a devastated Chimney advice regarding Maddie.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711190000 +0000" stop="20250711200000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A man over-exerts himself exercising; a groundskeeper is cut by his chainsaw; an explosion occurs at a retirement community; May gets an emergency call from a suicidal teen.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711200000 +0000" stop="20250711210000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Responding to a fire at a prison, Bobby and the 118 find themselves trapped in a deadly riot.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250711210000 +0000" stop="20250712000000 +0000">
+    <title lang="zh">Jurassic World Dominion</title>
+    <desc>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</desc>
+    <date>2025-07-11</date>
+  </programme>
+  <programme channel="403626" start="20250712000000 +0000" stop="20250713000000 +0000">
+    <title lang="zh">Live: WWE Friday Night SmackDown</title>
+    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-07-12</date>
   </programme>
 </tv>
