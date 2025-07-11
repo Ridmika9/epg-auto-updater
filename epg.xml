@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250710095954 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250710.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250710&amp;timezone=None">
+<tv date="20250711100239 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250711.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250711&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250710000000 +0000" stop="20250710023000 +0000">
-    <title lang="zh">Ticket to Paradise</title>
-    <desc>A man and his ex-wife race to Bali, Indonesia, to stop their daughter from marrying a seaweed farmer. As they desperately try to sabotage the wedding, the bickering duo soon find themselves rekindling old feelings that once made them happy together.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710023000 +0000" stop="20250710043000 +0000">
-    <title lang="zh">About My Father</title>
-    <desc>Encouraged by his fiancee, a man and his father spend the weekend with her wealthy and exceedingly eccentric family. The gathering soon develops into a culture clash, allowing father and son to discover the true meaning of family.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710043000 +0000" stop="20250710070000 +0000">
-    <title lang="zh">Ticket to Paradise</title>
-    <desc>A man and his ex-wife race to Bali, Indonesia, to stop their daughter from marrying a seaweed farmer. As they desperately try to sabotage the wedding, the bickering duo soon find themselves rekindling old feelings that once made them happy together.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710070000 +0000" stop="20250710080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Evidence points to an angry ex-boyfriend when a cocktail waitress is murdered outside a popular nightspot.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710080000 +0000" stop="20250710090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives suspect several young socialites of raping a girl at a Manhattan nightclub, then killing her.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710090000 +0000" stop="20250710100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives face off against a Colombian cartel and the Drug Enforcement Administration while investigating the brutal rape and murder of an undercover agent.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710100000 +0000" stop="20250710110000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>When weapons worth $1 million are stolen, the team tracks the evidence to a charity event; Mosley gets herself added to the event's guest list, bringing Callen and Sam along as her security detail.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710110000 +0000" stop="20250710120000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>Sam goes under cover as a day trader after an investment banker who has ties to Russia is murdered; one of Callen's aliases is the victim of credit card theft.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710120000 +0000" stop="20250710130000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>LAPD Detective Whiting calls in a favor when Deeks' former partner goes rogue.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710130000 +0000" stop="20250710140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A boy, 5, is abducted from his bed in the middle of the night, prompting detectives to take a hard look at the boy's estranged father.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710140000 +0000" stop="20250710150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives interrogate a man who accuses his wife (Josie Bissett) of endangering the life of their unborn child through excessive drinking.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710150000 +0000" stop="20250710160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives investigate the murder of a gay man who was the poster boy for sexual re-education.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710160000 +0000" stop="20250710170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a man's mutilation on the subway, detectives discover he has been abducting women for years and forcing them to live in his dungeon.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710170000 +0000" stop="20250710180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Capt. Cragen search for suspects after a missing infant is discovered badly beaten in the bushes at a local park.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710180000 +0000" stop="20250710190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A standoff in a motel on the Jersey Shore incites a pedophile to take detective Benson hostage.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710190000 +0000" stop="20250710200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives investigate the rape and murder of two Arab-American women who were trying to improve relations among different groups.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710200000 +0000" stop="20250710210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives probe what looks like the ritualistic sacrifice of a 7-year-old Nigerian boy and uncover a slave-smuggling ring.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710210000 +0000" stop="20250710220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After finding out a dead teenage girl was a bully, detectives look for murder suspects at her school.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710220000 +0000" stop="20250710230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A child dies in the emergency room after passing out during a prayer vigil at a late-night church service.</desc>
-    <date>2025-07-10</date>
-  </programme>
-  <programme channel="403626" start="20250710230000 +0000" stop="20250711000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives try to decipher a motive for the strangulation of a Bronx assistant DA in an area where hookers stroll.</desc>
-    <date>2025-07-10</date>
-  </programme>
   <programme channel="403626" start="20250711000000 +0000" stop="20250711010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>A mother becomes Stabler and Benson's prime suspect in the poisoning of her child; Novak enlists Clark's assistance in obtaining evidence to remove a judge from the bench after his bias in two child abuse cases leads to a wrongful arrest.</desc>
@@ -204,9 +104,119 @@
     <desc>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</desc>
     <date>2025-07-11</date>
   </programme>
-  <programme channel="403626" start="20250712000000 +0000" stop="20250713000000 +0000">
+  <programme channel="403626" start="20250712000000 +0000" stop="20250712020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
     <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712020000 +0000" stop="20250712030200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry is brought in front of The Galactic Housing Council to answer for his crimes.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712030200 +0000" stop="20250712040400 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry is brought in front of The Galactic Housing Council to answer for his crimes.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712040400 +0000" stop="20250712050400 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry struggles to find balance with his new human form.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712050400 +0000" stop="20250712060400 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry is brought in front of The Galactic Housing Council to answer for his crimes.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712060400 +0000" stop="20250712070300 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a San Diego woman who is near death arrives at an emergency room, the FBI and local law enforcement are called in to try to solve a medical mystery and a horrific crime.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712070300 +0000" stop="20250712080200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A successful businesswoman and mother of three is found shot in her office; the investigation into her death leaves a family divided.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712080200 +0000" stop="20250712090100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The murder of a California mother beloved by four men reopens a mystery surrounding another young woman's death that occurred decades earlier.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712090100 +0000" stop="20250712100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The murder of a California mother beloved by four men reopens a mystery surrounding another young woman's death that occurred decades earlier.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712100000 +0000" stop="20250712110000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A fire breaks out in an accountant's office and a car crashes into a "living funeral"; Athena is shocked when a suspect dies in her custody minutes after she arrests him; Buck is attracted to a death doula; Maddie and Chimney are audited by the IRS.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712110000 +0000" stop="20250712120000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 race to rescue two roommates desperately trying to find a needle in a haystack at a landfill, and help a woman whose nightmare dream suddenly becomes a painful reality; Athena and Maddie team up to find a missing boy in a crowded mall.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712120000 +0000" stop="20250712130000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A wedding proposal tragically intersects with a bank robbery; a bride is literally stuck on her way to the altar; Athena talks a victim through her grief; Buck finds a surprise visitor on his doorstep.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712130000 +0000" stop="20250712140000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A series of freeway car accidents leads to a catastrophic overpass collapse that endangers the lives of civilians and members of the 118.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712140000 +0000" stop="20250712150000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Athena and Bobby set off on their honeymoon cruise, but when duty calls, their vacation is put on hold; a fighter jet traps a civilian; an unusual incident leaves a couple stuck together.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712150000 +0000" stop="20250712160000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The disastrous cruise continues when Bobby and Athena respond to the ship's explosion, racing to aid injured passengers; Hen questions her instincts in a life-taking call and grows concerned about Athena and Bobby's whereabouts.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712160000 +0000" stop="20250712170000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>With each moment becoming critical as the ship flips upside down, Athena and Bobby take charge, seeking methods for rescue while navigating efforts to guide survivors to safety; Hen defies protocols in her search for Bobby and Athena.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712170000 +0000" stop="20250712193000 +0000">
+    <title lang="zh">Hall Pass</title>
+    <desc>Rick and Fred, two husbands who are having difficulty in their marriages, are given a Hall Pass by their wives for one week, they can do whatever they want.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712193000 +0000" stop="20250712220000 +0000">
+    <title lang="zh">Talladega Nights: The Ballad of Ricky Bobby</title>
+    <desc>NASCAR driver Ricky Bobby faces his greatest challenge ever when French Formula One driver Jean Girard roars onto the scene.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712220000 +0000" stop="20250712223000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>The Dunder Mifflin employees suffer through the annual office awards ceremony, The Dundies, hosted by Michael at their local watering hole a Chili's restaurant.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712223000 +0000" stop="20250712230000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Corporate office requires the staff go through sexual harassment training, but Michael worries that the new policy will make the office less fun for everyone.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712230000 +0000" stop="20250712233000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>While Michael and Dwight are away from the office, Jim and Pam organize an office Olympics where employees compete in ridiculous games.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250712233000 +0000" stop="20250713000000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>A small fire in the kitchen forces the staff to wait in the parking lot; Jim suggests a game of Desert Island; Michael tries to impress Ryan.</desc>
+    <date>2025-07-12</date>
+  </programme>
+  <programme channel="403626" start="20250713000000 +0000" stop="20250714000000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Halloween is not much fun for Michael when he learns he must fire someone; Jim and Pam put Dwight's CV on the internet.</desc>
+    <date>2025-07-13</date>
   </programme>
 </tv>
