@@ -1,109 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250711100239 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250711.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250711&amp;timezone=None">
+<tv date="20250712100333 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250712&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250711000000 +0000" stop="20250711010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A mother becomes Stabler and Benson's prime suspect in the poisoning of her child; Novak enlists Clark's assistance in obtaining evidence to remove a judge from the bench after his bias in two child abuse cases leads to a wrongful arrest.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711010000 +0000" stop="20250711040300 +0000">
-    <title lang="zh">Jurassic World Dominion</title>
-    <desc>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711040300 +0000" stop="20250711050300 +0000">
-    <title lang="zh">The McBee Dynasty: Real American Cowboys</title>
-    <desc>Eldest brother Steven has a plan to save the farm from financial ruin, but younger brother Cole has his own idea on what's best.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711050300 +0000" stop="20250711060300 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A boy, 5, is abducted from his bed in the middle of the night, prompting detectives to take a hard look at the boy's estranged father.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711060300 +0000" stop="20250711070200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A standoff in a motel on the Jersey Shore incites a pedophile to take detective Benson hostage.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711070200 +0000" stop="20250711080100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives investigate the murder of a gay man who was the poster boy for sexual re-education.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711080100 +0000" stop="20250711090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a man's mutilation on the subway, detectives discover he has been abducting women for years and forcing them to live in his dungeon.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711090000 +0000" stop="20250711100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Capt. Cragen search for suspects after a missing infant is discovered badly beaten in the bushes at a local park.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711100000 +0000" stop="20250711110000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 has a day from hell with a never-ending series of bizarre emergency calls; a man tapes himself to a freeway billboard; a restaurant manager destroys his own business; Eddie feels a spark with Christopher's former teacher.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711110000 +0000" stop="20250711120000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The members of the 118 rush to the site of a hit-and-run that leaves a familiar face in critical condition; with Buck's help, Athena investigates the case of a missing woman; Josh recalls an emergency in 2006 that led him to become a first responder.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711120000 +0000" stop="20250711130000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>When a famous mystery writer dies, Athena, Bobby and the 118 respond to the chaos caused by a citywide manhunt for buried treasure the author left behind.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711130000 +0000" stop="20250711140000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The members of the 118 make calls to save a bridezilla at a disastrous wedding; Hen plays medical detective when her mother falls ill; Eddie and Christopher receive a visit from Carla; Athena uncovers a secret Bobby has been hiding.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711140000 +0000" stop="20250711150000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Athena and the 118 are on high alert when a sniper is targeting members of the LAFD; Maddie makes a life decision.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711150000 +0000" stop="20250711160000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>A series of ransomware threats leads to emergencies for the 118, including a helicopter crash at a hospital and an air traffic control tower system failure; the case of the realtor serial rapist goes to trial.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711160000 +0000" stop="20250711170000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 springs into action when a citywide blackout and a record heat wave causes mayhem in Los Angeles; Chimney confides in Hen about Maddie's condition; Athena's worst nightmare comes true.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711170000 +0000" stop="20250711180000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>As the citywide blackout continues to cause mayhem in Los Angeles, Athena races to save her family from a tragedy; Eddie must make a difficult choice about his future; Maddie makes a life-changing decision.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711180000 +0000" stop="20250711190000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>A truck crashes into a high school homecoming parade; Athena and Michael try to help Harry in the aftermath of his kidnapping; May is intimidated by a returning call center legend; Bobby gives a devastated Chimney advice regarding Maddie.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711190000 +0000" stop="20250711200000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>A man over-exerts himself exercising; a groundskeeper is cut by his chainsaw; an explosion occurs at a retirement community; May gets an emergency call from a suicidal teen.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711200000 +0000" stop="20250711210000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Responding to a fire at a prison, Bobby and the 118 find themselves trapped in a deadly riot.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="403626" start="20250711210000 +0000" stop="20250712000000 +0000">
-    <title lang="zh">Jurassic World Dominion</title>
-    <desc>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</desc>
-    <date>2025-07-11</date>
-  </programme>
   <programme channel="403626" start="20250712000000 +0000" stop="20250712020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
@@ -214,9 +114,114 @@
     <desc>A small fire in the kitchen forces the staff to wait in the parking lot; Jim suggests a game of Desert Island; Michael tries to impress Ryan.</desc>
     <date>2025-07-12</date>
   </programme>
-  <programme channel="403626" start="20250713000000 +0000" stop="20250714000000 +0000">
+  <programme channel="403626" start="20250713000000 +0000" stop="20250713003000 +0000">
     <title lang="zh">The Office</title>
     <desc>Halloween is not much fun for Michael when he learns he must fire someone; Jim and Pam put Dwight's CV on the internet.</desc>
     <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713003000 +0000" stop="20250713010000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>When Dwight karate-chops Michael in the stomach at work, a lunchtime rematch is quickly organised; things become awkward between Pam and Jim.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713010000 +0000" stop="20250713013000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael and Jan try to land a new client by taking him out to Chili's; back in the office, Jim finds a script written by Michael and the workers cannot resist acting it out.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713013000 +0000" stop="20250713020000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Everyone is on edge during performance review, including Michael, who steals the employee suggestion box to get ideas he can present to his boss.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713020000 +0000" stop="20250713023000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>When Michael begins monitoring their e-mails, he manages to upset all of the employees.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713023000 +0000" stop="20250713030000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>After Michael suggests a game of "Yankee Swap" with the Secret Santa gifts, everyone fights over Michael's gift to Ryan, bringing morale to an all-time low.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713030000 +0000" stop="20250713053000 +0000">
+    <title lang="zh">Talladega Nights: The Ballad of Ricky Bobby</title>
+    <desc>NASCAR driver Ricky Bobby faces his greatest challenge ever when French Formula One driver Jean Girard roars onto the scene.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713053000 +0000" stop="20250713080000 +0000">
+    <title lang="zh">Hall Pass</title>
+    <desc>Rick and Fred, two husbands who are having difficulty in their marriages, are given a Hall Pass by their wives for one week, they can do whatever they want.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713080000 +0000" stop="20250713090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives probe what looks like the ritualistic sacrifice of a 7-year-old Nigerian boy and uncover a slave-smuggling ring.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713090000 +0000" stop="20250713100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After finding out a dead teenage girl was a bully, detectives look for murder suspects at her school.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713100000 +0000" stop="20250713110100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler's investigation into a sexual abuse case goes awry when their wealthy suspect involves his lawyer.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713110100 +0000" stop="20250713120000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Stabler and Tutuola search for a victim and her attacker after video of a sexual assault is featured on a college campus Intranet feed.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713120000 +0000" stop="20250713130000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After a woman is found dead in her apartment, detectives investigate her personal contacts, including an employer (Kate Burton), in search of suspects.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713130000 +0000" stop="20250713140000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>DDA Jonah Dekker (Terrence Howard) comes to New York to defend his cousin, who has been accused of rape; ADA Casey Novak (Diane Neal) helps Detectives Stabler and Benson with the case.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713140000 +0000" stop="20250713150000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After a baby is found on a playground, Detectives Stabler and Benson look for the child's caregiver.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713150000 +0000" stop="20250713160000 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry is brought in front of The Galactic Housing Council to answer for his crimes.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713160000 +0000" stop="20250713180000 +0000">
+    <title lang="zh">Pro Motocross Championship</title>
+    <desc>Round 24.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713180000 +0000" stop="20250713210000 +0000">
+    <title lang="zh">Live: IMSA WeatherTech SportsCar Championship</title>
+    <desc>From Canadian Tire Motorsport Park in Bowmanville, Ont.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713210000 +0000" stop="20250713220000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Tutuola dig into the past of a basketball star while investigating sexual abuse charges against his former coach.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713220000 +0000" stop="20250713230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Voight and members of the Chicago PD travel to New York to help SVU pursue Yates, their prime suspect in a rape/murder case.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250713230000 +0000" stop="20250714000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detective Rollins hopes to elicit a confession from serial killer Gregory Yates (Dallas Roberts) when a body washes up on the beach where he buried victims, but the information he provides sends shock waves through the police department.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="403626" start="20250714000000 +0000" stop="20250715000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives continue to investigate a woman's murder and dismemberment by following a lead provided by serial killer Gregory Yates.</desc>
+    <date>2025-07-14</date>
   </programme>
 </tv>
