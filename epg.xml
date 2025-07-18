@@ -1,54 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250717100404 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250717.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250717&amp;timezone=None">
+<tv date="20250718100540 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250718.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250718&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250717010000 +0000" stop="20250717030000 +0000">
-    <title lang="zh">London Has Fallen</title>
-    <desc>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
-    <date>2025-07-17</date>
-  </programme>
-  <programme channel="403626" start="20250717030000 +0000" stop="20250717040000 +0000">
-    <title lang="zh">Kings Court</title>
-    <desc>Celebrity Kings Tyson, Carlos and Thaddeus begin their quest for love with the first group of Queens.</desc>
-    <date>2025-07-17</date>
-  </programme>
-  <programme channel="403626" start="20250717040000 +0000" stop="20250717050000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A dead newborn leads detectives to a dermatologist, then a serial pedophile.</desc>
-    <date>2025-07-17</date>
-  </programme>
-  <programme channel="403626" start="20250717050000 +0000" stop="20250717060000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A video voyeur catches a sexual assault against a minor on tape, which changes the focus of the investigation as the detectives search for a pedophile.</desc>
-    <date>2025-07-17</date>
-  </programme>
-  <programme channel="403626" start="20250717060000 +0000" stop="20250717070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives discover that a murdered teenage girl was a prostitute and had contracted HIV while working on a pornographic film, which leads them to her killer.</desc>
-    <date>2025-07-17</date>
-  </programme>
-  <programme channel="403626" start="20250717070000 +0000" stop="20250717080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A home invasion and kidnapping lead the SVU to a shocking discovery; Muncy tries to fit in with the squad.</desc>
-    <date>2025-07-17</date>
-  </programme>
-  <programme channel="403626" start="20250717080000 +0000" stop="20250717193000 +0000">
-    <title lang="zh">Live: 2025 Open Championship</title>
-    <desc>The opening round of The 153rd Open gets underway at Royal Portrush Golf Club in Northern Ireland.</desc>
-    <date>2025-07-17</date>
-  </programme>
-  <programme channel="403626" start="20250717193000 +0000" stop="20250717220000 +0000">
-    <title lang="zh">Olympus Has Fallen</title>
-    <desc>Disgraced Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.</desc>
-    <date>2025-07-17</date>
-  </programme>
-  <programme channel="403626" start="20250717220000 +0000" stop="20250718000000 +0000">
-    <title lang="zh">London Has Fallen</title>
-    <desc>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
-    <date>2025-07-17</date>
-  </programme>
   <programme channel="403626" start="20250718000000 +0000" stop="20250718023000 +0000">
     <title lang="zh">Angel Has Fallen</title>
     <desc>Wrongfully accused of trying to kill the president, framed Secret Service agent Mike Banning must evade the FBI and his own agency to uncover the truth and save the country from imminent danger.</desc>
