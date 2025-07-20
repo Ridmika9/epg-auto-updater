@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250719095948 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250719.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250719&amp;timezone=None">
+<tv date="20250720101930 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250720.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250720&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250719000000 +0000" stop="20250719020000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719020000 +0000" stop="20250719030200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry has to prove himself to someone from his past.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719030200 +0000" stop="20250719050000 +0000">
-    <title lang="zh">John Wick</title>
-    <desc>New York City becomes the bullet-riddled playground of a former assassin (Keanu Reeves) as he hunts down the Russian mobsters who destroyed everything he held dear.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719050000 +0000" stop="20250719060000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry has to prove himself to someone from his past.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719060000 +0000" stop="20250719070000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>A 21-year-old college senior is shot and killed in a public park just months before her graduation.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719070000 +0000" stop="20250719080000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>The unbelievable murder of Carol Kennedy, a popular college professor, artist and mother.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719080000 +0000" stop="20250719090000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>The unbelievable murder of Carol Kennedy, a popular college professor, artist and mother.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719090000 +0000" stop="20250719110000 +0000">
-    <title lang="zh">Live: 2025 Open Championship</title>
-    <desc>World No. 1 Scottie Scheffler pursues his first British Open title during second-round play at Royal Portrush Golf Club. Scheffler boasts two Masters titles and a PGA Championship. His best finish in the Open, though, was T7 last year.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719110000 +0000" stop="20250719120000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Upton becomes consumed with a decades-old missing persons case linked to Petrovic after a young child shows up to the district seeking help.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719120000 +0000" stop="20250719130000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>As Atwater finds himself distracted by a past case, a CI from his past resurfaces with a tip on a string of armed robberies that are raising concerns.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719130000 +0000" stop="20250719140000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Intelligence chase down a lead in the ongoing serial killer investigation as news of the case reach the public.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719140000 +0000" stop="20250719164500 +0000">
-    <title lang="zh">John Wick: Chapter 3 -- Parabellum</title>
-    <desc>Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719164500 +0000" stop="20250719191500 +0000">
-    <title lang="zh">John Wick: Chapter 2</title>
-    <desc>Legendary hit man John Wick comes out of retirement when a former associate plots to seize control of an international assassins' guild. Bound by a blood oath to help him, Wick travels to Rome to square off against the world's deadliest killers.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719191500 +0000" stop="20250719220000 +0000">
-    <title lang="zh">John Wick: Chapter 3 -- Parabellum</title>
-    <desc>Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719220000 +0000" stop="20250719223000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>When Michael takes the Mifflin crew on a motivational harbor cruise, things get out of hand and Michael ends up in the brig.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719223000 +0000" stop="20250719230000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>After he has an accident while using a grill, injured Michael demands attention from the entire Dunder Mifflin office.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719230000 +0000" stop="20250719233000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>Because Jim fears Michael will tell the others he likes Pam, he pretends to be Michael's best friend.</desc>
-    <date>2025-07-19</date>
-  </programme>
-  <programme channel="403626" start="20250719233000 +0000" stop="20250720000000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>When someone stains the carpet in Michael's office, he begins to question his popularity among his staff.</desc>
-    <date>2025-07-19</date>
-  </programme>
   <programme channel="403626" start="20250720000000 +0000" stop="20250720003000 +0000">
     <title lang="zh">The Office</title>
     <desc>When Jan conducts a seminar for the female employees, Michael takes the guys to the warehouse for some male bonding.</desc>
@@ -219,9 +129,129 @@
     <desc>When Detective Benson faces Lewis in the courtroom, the stress causes setbacks in her recovery; Benson is forced to reveal secrets.</desc>
     <date>2025-07-20</date>
   </programme>
-  <programme channel="403626" start="20250721000000 +0000" stop="20250722000000 +0000">
+  <programme channel="403626" start="20250721000000 +0000" stop="20250721010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>When a 15-year-old who was part of a group of kids who put a transgender teen in the hospital is tried as an adult, the SVU team wonders whether the punishment fits the crime.</desc>
     <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721010000 +0000" stop="20250721020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>SVU must unravel the mystery of a sexually assaulted young homeless woman who has a dual personality; when she goes missing after being assaulted, the team is challenged to uncover not only her identity but also her whereabouts.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721020000 +0000" stop="20250721030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Rollins must revisit an old case when a child sent to juvenile detention is released after his 18th birthday.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721030000 +0000" stop="20250721040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A man with dementia confesses to murder, but Benson and Carisi believe there's more to the case; when rumors swirl around the squad room, Fin presses Velasco for the truth.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721040000 +0000" stop="20250721050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives investigate a man whose 12-year-old wife is hospitalized with pregnancy complications, and they learn that he is the leader of a cult.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721050000 +0000" stop="20250721060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Two local hoods are implicated in the murder and rape of an elderly woman, though they claim they only broke in to rob her.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721060000 +0000" stop="20250721070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>An attacker rips a fetus from a woman's womb, launching the detectives on a frantic search in hope that the baby survived.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721070000 +0000" stop="20250721080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler must rely on a psychiatrist (Mary Stuart Masterson) and her schizophrenic patient to find the man behind a number of assaults on the Upper West Side.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721080000 +0000" stop="20250721090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler must determine a murder victim's actual identity when the presumed victim turns up alive.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721090000 +0000" stop="20250721100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When Detective Benson faces Lewis in the courtroom, the stress causes setbacks in her recovery; Benson is forced to reveal secrets.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721100000 +0000" stop="20250721110000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The son of an outspoken critic becomes the prime suspect when the star of a controversial teen show is raped in her trailer on the set.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721110000 +0000" stop="20250721120000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives investigate a man whose 12-year-old wife is hospitalized with pregnancy complications, and they learn that he is the leader of a cult.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721120000 +0000" stop="20250721130000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After recovering from being shot during a robbery, Fin returns to the narcotics division to keep a promise he made to locate a missing person.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721130000 +0000" stop="20250721140000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A gang member is pushed from a rooftop in what appears to be retribution for a sexual assault, but when the assault victim also turns up dead, the detectives realize the case is far more complicated.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721140000 +0000" stop="20250721150000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A tip leads Benson and Cragen to the body of a 7-year-old boy, missing since 1980, and the detectives think the new information was a ploy to help the suspected killer, on death row for another murder, delay his execution.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721150000 +0000" stop="20250721160000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Stabler struggles to keep his emotions in check as he interrogates a man (Matthew Modine) suspected in the murder of a teenage girl -- a man he once let get away on similar charges.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721160000 +0000" stop="20250721170000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a teenage girl disappears, a psychic (guest star Martin Short) is brought into the investigation.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721170000 +0000" stop="20250721180000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When two police officers in separate precincts attack their wives and demonstrate suicidal behavior, Benson and Stabler suspect a malaria drug both men received while serving in a reserve unit in Afghanistan.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721180000 +0000" stop="20250721190000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a 9-year-old girl calls for help, claiming to be held hostage in a strange room for four days, many believe it is a prank, but Detective Benson feels otherwise.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721190000 +0000" stop="20250721200000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>After a high-school student is brutally assaulted, detectives interview a suspect who becomes enraged and attacks Detective Tutuola.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721200000 +0000" stop="20250721210000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a coed dependent upon financial aid is found dead with a large sum of cash, detectives suspect her wealthy roommate.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721210000 +0000" stop="20250721220000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Rollins and Kat respond to a dangerous domestic violence call while Fin gives his deposition in the lawsuit against him.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721220000 +0000" stop="20250721230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson tries to help a student after she's assaulted on a field trip; Fin suspects a witness in the case may not be telling the whole truth.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250721230000 +0000" stop="20250722000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Carisi are baffled when a series of assaults have the same M.O. but different DNA at each crime scene; Muncy believes Elias Olsen has struck again and is determined to prove it.</desc>
+    <date>2025-07-21</date>
+  </programme>
+  <programme channel="403626" start="20250722000000 +0000" stop="20250723000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>In the search for a revenge-for-hire crime ring, Benson and Stabler combine forces on a case that has now spread globally; Fin and Bruno help a victim assaulted a second time; Jet's plan to hack the dark web backfires and puts the team in danger.</desc>
+    <date>2025-07-22</date>
   </programme>
 </tv>
