@@ -1,104 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250724100446 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250724.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250724&amp;timezone=None">
+<tv date="20250725093853 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250725.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250725&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250724023300 +0000" stop="20250724060600 +0000">
-    <title lang="zh">John Wick: Chapter 4</title>
-    <desc>With the price on his head ever increasing, legendary hit man John Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Japan to Berlin.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724060600 +0000" stop="20250724070400 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A tip leads Benson and Cragen to the body of a 7-year-old boy, missing since 1980, and the detectives think the new information was a ploy to help the suspected killer, on death row for another murder, delay his execution.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724070400 +0000" stop="20250724080200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a teenage girl disappears, a psychic (guest star Martin Short) is brought into the investigation.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724080200 +0000" stop="20250724090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a 9-year-old girl calls for help, claiming to be held hostage in a strange room for four days, many believe it is a prank, but Detective Benson feels otherwise.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724090000 +0000" stop="20250724100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a high-school student is brutally assaulted, detectives interview a suspect who becomes enraged and attacks Detective Tutuola.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724100000 +0000" stop="20250724110000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>Hetty is being tortured by her captors in Vietnam; Eric and Nell find a clue to her whereabouts; the team organizes a rescue mission.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724110000 +0000" stop="20250724120000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>NCIS joins Hetty's team from the Vietnam War in a dangerous rescue mission to save Hetty from her captors in Vietnam; Mosley calls in Nell's sister to assist the team in Los Angeles with processing evidence connected to Hetty's time in Vietnam.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724120000 +0000" stop="20250724130000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>Callen and Sam pull Granger's daughter, former spy Jennifer Kim, from witness protection to help the team locate a spy who has obtained an arsenal of bomb materials.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724130000 +0000" stop="20250724140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The dismembered body of a woman is found in a junkyard, and detectives must determine who killed her and who attempted to harvest organs from her corpse.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724140000 +0000" stop="20250724150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>While Fin deals with colleagues who accuse his son of murder, he learns a secret that reveals more about his family's relationship with Darius.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724150000 +0000" stop="20250724160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A serial pedophile murders members of a family and kidnaps the two younger children.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724160000 +0000" stop="20250724170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman believes her young son was molested by her husband; an online pedophile site is investigated.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724170000 +0000" stop="20250724180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An unstable woman stops taking medication and mows down 10 people with her car; a former rock star wages an anti-psychiatric-drug campaign.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724180000 +0000" stop="20250724190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Fin investigate the disappearance of two high-school students from a museum field-trip; Stabler meets his new partner.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724190000 +0000" stop="20250724200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Beck (Connie Nielsen) are unable to build a case against a rape suspect until a new witness (Leslie Caron) steps forward.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724200000 +0000" stop="20250724210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When an assailant rapes his victim twice, detectives Stabler and Beck (Connie Nielsen) link the case to other victims of multiple rapes.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724210000 +0000" stop="20250724220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>ADA Novak calls upon detective Benson, still under cover in Oregon, to present evidence that will strengthen the case against a brutal rapist.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724220000 +0000" stop="20250724230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A car accident involving two foster children leads detectives Beck and Stabler to the foster parents and questionable medical practices involving a controversial "rebirthing" therapy.</desc>
-    <date>2025-07-24</date>
-  </programme>
-  <programme channel="403626" start="20250724230000 +0000" stop="20250725000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman is found dead in Central Park, and when the medical examiner can find no apparent cause of death, Stabler starts investigating the victim's husband (Chris Sarandon) and his friends.</desc>
-    <date>2025-07-24</date>
-  </programme>
   <programme channel="403626" start="20250725000000 +0000" stop="20250725010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>A 15-year-old with a sexually transmitted disease says he caught it from his teacher (Melissa Joan Hart); Benson and Stabler uncover dark secrets while searching into the pair's lives.</desc>
@@ -199,9 +104,134 @@
     <desc>A New England police chief (Roy Scheider), a shark hunter (Robert Shaw) and a scientist (Richard Dreyfuss) have a showdown with a huge white shark.</desc>
     <date>2025-07-25</date>
   </programme>
-  <programme channel="403626" start="20250726000000 +0000" stop="20250727000000 +0000">
+  <programme channel="403626" start="20250726000000 +0000" stop="20250726020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
     <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726020000 +0000" stop="20250726030200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry enlists an unlikely ally to help him save Patience.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726030200 +0000" stop="20250726040200 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The members of the 118 are called to a series of emergencies around Christmas Eve; Eddie struggles with an emotional Christopher.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726040200 +0000" stop="20250726050200 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Athena, Bobby and the 118 must rescue a family whose pick-up truck has been rigged with a pipe bomb that will detonate if the vehicle slows down and goes under 55 mph; Eddie has a rough transition into his new job; Buck makes a relationship decision.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726050200 +0000" stop="20250726060400 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry enlists an unlikely ally to help him save Patience.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726060400 +0000" stop="20250726070300 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>Randy Baker finds his calling as a counselor then winds up dead.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726070300 +0000" stop="20250726080200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A DNA breakthrough in a murder case that is more than a decade old leads two determined detectives to surprising suspects.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726080200 +0000" stop="20250726090100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a mother of four dies unexpectedly on Valentine's Day, her death is attributed to natural causes, but a detective suspects that someone murdered the woman.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726090100 +0000" stop="20250726100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a mother of four dies unexpectedly on Valentine's Day, her death is attributed to natural causes, but a detective suspects that someone murdered the woman.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726100000 +0000" stop="20250726110000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>With Voight sidelined, Antonio and Ruzek clash as Intelligence races to solve a high-stakes case involving a series of overdose deaths caused by bad heroin.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726110000 +0000" stop="20250726120000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Intelligence joins forces with Firehouse 51 after a devastating high-rise fire is ruled arson, and Halstead, who has a tragic connection to the fire, struggles to stay objective as he gets deeper into the investigation.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726120000 +0000" stop="20250726130000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Intelligence's investigation into a string of robberies targeting vulnerable immigrants escalates when a teenage girl connected to a critic of the CPD is kidnapped by the robbers.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726130000 +0000" stop="20250726140000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Burgess finds herself in a difficult situation when she responds to a call while a civilian is in her car for a ride-along that was requested by Brennan.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726140000 +0000" stop="20250726150000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Intelligence's investigation of a nightclub owner suspected of cocaine distribution is complicated when Ruzek recognizes someone close to him while working undercover.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726150000 +0000" stop="20250726160000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>When the wife of an alderman is beaten to death, Voight finds himself under pressure from Brennan to close the case; Upton shares a dark episode from her past to elicit a confession.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726160000 +0000" stop="20250726170000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Voight urges Halstead to remain impartial and follow the facts when the leader of a local mosque becomes the suspect in the bombing of an Army recruitment center.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726170000 +0000" stop="20250726180000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>The stakes become personal for Atwater during Intelligence's investigation of a drug dealer suspected of homicide.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726180000 +0000" stop="20250726190000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>As his dependency on prescription painkillers grows, Antonio crosses a line, endangering someone close to him and ultimately putting the entire team at risk.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726190000 +0000" stop="20250726200000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Intelligence investigates a carjacking turned homicide; Ruzek makes a decision that puts his life and career at risk to protect those close to him.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726200000 +0000" stop="20250726210000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Intelligence crosses with a mayoral candidate while investigating the fatal shooting of a well-known defense attorney; Antonio returns to work but questions his own judgment when an operation goes sideways.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726210000 +0000" stop="20250726220000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Voight pursues a suspect against the police commissioner's orders; Halstead puts his career at risk when a case involving a recently released drug dealer turns personal.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726220000 +0000" stop="20250726223000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Chaos ensues when Michael takes responsibility for conflict resolution from the Human Relations department.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726223000 +0000" stop="20250726230000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Employees take some big gambles when they host a charity casino-night in their warehouse.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726230000 +0000" stop="20250726233000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael unintentionally outs a gay employee; the situation with Jim and Pam.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250726233000 +0000" stop="20250727000000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael organizes a party in his hotel room when he, Dwight and Jan attend the Northeastern Mid-Market Office Supply Convention in Philadelphia.</desc>
+    <date>2025-07-26</date>
+  </programme>
+  <programme channel="403626" start="20250727000000 +0000" stop="20250728000000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>After Jan busts Michael for having a "movie Monday," Angela pushes Dwight to make a play for Michael's job.</desc>
+    <date>2025-07-27</date>
   </programme>
 </tv>
