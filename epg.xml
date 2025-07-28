@@ -1,144 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250727102029 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250727.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250727&amp;timezone=None">
+<tv date="20250728101131 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250728.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250728&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250727000000 +0000" stop="20250727003000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>After Jan busts Michael for having a "movie Monday," Angela pushes Dwight to make a play for Michael's job.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727003000 +0000" stop="20250727010000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>Michael tries to help the staff grieve after learning that the former regional manager has died.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727010000 +0000" stop="20250727013000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>Dwight takes Ryan on his first sales call, subjecting him to an outrageous series of tests along the way.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727013000 +0000" stop="20250727020000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>Michael urges the staff to support Kelly and attend a local celebration of the Hindu Festival of Lights.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727020000 +0000" stop="20250727023000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>Michael strives to keep the staff's spirit up after learning of the Scranton branch shutting down; people envision how their lives will change.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727023000 +0000" stop="20250727030000 +0000">
-    <title lang="zh">The Office</title>
-    <desc>Old friends Jim and Pam are back together after months apart as the Scranton branch and Stamford branch are finally merged.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727030000 +0000" stop="20250727040200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry enlists an unlikely ally to help him save Patience.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727040200 +0000" stop="20250727050200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The upsetting discovery of a teenage network revolving around sex, drugs and booze raises alarms for the Stablers about their own daughter.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727050200 +0000" stop="20250727060200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler probe an assault and carjacking, only to find that it is connected to illegal trafficking in painkillers apparently headed by an elderly woman (Melinda Dillon).</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727060200 +0000" stop="20250727070100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Fin investigate the disappearance of two high-school students from a museum field-trip; Stabler meets his new partner.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727070100 +0000" stop="20250727080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Beck (Connie Nielsen) are unable to build a case against a rape suspect until a new witness (Leslie Caron) steps forward.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727080000 +0000" stop="20250727090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When an assailant rapes his victim twice, detectives Stabler and Beck (Connie Nielsen) link the case to other victims of multiple rapes.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727090000 +0000" stop="20250727100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>ADA Novak calls upon detective Benson, still under cover in Oregon, to present evidence that will strengthen the case against a brutal rapist.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727100000 +0000" stop="20250727110000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry enlists an unlikely ally to help him save Patience.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727110000 +0000" stop="20250727120000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a popular teen is sexually assaulted, Benson and Stabler delve into a modeling underworld of thoughtless parents, drug-dealing doctors and a trendy agency executive.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727120000 +0000" stop="20250727130000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The upsetting discovery of a teenage network revolving around sex, drugs and booze raises alarms for the Stablers about their own daughter.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727130000 +0000" stop="20250727140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler probe an assault and carjacking, only to find that it is connected to illegal trafficking in painkillers apparently headed by an elderly woman (Melinda Dillon).</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727140000 +0000" stop="20250727150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A homeless man is a suspect in the rape and murder of a mother and daughter; it turns out to be Munch's uncle.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727150000 +0000" stop="20250727160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A local police captain (Kim Delaney) questions Benson when she investigates a rape outside her jurisdiction.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727160000 +0000" stop="20250727170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A man (Chris "Ludacris" Bridges) connected to Fin's son goes on trial for the murders of a woman and her baby.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727170000 +0000" stop="20250727180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Stabler's job and personal life intertwine when his daughter Kathleen becomes a suspect in a case; after learning that Kathleen may have an emotional disorder, he turns to his estranged mother (Ellen Burstyn) for help.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727180000 +0000" stop="20250727190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the corpse of a famous astronaut is found floating in the waters of Battery Park, Detectives Benson and Stabler think the murder may be connected to a string of serial rapes; at a dead end, Stabler seeks advice from an old mentor (James Brolin).</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727190000 +0000" stop="20250727200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A girl at Detective Stabler's daughter's school accuses another student of rape; ADA Paxton (Christine Lahti) returns to prosecute.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727200000 +0000" stop="20250727210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Olivia's half-brother shows up looking for help when child services threatens to take his kids away; the investigation into an abandoned baby found by a homeless couple leads to a shocking discovery.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727210000 +0000" stop="20250727220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU squad tries to keep Detective Rollins' sister safe from her abusive boyfriend when she turns up beaten and pregnant; when Rollins is forced to take drastic action, an internal affairs investigation begins.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727220000 +0000" stop="20250727230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When Carisi's sister's fiancé falls back into bad habits and accuses his parole officer of rape, Carisi must investigate.</desc>
-    <date>2025-07-27</date>
-  </programme>
-  <programme channel="403626" start="20250727230000 +0000" stop="20250728000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A sexually assaulted athlete's secret double life could destroy her Olympic career and ruin the case against her attacker; Rollins' sister is released from prison on parole.</desc>
-    <date>2025-07-27</date>
-  </programme>
   <programme channel="403626" start="20250728000000 +0000" stop="20250728010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>When a student disappears during a school trip to New York, the cops race to find a mysterious masked man; Fin and Stone both get visits from family.</desc>
@@ -259,9 +124,49 @@
     <desc>A man under investigation for rape and murder threatens to expose the secrets of those who are working on the case.</desc>
     <date>2025-07-28</date>
   </programme>
-  <programme channel="403626" start="20250729000000 +0000" stop="20250730000000 +0000">
+  <programme channel="403626" start="20250729000000 +0000" stop="20250729010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>The SVU investigates when a woman claims a charismatic spiritual healer used hypnosis to incapacitate her and assault her.</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="403626" start="20250729010000 +0000" stop="20250729020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The cops get tangled in an elaborate online hoax that leads to the rape of a popular social media star; Benson sets new ground rules with Sheila.</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="403626" start="20250729020000 +0000" stop="20250729030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Emotions run high as the squad embarks on a frantic search for Benson's missing son.</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="403626" start="20250729030000 +0000" stop="20250729040200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry enlists an unlikely ally to help him save Patience.</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="403626" start="20250729040200 +0000" stop="20250729050200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A distraught pregnant woman threatens suicide, claiming that her child is a product of rape, but when the case goes to trial, the woman's willingness to settle for cash makes detectives suspicious.</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="403626" start="20250729050200 +0000" stop="20250729060200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detective Stabler and CSU technician Millie Vizcarrondo (Paula Garcés) investigate a child's remains found at a construction site and find they belong to one of five boys reported missing 30 years earlier.</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="403626" start="20250729060200 +0000" stop="20250729070200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When an envelope containing a picture appears at the precinct, the detectives pick up the trail of a child pornographer.</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="403626" start="20250729070200 +0000" stop="20250729080200 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Four honor students are arrested for criminally negligent homicide when another student dies at a party that they threw.</desc>
+    <date>2025-07-29</date>
+  </programme>
+  <programme channel="403626" start="20250729080200 +0000" stop="20250730000000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The investigation into the disappearance of a mother of three in Colorado reveals she was living a double life.</desc>
     <date>2025-07-29</date>
   </programme>
 </tv>
