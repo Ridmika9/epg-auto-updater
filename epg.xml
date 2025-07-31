@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250730100736 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250730.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250730&amp;timezone=None">
+<tv date="20250731095925 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250731.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250731&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250730000000 +0000" stop="20250730010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A doctor arrested for sexually abusing his patients is set free after Cassidy's testimony causes a mistrial.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730010000 +0000" stop="20250730020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A girl's tragic death becomes a criminal case when a surgeon harvests her organs without parental consent.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730020000 +0000" stop="20250730030000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A 10-year-old girl taken from her mother at the U.S.-Mexico border ends up in a sex-trafficking ring in New York, and Benson and Stone fight to reunite the girl with her mother; Rollins confesses to her ex.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730030000 +0000" stop="20250730040000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A serial rapist strikes again after two decades of silence, and SVU is determined to uncover the elusive criminal and bring justice to his many victims; Stone discovers that his father worked on the case before it went cold.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730040000 +0000" stop="20250730050000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and the team investigate the death of a prostitute at a brothel; they wonder if there was foul play or if this could be a case of a junkie who relapsed, turned to tricking, got depressed and committed suicide.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730050000 +0000" stop="20250730060000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A bitter separation pits a husband and wife (Blair Underwood, Michael Michele) against each other as they try to gain custody of their daughter (Tiffany Evans).</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730060000 +0000" stop="20250730070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Fin is asked to look into a case of rape at his son's college, where he meets a Brooklyn detective (Adam Beach) who is investigating a similar crime.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730070000 +0000" stop="20250730080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a mob lawyer (Cary Elwes) and his wife are attacked, their young son is the only witness; when he comes out of surgery, the man vividly remembers his daughter at the crime scene.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730080000 +0000" stop="20250730090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An overzealous reporter's accusation leads a despondent new mother (Ashley Williams) to kill herself; detectives continue to search for the mother's missing child as time gets shorter.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730090000 +0000" stop="20250730100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a female pundit is assaulted during a protest, Benson and Barba struggle to put their political beliefs aside to help bring the attacker to justice.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730100000 +0000" stop="20250730110000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>When District 21 goes after a Colombian drug gang following a series of brutal slayings, an asset in the investigation emerges.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730110000 +0000" stop="20250730120000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Antonio believes a Colombian gang is involved in his son's kidnapping; Halstead learns new information about Lindsay; Voight offers Antonio a new way to get information about Diego's whereabouts.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730120000 +0000" stop="20250730130000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Voight and the team check out a house that has been associated with a series of gangs; people from the past cause Halstead's temper to rise.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730130000 +0000" stop="20250730140000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Olinsky tries to protect his daughter; a counterfeiting operation is investigated; when a hoarder is arrested, more than clutter is uncovered.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730140000 +0000" stop="20250730150000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Atwater and Burgess must keep their new patrol car in mint condition; the Intelligence Unit uncovers drug smuggling; Voight's behavior toward Lindsay drives her right where he doesn't want her; tensions rise between Olinsky and Ruzek.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730150000 +0000" stop="20250730160000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>New York's SVU agents Fin and Rollins help track down a serial killer who rapes his victims; Burgess gets an opportunity to prove herself; Lindsay brings Halstead as her date to her high school reunion.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730160000 +0000" stop="20250730170000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Voight's son may be involved with the Fitori murder case, intensifying tension between Antonio and Voight; Ruzek helps Burgess get retribution.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730170000 +0000" stop="20250730180000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>The Firehouse 51 crew has a Thanksgiving to remember when drugs, a car accident, and a gang shooting get in the way of traditional holiday pastimes.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730180000 +0000" stop="20250730190000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Peter is deeply upset when a young victim is discovered at the site of a train accident; an abusive mother takes dire actions; Severide's injury is aggravated.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730190000 +0000" stop="20250730200000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Jose Vargas is forced to go on disability after sustaining an injury in a fire; Severide receives a tempting invitation from a woman he saved from a car crash; Cruz tries to end his brother's involvement with a gang.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730200000 +0000" stop="20250730210000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>An expensive necklace goes missing at the scene of a fire, leading to an internal investigation; Cruz makes a desperate decision to save his brother from a gang war; Dawson invites Casey to a party.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730210000 +0000" stop="20250730220000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Cruz struggles with guilt and decides to make a confession to Casey; Severide asks Dawson for help with his injury; Herrmann is faced with an unpleasant business deal.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730220000 +0000" stop="20250730230000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Severide finally decides to discuss his injury with Chief Boden; Casey deals with family issues; Dawson responds to a rescue call and realizes a young girl is the only survivor.</desc>
-    <date>2025-07-30</date>
-  </programme>
-  <programme channel="403626" start="20250730230000 +0000" stop="20250731000000 +0000">
-    <title lang="zh">The Rock</title>
-    <desc>A scientist (Nicolas Cage) and a British spy (Sean Connery) who once escaped from Alcatraz are sent to the former island prison to stop a disgruntled war hero (Ed Harris) from obliterating San Francisco with chemical warheads.</desc>
-    <date>2025-07-30</date>
-  </programme>
   <programme channel="403626" start="20250731020000 +0000" stop="20250731050000 +0000">
     <title lang="zh">The Rock</title>
     <desc>A scientist (Nicolas Cage) and a British spy (Sean Connery) who once escaped from Alcatraz are sent to the former island prison to stop a disgruntled war hero (Ed Harris) from obliterating San Francisco with chemical warheads.</desc>
@@ -194,9 +74,99 @@
     <desc>When a popular fighter doesn't show up for the biggest bout of the year, Rollins and Velasco are drawn into a complicated web of secrets; McGrath confides in Benson.</desc>
     <date>2025-07-31</date>
   </programme>
-  <programme channel="403626" start="20250801000000 +0000" stop="20250802000000 +0000">
+  <programme channel="403626" start="20250801000000 +0000" stop="20250801010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>Carisi's niece helps a friend report a sexual assault; Benson investigates a college's secret society that preys on female students.</desc>
     <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801010000 +0000" stop="20250801020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Rollins investigates an assault by a masked man at an underground party; Benson uncovers a suspect who may be valuable as a witness.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801020000 +0000" stop="20250801030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A recently released convict goes looking for his arresting officer, Fin Tutuola; Carisi tries to get an arrest warrant without a positive suspect ID.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801030000 +0000" stop="20250801040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A construction tycoon interferes with an SVU investigation into her family; Carisi struggles to get an indictment when the complainant backs down.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801040000 +0000" stop="20250801050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Carisi must tread carefully when Maxwell's husband becomes a person of interest in an SVU investigation; Benson sends Velasco to take an old friend into custody.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801050000 +0000" stop="20250801060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A nanny's Internet love interest (Steven Bauer) is the obvious suspect when she is found murdered, but detectives look more closely at her employers (Mark Valley, Anastasia Griffith) when skeletons are found in their closet.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801060000 +0000" stop="20250801070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a polygamist's wife is murdered, he fears his testimony in a separate case may have led to her death; a Web site exposes potential witnesses.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801070000 +0000" stop="20250801080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>An airline pilot accuses her captain of sexual assault; Fin makes sure Benson is protected at work.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801080000 +0000" stop="20250801090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A doctor arrested for sexually abusing his patients is set free after Cassidy's testimony causes a mistrial.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801090000 +0000" stop="20250801100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A girl's tragic death becomes a criminal case when a surgeon harvests her organs without parental consent.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801100000 +0000" stop="20250801110000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Athena and the 118 race to the rescue when a fading movie star is plagued by a series of near-death experiences.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801110000 +0000" stop="20250801180000 +0000">
+    <title lang="zh">Live: 2025 AIG Women's Open</title>
+    <desc>Watch the second round of the AIG Women's Open at Royal Porthcawl Golf Club in Porthcawl, Wales.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801180000 +0000" stop="20250801190000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 faces emergencies at a spin class and a hair salon; a husband and wife find themselves in a compromising position; Buck discovers new cognitive abilities; Hen and Karen find out Denny has been seeing his biological father.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801190000 +0000" stop="20250801200000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 race to emergencies at a commercial bakery and a bodybuilding competition; Bobby's annual performance reviews send Chimney to the firefighter academy, where he runs into a familiar face; Eddie's aunt gets involved in his personal life.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801200000 +0000" stop="20250801210000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A fire breaks out in an accountant's office and a car crashes into a "living funeral"; Athena is shocked when a suspect dies in her custody minutes after she arrests him; Buck is attracted to a death doula; Maddie and Chimney are audited by the IRS.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801210000 +0000" stop="20250801220000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The 118 race to rescue two roommates desperately trying to find a needle in a haystack at a landfill, and help a woman whose nightmare dream suddenly becomes a painful reality; Athena and Maddie team up to find a missing boy in a crowded mall.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801220000 +0000" stop="20250801230000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A wedding proposal tragically intersects with a bank robbery; a bride is literally stuck on her way to the altar; Athena talks a victim through her grief; Buck finds a surprise visitor on his doorstep.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250801230000 +0000" stop="20250802000000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A series of freeway car accidents leads to a catastrophic overpass collapse that endangers the lives of civilians and members of the 118.</desc>
+    <date>2025-08-01</date>
+  </programme>
+  <programme channel="403626" start="20250802000000 +0000" stop="20250803000000 +0000">
+    <title lang="zh">Live: WWE Friday Night SmackDown</title>
+    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-08-02</date>
   </programme>
 </tv>
