@@ -1,79 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250731095925 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250731.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250731&amp;timezone=None">
+<tv date="20250801101740 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250801.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250801&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250731020000 +0000" stop="20250731050000 +0000">
-    <title lang="zh">The Rock</title>
-    <desc>A scientist (Nicolas Cage) and a British spy (Sean Connery) who once escaped from Alcatraz are sent to the former island prison to stop a disgruntled war hero (Ed Harris) from obliterating San Francisco with chemical warheads.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731050000 +0000" stop="20250731060200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry enlists an unlikely ally to help him save Patience.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731060200 +0000" stop="20250731070100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A successful preacher (Tim Daly) is the prime suspect in a murder case, until his wife (Kathy Baker) provides detectives with a taped conversation.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731070100 +0000" stop="20250731080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The only witness to the beating of a woman (Judy Kuhn) is her daughter (Paulina Gerzon) who has Williams syndrome.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731080000 +0000" stop="20250731090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives discover a kidnapped girl in the trunk of a stolen rental car; the suspect's rage seriously injures Stabler; the trial forces Novak to face dark things in her past.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731090000 +0000" stop="20250731100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When an infant goes missing, members of the SVU find themselves taking sides in a family's right-to-die court case; Barba's interference in the case puts the entire DA's office in jeopardy.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731100000 +0000" stop="20250731110000 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry enlists an unlikely ally to help him save Patience.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731110000 +0000" stop="20250731180000 +0000">
-    <title lang="zh">Live: 2025 AIG Women's Open</title>
-    <desc>Watch the opening round of the AIG Women's Open at Royal Porthcawl Golf Club in Porthcawl, Wales.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731180000 +0000" stop="20250731190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a polygamist's wife is murdered, he fears his testimony in a separate case may have led to her death; a Web site exposes potential witnesses.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731190000 +0000" stop="20250731200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A wealthy teen is found murdered in New York's Central Park, and the clues lead to a gang of homeless children.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731200000 +0000" stop="20250731210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman's body is found in a park alongside a man with a bullet in his head.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731210000 +0000" stop="20250731220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The case of a teenage girl assaulted in the projects leads to a startling discovery; Benson puts her trust in someone from her past.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731220000 +0000" stop="20250731230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Amaro asks the SVU for help in clearing a convicted man's name and brings a figure from Benson's past back into her life.</desc>
-    <date>2025-07-31</date>
-  </programme>
-  <programme channel="403626" start="20250731230000 +0000" stop="20250801000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a popular fighter doesn't show up for the biggest bout of the year, Rollins and Velasco are drawn into a complicated web of secrets; McGrath confides in Benson.</desc>
-    <date>2025-07-31</date>
-  </programme>
   <programme channel="403626" start="20250801000000 +0000" stop="20250801010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>Carisi's niece helps a friend report a sexual assault; Benson investigates a college's secret society that preys on female students.</desc>
@@ -164,9 +94,99 @@
     <desc>A series of freeway car accidents leads to a catastrophic overpass collapse that endangers the lives of civilians and members of the 118.</desc>
     <date>2025-08-01</date>
   </programme>
-  <programme channel="403626" start="20250802000000 +0000" stop="20250803000000 +0000">
+  <programme channel="403626" start="20250802000000 +0000" stop="20250802020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
     <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802020000 +0000" stop="20250802030300 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>With lives hanging in the balance, Harry is put to the test.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802030300 +0000" stop="20250802030400 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Featuring a first look at USA's new series, The Rainmaker.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802030400 +0000" stop="20250802040100 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A dry thunderstorm rolls over Los Angeles, bringing in a series of lightning strike emergencies for the 118 and leaves a first responder's life hanging in the balance; Chimney get a surprise from a visiting Albert.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802040100 +0000" stop="20250802045900 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>As Buck's life hangs in the balance, he dreams of a world where he never became a firefighter, for better and worse.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802045900 +0000" stop="20250802060200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>With lives hanging in the balance, Harry is put to the test.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802060200 +0000" stop="20250802070100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>Investigators follow the trail of a seemingly untraceable late-night call as they search for the killer of businesswoman Peggy Nadell.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802070100 +0000" stop="20250802080000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a woman is found murdered in her bed, her husband and her son accuse each other of being the killer.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802080000 +0000" stop="20250802090000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The death of a mother of five tests a family's loyalty.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802090000 +0000" stop="20250802100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The death of a mother of five tests a family's loyalty.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802100000 +0000" stop="20250802110000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>When Atwater goes under cover to bring down the longtime head of a criminal enterprise, he becomes entangled in a situation that tests his allegiances as well as his conscience.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802110000 +0000" stop="20250802160000 +0000">
+    <title lang="zh">Live: 2025 AIG Women's Open</title>
+    <desc>Watch the third round of the AIG Women's Open at Royal Porthcawl Golf Club in Porthcawl, Wales.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802160000 +0000" stop="20250802190000 +0000">
+    <title lang="zh">The Bourne Legacy</title>
+    <desc>The actions of Jason Bourne spell the possible end of secret intelligence programs, so a specially enhanced operative (Jeremy Renner) goes on the run with a research scientist (Rachel Weisz) when it appears that their lives will become forfeit.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802190000 +0000" stop="20250802220000 +0000">
+    <title lang="zh">White House Down</title>
+    <desc>While on a tour of the White House with his young daughter, a Capitol policeman springs into action to save his child and protect the president from a heavily armed group of paramilitary invaders.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802220000 +0000" stop="20250802223000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael tries to be supportive after learning that a new employee is an ex-convict; the staff compares the office to a prison.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802223000 +0000" stop="20250802230000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Strife on the party-planning committee results in two competing Christmas parties; Michael gets dumped for the holidays.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802230000 +0000" stop="20250802233000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Strife on the party-planning committee results in two competing Christmas parties; Michael gets dumped for the holidays.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250802233000 +0000" stop="20250803000000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael returns from his Jamaican vacation; an e-mail of a racy vacation photo makes the rounds of the office.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="403626" start="20250803000000 +0000" stop="20250804000000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Andy suggests that Michael team up the staff for sales calls; Dwight tries to cover for Angela when she misses a deadline.</desc>
+    <date>2025-08-03</date>
   </programme>
 </tv>
