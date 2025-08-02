@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250801101740 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250801.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250801&amp;timezone=None">
+<tv date="20250802111908 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250802&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250801000000 +0000" stop="20250801010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Carisi's niece helps a friend report a sexual assault; Benson investigates a college's secret society that preys on female students.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801010000 +0000" stop="20250801020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Rollins investigates an assault by a masked man at an underground party; Benson uncovers a suspect who may be valuable as a witness.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801020000 +0000" stop="20250801030000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A recently released convict goes looking for his arresting officer, Fin Tutuola; Carisi tries to get an arrest warrant without a positive suspect ID.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801030000 +0000" stop="20250801040000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A construction tycoon interferes with an SVU investigation into her family; Carisi struggles to get an indictment when the complainant backs down.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801040000 +0000" stop="20250801050000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Carisi must tread carefully when Maxwell's husband becomes a person of interest in an SVU investigation; Benson sends Velasco to take an old friend into custody.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801050000 +0000" stop="20250801060000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A nanny's Internet love interest (Steven Bauer) is the obvious suspect when she is found murdered, but detectives look more closely at her employers (Mark Valley, Anastasia Griffith) when skeletons are found in their closet.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801060000 +0000" stop="20250801070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a polygamist's wife is murdered, he fears his testimony in a separate case may have led to her death; a Web site exposes potential witnesses.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801070000 +0000" stop="20250801080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An airline pilot accuses her captain of sexual assault; Fin makes sure Benson is protected at work.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801080000 +0000" stop="20250801090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A doctor arrested for sexually abusing his patients is set free after Cassidy's testimony causes a mistrial.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801090000 +0000" stop="20250801100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A girl's tragic death becomes a criminal case when a surgeon harvests her organs without parental consent.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801100000 +0000" stop="20250801110000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Athena and the 118 race to the rescue when a fading movie star is plagued by a series of near-death experiences.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801110000 +0000" stop="20250801180000 +0000">
-    <title lang="zh">Live: 2025 AIG Women's Open</title>
-    <desc>Watch the second round of the AIG Women's Open at Royal Porthcawl Golf Club in Porthcawl, Wales.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801180000 +0000" stop="20250801190000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 faces emergencies at a spin class and a hair salon; a husband and wife find themselves in a compromising position; Buck discovers new cognitive abilities; Hen and Karen find out Denny has been seeing his biological father.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801190000 +0000" stop="20250801200000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 race to emergencies at a commercial bakery and a bodybuilding competition; Bobby's annual performance reviews send Chimney to the firefighter academy, where he runs into a familiar face; Eddie's aunt gets involved in his personal life.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801200000 +0000" stop="20250801210000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>A fire breaks out in an accountant's office and a car crashes into a "living funeral"; Athena is shocked when a suspect dies in her custody minutes after she arrests him; Buck is attracted to a death doula; Maddie and Chimney are audited by the IRS.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801210000 +0000" stop="20250801220000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 race to rescue two roommates desperately trying to find a needle in a haystack at a landfill, and help a woman whose nightmare dream suddenly becomes a painful reality; Athena and Maddie team up to find a missing boy in a crowded mall.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801220000 +0000" stop="20250801230000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>A wedding proposal tragically intersects with a bank robbery; a bride is literally stuck on her way to the altar; Athena talks a victim through her grief; Buck finds a surprise visitor on his doorstep.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="403626" start="20250801230000 +0000" stop="20250802000000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>A series of freeway car accidents leads to a catastrophic overpass collapse that endangers the lives of civilians and members of the 118.</desc>
-    <date>2025-08-01</date>
-  </programme>
   <programme channel="403626" start="20250802000000 +0000" stop="20250802020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
@@ -184,9 +94,59 @@
     <desc>Michael returns from his Jamaican vacation; an e-mail of a racy vacation photo makes the rounds of the office.</desc>
     <date>2025-08-02</date>
   </programme>
-  <programme channel="403626" start="20250803000000 +0000" stop="20250804000000 +0000">
+  <programme channel="403626" start="20250803000000 +0000" stop="20250803003000 +0000">
     <title lang="zh">The Office</title>
     <desc>Andy suggests that Michael team up the staff for sales calls; Dwight tries to cover for Angela when she misses a deadline.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803003000 +0000" stop="20250803010000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Oscar returns from his long vacation; Andy takes advantage of events to get closer to Michael; Jim gets Karen and Pam to help stage a prank on a new target.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803010000 +0000" stop="20250803013000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael brings two adult performers into the office in honor of Phyllis' wedding shower; Karen confronts Pam about her past with Jim.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803013000 +0000" stop="20250803020000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Phyllis regrets giving Michael an important job at her wedding; Dwight plans to catch wedding crashers.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803020000 +0000" stop="20250803023000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Ryan invites Michael to be a guest speaker at his business school; Dwight battles a bat that is loose in the office; Pam invites co-workers to her first art show.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803023000 +0000" stop="20250803030000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael and Jan make their relationship public during a party; Jim meets Karen's ex; the staff goes to happy hour for drinks.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803030000 +0000" stop="20250803030100 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>A preview of USA's new legal drama, "The Rainmaker.".</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803030100 +0000" stop="20250803060100 +0000">
+    <title lang="zh">The Bourne Legacy</title>
+    <desc>The actions of Jason Bourne spell the possible end of secret intelligence programs, so a specially enhanced operative (Jeremy Renner) goes on the run with a research scientist (Rachel Weisz) when it appears that their lives will become forfeit.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803060100 +0000" stop="20250803070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A woman's body is found in a park alongside a man with a bullet in his head.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803070000 +0000" stop="20250803080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A top-level investment banker accuses her billionaire client of rape.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="403626" start="20250803080000 +0000" stop="20250804000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The case of a teenage girl assaulted in the projects leads to a startling discovery; Benson puts her trust in someone from her past.</desc>
     <date>2025-08-03</date>
   </programme>
 </tv>
