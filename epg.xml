@@ -1,129 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250804102055 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250804.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250804&amp;timezone=None">
+<tv date="20250805101015 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250805.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250805&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250804000200 +0000" stop="20250804010100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson works with a young woman to help her remember the details and suspects in her rape; in order to learn a new witness interview technique, Rollins and Fin have to experience it for themselves.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804010100 +0000" stop="20250804020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A serial predator targeting men in gay bars proves difficult to catch, until a celebrity comes forward with his story.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804020000 +0000" stop="20250804030000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Rollins clashes with the parents of a teenage runaway; the squad comes together for a significant event.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804030000 +0000" stop="20250804040000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives are spread thin when three major cases come in at midnight; Rollins and Carisi argue over an arrest.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804040000 +0000" stop="20250804050000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU joins an under cover task force in busting a human trafficking ring.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804050000 +0000" stop="20250804060000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Rollins goes under cover to find a suspect who is drugging and assaulting tourists, while Benson helps the victims sort out their memories from their hallucinations.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804060000 +0000" stop="20250804070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The powerful family behind a retail empire defends one of its own from a bartender's rape accusation.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804070000 +0000" stop="20250804080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The cops get tangled in an elaborate online hoax that leads to the rape of a popular social media star; Benson sets new ground rules with Sheila.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804080000 +0000" stop="20250804090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Emotions run high as the squad embarks on a frantic search for Benson's missing son.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804090000 +0000" stop="20250804100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a popular fighter doesn't show up for the biggest bout of the year, Rollins and Velasco are drawn into a complicated web of secrets; McGrath confides in Benson.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804100000 +0000" stop="20250804110000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A troubled teen (David Del Rio) is the first suspect when a money manager is found murdered in his loft, but a hidden video camera leads detectives to a star football player whose agent is willing to do almost anything to protect his client.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804110000 +0000" stop="20250804120000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives suspect a wealthy family of coffee traders when a pregnant woman is found raped and murdered in her burned-out loft.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804120000 +0000" stop="20250804130000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An abused foster child (Jae Head), apprehended while driving a runaway van, leads the detectives to re-examine a case involving a rape victim (Sara Gilbert).</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804130000 +0000" stop="20250804140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A teen named Eric admits to looking at a Web site in an attempt to curb pedophilic urges toward his stepbrother; when Eric goes missing, the stepfather (Tom Noonan) is questioned.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804140000 +0000" stop="20250804150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the body of a 14-year-old girl is found in the Hudson River, Benson and Stabler think she was smuggled into the country by sex traffickers; in an attempt to identify her, Benson poses as a madam.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804150000 +0000" stop="20250804160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a young girl is kidnapped, Elliot Stabler must work with a recently paroled convict to get her back.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804160000 +0000" stop="20250804170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A former dancer (Carol Burnett) is caught up in the murder of a young couple.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804170000 +0000" stop="20250804180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a crime scene photo of a murdered teenage girl quickly becomes an Internet phenomenon, the police initiate an investigation with the victim's father, who points the detectives toward his daughter's therapist.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804180000 +0000" stop="20250804190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Following the deaths of three children, Fin realizes they were all "anchor babies" of immigrant families, and he reaches out to the Center of Immigrant Services.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804190000 +0000" stop="20250804200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler search for a man who is knowingly spreading HIV.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804200000 +0000" stop="20250804210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler speak to the daughter of a powerful couple who were found murdered in their bedroom.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804210000 +0000" stop="20250804220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A lesbian-rights activist (Kathy Griffin) claims a woman's death was the result of police neglect; when more women from the activist's group are attacked, it becomes clear that someone has a plan to bring down the group.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804220000 +0000" stop="20250804230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Several young prostitutes are found dead with homemade prayer cards attached to their bodies; Benson is forced to make a difficult decision.</desc>
-    <date>2025-08-04</date>
-  </programme>
-  <programme channel="403626" start="20250804230000 +0000" stop="20250805000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman's murder leads Detectives Benson and Stabler to reopen an investigation into a similar crime committed 20 years earlier.</desc>
-    <date>2025-08-04</date>
-  </programme>
   <programme channel="403626" start="20250805000000 +0000" stop="20250805010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>When an investigative journalist is found murdered in her bed, Cragen recognizes tactics from a similar case 30 years earlier.</desc>
@@ -244,9 +124,134 @@
     <desc>Detectives Erin Lindsay and Antonio Dawson from Chicago P.D. help SVU when two convicted murderers escape.</desc>
     <date>2025-08-05</date>
   </programme>
-  <programme channel="403626" start="20250806000000 +0000" stop="20250807000000 +0000">
+  <programme channel="403626" start="20250806000000 +0000" stop="20250806010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>A fellow detective asks the SVU for help when he suspects his two daughters are being groomed by a serial predator; Kat disobeys the captain's orders.</desc>
     <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806010000 +0000" stop="20250806020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A desperate father takes matters into his own hands in the case against his daughter's rapist.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806020000 +0000" stop="20250806025900 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives uncover a shocking theory as they work to learn the identity of a man Rollins arrested for exposing himself in the park; Detective Benson finds herself in mortal danger.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806025900 +0000" stop="20250806030000 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Featuring a preview of USA's new series, The Rainmaker.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806030000 +0000" stop="20250806040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU squad searches for Detective Benson and her abductor (Pablo Schreiber).</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806040000 +0000" stop="20250806050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a 7-year-old girl escapes from her rapist, detectives Benson and Stabler begin an intensive search for the predator.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806050000 +0000" stop="20250806060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The life of a law-abiding engineer (Robin Williams) goes terribly wrong, leading him to challenge authority and to urge others to do so as well.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806060000 +0000" stop="20250806070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a missing 5-year-old boy is found dead, suspicion falls on his unstable 13-year-old neighbor, whose mental problems began after he was abused at a camp recommended by the dead child's father.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806070000 +0000" stop="20250806080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler suspect the drug-dealing uncle of a girl (Shareeka Epps) found raped and beaten, but the theft of the rape kit identifying her attacker leads them to a crooked prison guard.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806080000 +0000" stop="20250806090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Elliot Stabler puts his marriage at risk when he goes under cover to gain access to an animal-smuggling ring, with Olivia posing as a prostitute.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806090000 +0000" stop="20250806100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler help a repeat rape victim (Jennifer Love Hewitt) stand up to her attacker; the investigation leads Benson to Los Angeles, where she meets a detective (Skeet Ulrich) with information that could help the victim get justice.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806100000 +0000" stop="20250806110000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Voight's new Internal Affairs handler proves to be suspicious of his actions; Voight must work with his former partner from the Gang Unit; Halsted enlists Jin to help him gather more information on Lonnie Rodiger; Olinsky takes Ruzek down a peg.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806110000 +0000" stop="20250806120000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Burgess and Atwater come across a gunshot victim and the only witness is Olinsky's daughter; Ruzek goes to Burgess for help with an undercover mission.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806120000 +0000" stop="20250806130000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Halstead's badge is revoked when Lonnie Rodiger is found dead; Severide (Taylor Kinney) and Clarke (Peter Mills) find Dr. Elliot's torso; Sumner (Sydney Tamiia Poitier) tries to prove herself; Lindsay shares a moment with Severide.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806130000 +0000" stop="20250806140000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Dueling gangs are suspected when a massacre occurs and $8 million is stolen; Platt asks Ruzek for help.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806140000 +0000" stop="20250806150000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>As Voight and his team search for the bombers, they realize there might be more bombs set to detonate; Burgess' niece fights for her life.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806150000 +0000" stop="20250806160000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Cmdr. Perry notifies the unit that Pulpo has been released to help with a case; Ruzek gets difficult news; when a bit of Lindsay's past resurfaces, Voight reminds her how far she's come.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806160000 +0000" stop="20250806170000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Platt and Voight discuss their pasts; Jin uses a scapegoat when he is caught tinkering with Voight's computer; Lindsay realizes she needs to come clean.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806170000 +0000" stop="20250806180000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Severide realizes he shares a similar past with the lieutenant who has been helping out at the firehouse; Dawson shares a secret with Shay; Casey faces family issues.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806180000 +0000" stop="20250806190000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Dawson turns to an unlikely source for assistance as she tries to help her brother; Severide does a favor for Lt. Whaley; Herrmann and Otis make tough discoveries about their silent partner.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806190000 +0000" stop="20250806200000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Cruz puts himself and his fellow firefighters in danger; Casey tries to resolve issues with his sister and mother; the team assists the bomb squad with a dangerous call.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806200000 +0000" stop="20250806210000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>When Severide's father (Treat Williams) visits, he clashes with Chief Boden over a former colleague's death; Shay makes a decision about Clarice; the mystery about Herrmann, Otis and Dawson's bar is revealed.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806210000 +0000" stop="20250806220000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Mills questions Bennie about the fire that killed Mills' father; Casey, Severide and Bennie investigate two mysterious diner fires.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806220000 +0000" stop="20250806230000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A failed rescue attempt deeply affects the men and women of firehouse 51; Dawson and Shay deal with a junkie's crazy behavior during a call; the team upsets local drug dealers.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250806230000 +0000" stop="20250807000000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A paramedic candidate joins Shay and Dawson for a few shifts; Cindy Herrmann experiences pregnancy complications while her husband is out of town; Casey receives an unexpected visit.</desc>
+    <date>2025-08-06</date>
+  </programme>
+  <programme channel="403626" start="20250807000000 +0000" stop="20250808000000 +0000">
+    <title lang="zh">John Wick</title>
+    <desc>New York City becomes the bullet-riddled playground of a former assassin (Keanu Reeves) as he hunts down the Russian mobsters who destroyed everything he held dear.</desc>
+    <date>2025-08-07</date>
   </programme>
 </tv>
