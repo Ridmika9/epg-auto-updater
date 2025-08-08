@@ -1,119 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250807100807 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250807.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250807&amp;timezone=None">
+<tv date="20250808100813 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250808.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250808&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250807000000 +0000" stop="20250807020100 +0000">
-    <title lang="zh">John Wick</title>
-    <desc>New York City becomes the bullet-riddled playground of a former assassin (Keanu Reeves) as he hunts down the Russian mobsters who destroyed everything he held dear.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807020100 +0000" stop="20250807043400 +0000">
-    <title lang="zh">John Wick: Chapter 2</title>
-    <desc>Legendary hit man John Wick comes out of retirement when a former associate plots to seize control of an international assassins' guild. Bound by a blood oath to help him, Wick travels to Rome to square off against the world's deadliest killers.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807043400 +0000" stop="20250807063500 +0000">
-    <title lang="zh">John Wick</title>
-    <desc>New York City becomes the bullet-riddled playground of a former assassin (Keanu Reeves) as he hunts down the Russian mobsters who destroyed everything he held dear.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807063500 +0000" stop="20250807073400 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An abused foster child (Jae Head), apprehended while driving a runaway van, leads the detectives to re-examine a case involving a rape victim (Sara Gilbert).</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807073400 +0000" stop="20250807083200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A teen named Eric admits to looking at a Web site in an attempt to curb pedophilic urges toward his stepbrother; when Eric goes missing, the stepfather (Tom Noonan) is questioned.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807083200 +0000" stop="20250807093000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the body of a 14-year-old girl is found in the Hudson River, Benson and Stabler think she was smuggled into the country by sex traffickers; in an attempt to identify her, Benson poses as a madam.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807093000 +0000" stop="20250807100000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>Serial arsonist on the loose leaves no evidence.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807100000 +0000" stop="20250807103000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>A man becomes the prime suspect in his wife's death after forensic science raises questions about her apparent suicide.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807103000 +0000" stop="20250807113000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>The team investigates the murder of a federal prison inmate who was the adopted daughter of a notorious counterfeiter; Callen is summoned by the ATF Internal Affairs board to discuss Anna Kolcheck's actions.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807113000 +0000" stop="20250807123000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>Sam is shot during a firefight with the cartel; an interrogated suspect reveals new information on the whereabouts of Spencer Williams, the man who kidnapped Mosley's son.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807123000 +0000" stop="20250807133000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>Despite several team members having reservations, the team travels to Mexico to locate and rescue Mosley's son.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807133000 +0000" stop="20250807143000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler begin to question the story of a missing teenager (Ellen Woglom) who returns home after four years, claiming to have been kept as a sex slave in a concrete cell.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807143000 +0000" stop="20250807153000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A man is found badly beaten in a parking lot, with no memory of what happened, and detectives suspect his transgender teen may be responsible.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807153000 +0000" stop="20250807163000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A mute girl is raped and beaten, and her drawing of her attacker resembles a local priest.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807163000 +0000" stop="20250807173000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An artist's shocking death leads detectives to uncover a long string of murders by an elusive serial killer.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807173000 +0000" stop="20250807183000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a 2-year-old girl goes missing, her irresponsible young mother (Hilary Duff) becomes the prime suspect.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807183000 +0000" stop="20250807193000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Officer Nate Kendall (Wentworth Miller) helps a woman in trouble and gets roped into investigating a rape; when evidence connects multiple cases, the team realizes there may be a serial rapist responsible.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807193000 +0000" stop="20250807203000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Stabler and Benson suspect a sugar daddy (Matt C. Burns) of murder when a young woman's body is found stuffed inside a suitcase.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807203000 +0000" stop="20250807213000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a woman goes missing, her boyfriend points Detectives Benson and Stabler in the direction of convicted bank robber Callum Donovan (Stephen Rea); to comprehend the impact of solitary confinement, Stabler experiences it.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807213000 +0000" stop="20250807222900 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler investigate when a 10-year-old girl goes missing.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807222900 +0000" stop="20250807232800 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives try to identify a girl who is so traumatized after being raped that she cannot tell them her name.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403626" start="20250807232800 +0000" stop="20250808000000 +0000">
-    <title lang="zh">John Wick: Chapter 2</title>
-    <desc>Legendary hit man John Wick comes out of retirement when a former associate plots to seize control of an international assassins' guild. Bound by a blood oath to help him, Wick travels to Rome to square off against the world's deadliest killers.</desc>
-    <date>2025-08-07</date>
-  </programme>
   <programme channel="403626" start="20250808020100 +0000" stop="20250808050000 +0000">
     <title lang="zh">John Wick: Chapter 3 -- Parabellum</title>
     <desc>Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
@@ -204,9 +94,74 @@
     <desc>An elite team of mercenaries breaks into a family compound on Christmas Eve, taking everyone hostage inside. However, they aren't prepared for a surprise combatant: Santa Claus is on the grounds, and he's about to show why this Nick is no saint.</desc>
     <date>2025-08-08</date>
   </programme>
-  <programme channel="403626" start="20250809000000 +0000" stop="20250810000000 +0000">
+  <programme channel="403626" start="20250809000000 +0000" stop="20250809020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809020000 +0000" stop="20250809030700 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry faces one final threat, and one that forces him to use more than just his alien strength.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809030700 +0000" stop="20250809045700 +0000">
+    <title lang="zh">Beast</title>
+    <desc>A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809045700 +0000" stop="20250809060400 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry faces one final threat, and one that forces him to use more than just his alien strength.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809060400 +0000" stop="20250809070300 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>After losing a hotly contested custody battle, a woman disappears with her 11-month-old daughter; the child's father searches four continents for almost two decades before reaching an emotional conclusion.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809070300 +0000" stop="20250809080200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A 33-year-old tutor is accused of having an illicit relationship with a teenage student after a racy photograph is discovered on a cell phone; later, her stunning defense will lead to an emotional courtroom battle.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809080200 +0000" stop="20250809090100 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A mother of three married to a missionary is found dead on Valentine's Day; the investigation into the murder reveals answers close to home.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809090100 +0000" stop="20250809100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A mother of three married to a missionary is found dead on Valentine's Day; the investigation into the murder reveals answers close to home.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809100000 +0000" stop="20250809130000 +0000">
+    <title lang="zh">Nope</title>
+    <desc>A man and his sister discover something sinister in the skies above their California horse ranch, while the owner of a nearby theme park tries to profit from the mysterious, otherworldly phenomenon.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809130000 +0000" stop="20250809150000 +0000">
+    <title lang="zh">Beast</title>
+    <desc>A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809150000 +0000" stop="20250809180000 +0000">
+    <title lang="zh">Nope</title>
+    <desc>A man and his sister discover something sinister in the skies above their California horse ranch, while the owner of a nearby theme park tries to profit from the mysterious, otherworldly phenomenon.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809180000 +0000" stop="20250809203000 +0000">
+    <title lang="zh">Violent Night</title>
+    <desc>An elite team of mercenaries breaks into a family compound on Christmas Eve, taking everyone hostage inside. However, they aren't prepared for a surprise combatant: Santa Claus is on the grounds, and he's about to show why this Nick is no saint.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809203000 +0000" stop="20250809225800 +0000">
+    <title lang="zh">Wanted</title>
+    <desc>After his estranged father is murdered, an office drone (James McAvoy) joins secret assassins who take their orders from Fate itself.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250809225800 +0000" stop="20250810000000 +0000">
+    <title lang="zh">National Treasure</title>
+    <desc>An adventurer (Nicolas Cage) must steal the Declaration of Independence and use its hidden map to find a legendary fortune.</desc>
     <date>2025-08-09</date>
   </programme>
 </tv>
