@@ -1,99 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250808100813 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250808.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250808&amp;timezone=None">
+<tv date="20250809095710 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250809.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250809&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250808020100 +0000" stop="20250808050000 +0000">
-    <title lang="zh">John Wick: Chapter 3 -- Parabellum</title>
-    <desc>Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808050000 +0000" stop="20250808050200 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Featuring a special preview of USA's new series, The Rainmaker.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808050200 +0000" stop="20250808060500 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>With lives hanging in the balance, Harry is put to the test.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808060500 +0000" stop="20250808070300 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler begin to question the story of a missing teenager (Ellen Woglom) who returns home after four years, claiming to have been kept as a sex slave in a concrete cell.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808070300 +0000" stop="20250808080200 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A man is found badly beaten in a parking lot, with no memory of what happened, and detectives suspect his transgender teen may be responsible.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808080200 +0000" stop="20250808090100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A mute girl is raped and beaten, and her drawing of her attacker resembles a local priest.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808090100 +0000" stop="20250808100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An artist's shocking death leads detectives to uncover a long string of murders by an elusive serial killer.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808100000 +0000" stop="20250808103000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>Investigators on both sides of the Atlantic seek links between three homicides that look like professional executions.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808103000 +0000" stop="20250808113000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Athena and Bobby set off on their honeymoon cruise, but when duty calls, their vacation is put on hold; a fighter jet traps a civilian; an unusual incident leaves a couple stuck together.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808113000 +0000" stop="20250808123000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The disastrous cruise continues when Bobby and Athena respond to the ship's explosion, racing to aid injured passengers; Hen questions her instincts in a life-taking call and grows concerned about Athena and Bobby's whereabouts.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808123000 +0000" stop="20250808133000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>With each moment becoming critical as the ship flips upside down, Athena and Bobby take charge, seeking methods for rescue while navigating efforts to guide survivors to safety; Hen defies protocols in her search for Bobby and Athena.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808133000 +0000" stop="20250808143000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Upon her return to shore, Athena's son finds himself in trouble with the law; Buck grows envious as Eddie forms a close bond with someone else; the team rescues a woman who's stuck on receiving a rose at an iconic mansion.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808143000 +0000" stop="20250808153000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Hen and Karen welcome a new addition to their family; a call unfolds involving a person's limb that's taken on a mind of its own; Eddie and Marisol take a closer look at their relationship; Buck navigates his new feelings.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808153000 +0000" stop="20250808163000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>After years of anticipation, Maddie and Chimney's long-awaited wedding day arrives; when the groom mysteriously vanishes, the 118 races against time to ensure he doesn't miss the most crucial day of his life.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808163000 +0000" stop="20250808173000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Maddie and Athena investigate a case surrounding an abducted mother and child; Hen and Karen learn more about Mara's family history; Eddie grapples with unresolved feelings for someone from his past.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808173000 +0000" stop="20250808183000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>After a victim of the apartment fire that changed Bobby's life resurfaces, he searches to make amends; driven by his need to right past wrongs, Bobby delves deep into memories of his childhood, unearthing moments from his fractured past.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808183000 +0000" stop="20250808213000 +0000">
-    <title lang="zh">John Wick: Chapter 3 -- Parabellum</title>
-    <desc>Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
-    <date>2025-08-08</date>
-  </programme>
-  <programme channel="403626" start="20250808213000 +0000" stop="20250809000000 +0000">
-    <title lang="zh">Violent Night</title>
-    <desc>An elite team of mercenaries breaks into a family compound on Christmas Eve, taking everyone hostage inside. However, they aren't prepared for a surprise combatant: Santa Claus is on the grounds, and he's about to show why this Nick is no saint.</desc>
-    <date>2025-08-08</date>
-  </programme>
   <programme channel="403626" start="20250809000000 +0000" stop="20250809020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
@@ -163,5 +73,100 @@
     <title lang="zh">National Treasure</title>
     <desc>An adventurer (Nicolas Cage) must steal the Declaration of Independence and use its hidden map to find a legendary fortune.</desc>
     <date>2025-08-09</date>
+  </programme>
+  <programme channel="403626" start="20250810015800 +0000" stop="20250810045300 +0000">
+    <title lang="zh">National Treasure: Book of Secrets</title>
+    <desc>A page from the diary of John Wilkes Booth implicates Ben Gates' (Nicolas Cage) great-great grandfather as a major conspirator in the assassination of President Lincoln.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810045300 +0000" stop="20250810045500 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Featuring a sneak peak of USA's new series, The Rainmaker.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810045500 +0000" stop="20250810060200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry faces one final threat, and one that forces him to use more than just his alien strength.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810060200 +0000" stop="20250810070100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a 2-year-old girl goes missing, her irresponsible young mother (Hilary Duff) becomes the prime suspect.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810070100 +0000" stop="20250810080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Officer Nate Kendall (Wentworth Miller) helps a woman in trouble and gets roped into investigating a rape; when evidence connects multiple cases, the team realizes there may be a serial rapist responsible.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810080000 +0000" stop="20250810090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Stabler and Benson suspect a sugar daddy (Matt C. Burns) of murder when a young woman's body is found stuffed inside a suitcase.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810090000 +0000" stop="20250810100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a woman goes missing, her boyfriend points Detectives Benson and Stabler in the direction of convicted bank robber Callum Donovan (Stephen Rea); to comprehend the impact of solitary confinement, Stabler experiences it.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810100000 +0000" stop="20250810110000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a pop star is assaulted in her home, the SVU investigates the public feud between her rapper husband and a competing recording artist; Fin's family ties to a suspect take him off the case.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810110000 +0000" stop="20250810120000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU searches for two suspects that were spotted fleeing the scene after a Muslim woman was assaulted inside a synagogue; Benson is dismayed to find that Rob Miller is out on bail.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810120000 +0000" stop="20250810130000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a teenager is found dead in the Hudson River, Lt. Benson suspects Rob Miller is behind the mysterious death but can't prove it; despite having only circumstantial evidence, ADA Stone takes the case to court before Miller can destroy more lives.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810130000 +0000" stop="20250810153000 +0000">
+    <title lang="zh">Wanted</title>
+    <desc>After his estranged father is murdered, an office drone (James McAvoy) joins secret assassins who take their orders from Fate itself.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810153000 +0000" stop="20250810173000 +0000">
+    <title lang="zh">Pro Motocross Championship</title>
+    <desc>Riders face off in Round 26 of the 2025 AMA Pro Motocross Championship at Ironman Raceway in Crawfordsville, Ind.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810173000 +0000" stop="20250810180000 +0000">
+    <title lang="zh">Live: NASCAR Cup Series Countdown to Green</title>
+    <desc>Pre-race show with analysis, driver profiles, reports from the garage, interviews with drivers and crew chiefs, and more.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810180000 +0000" stop="20250810203000 +0000">
+    <title lang="zh">Live: NASCAR Cup Series</title>
+    <desc>The NASCAR Cup scene shifts to upstate New York for the Go Bowling at The Glen road course race. Shane Van Gisbergen has become NASCAR's road warrior, prevailing in Mexico City, Chicago and Sonoma this season. William Byron won last week in Iowa.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810203000 +0000" stop="20250810210000 +0000">
+    <title lang="zh">Live: NASCAR Cup Series Post Race</title>
+    <desc>Post race coverage from the latest Cup event.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810210000 +0000" stop="20250810220000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson investigates a police officer's accusations of sexual assault; Capt. Tucker's retirement party ends in tragedy.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810220000 +0000" stop="20250810230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Kat steps over the line when she suspects a trainer at her boxing gym is taking advantage of his students.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250810230000 +0000" stop="20250811000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Rollins tries to root out a government worker who is withholding green cards in exchange for sex.</desc>
+    <date>2025-08-10</date>
+  </programme>
+  <programme channel="403626" start="20250811000000 +0000" stop="20250812000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>An ingénue ballerina discovers she's been secretly videotaped for a pornographic website.</desc>
+    <date>2025-08-11</date>
   </programme>
 </tv>
