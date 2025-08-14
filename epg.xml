@@ -1,134 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250813095836 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250813.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250813&amp;timezone=None">
+<tv date="20250814111355 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250814.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250814&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250813000000 +0000" stop="20250813010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A military officer who was gang raped refuses to cooperate with the SVU for fear of damage to her reputation; Amaro asks his ex to help dig up information on the case.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813010000 +0000" stop="20250813020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a teen uses a rifle to stop an assault on his mother, he learns the perpetrator of the assault is someone he knows.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813020000 +0000" stop="20250813030000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>An investigation hits a nerve with Benson when a suspect claims his genetic makeup causes him to commit rape.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813030000 +0000" stop="20250813040000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a man is found castrated and left for dead, Rollins and Carisi uncover three female suspects who have possible motives; Langan gives devastating news to Benson.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813040000 +0000" stop="20250813040300 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>A behind-the-scenes look at USA's new series, "The Rainmaker.".</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813040300 +0000" stop="20250813050300 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When Rollins tries to help a friend press rape charges against her lover, she finds herself thrust into the middle of the case.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813050300 +0000" stop="20250813060300 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a man uses a false identity to lure a vulnerable married woman to bed, Barba thinks the evidence amounts to rape.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813060300 +0000" stop="20250813070100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Benson goes into hiding to find justice for an abused housewife (Clea Duvall), uncovering a 34-year-old unsolved murder case in the process.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813070100 +0000" stop="20250813080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A young female Marine goes missing as she is about to give birth to her rapist's child; Olivia struggles with painful flashbacks of her sexual assault.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813080000 +0000" stop="20250813090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A judge asks Benson and Stabler to ask a convicted serial killer about the location of his son's body.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813090000 +0000" stop="20250813100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After a night of drinking, a man (Scott Foley) wakes up with a head injury and a dead woman in his bed; Detectives Benson and Stabler try to piece together the crime by returning to the bar where the night began.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813100000 +0000" stop="20250813110000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Atwater settles into his new role; Lindsay turns to Voight for help; Jin is confronted about his meetings with Stillwell.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813110000 +0000" stop="20250813120000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>As the Sheldon Jin investigation moves forward, Internal Affairs keeps a close eye on Voight; Voight's vehicle is T-boned while following an armored car carrying Ruzek; Burgess meets her new partner; Lindsay visits her mom.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813120000 +0000" stop="20250813130000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Several murder victims are found with a dollar bill pinned to their chests; Voight makes a discovery about a friend; a series of home invasions.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813130000 +0000" stop="20250813140000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>When a bartender takes a bullet intended for Halstead, the bounty on him becomes more real; following a tense interaction, Platt and Nadia reach an understanding.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813140000 +0000" stop="20250813150000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>The team races against the clock when two teenage girls disappear; Voight seeks honest answers from the father of one of the girls.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813150000 +0000" stop="20250813160000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Voight is attacked and abducted while trying to help Olive; Roman and Burgess search for a girl who has taken off with a police badge.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813160000 +0000" stop="20250813170000 +0000">
-    <title lang="zh">Chicago P.D.</title>
-    <desc>Ruzek and Atwater go under cover as prison inmates in order to find the man they believe killed a 10-year-old girl; Burgess and Roman give a tour of the district to some boys they believe are part of the Police Explorers program.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813170000 +0000" stop="20250813180000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Detective Voight shows up, looking to cash in the favor Dawson owes him; Casey's social life takes on a familiar pattern; Molly prepares for the grand opening of Dawson, Herrmann and Otis's bar; Severide faces a threat to his career.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813180000 +0000" stop="20250813190000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Severide is accused of sexual misconduct; Casey starts to find satisfaction in his personal life; Dawson and Mills face challenges as they try to take their relationship to the next level; the squad faces a harrowing building collapse.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813190000 +0000" stop="20250813200000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Lt. Casey must work with Voight and the Intelligence Unit; Shay grows increasingly excited about the prospect of motherhood; everyone comes together to support the opening of Molly's.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813200000 +0000" stop="20250813210000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>The squad must help defuse a volatile situation at the jail; Shay continues to be hopeful about motherhood; Herrmann's wife goes into labor; Mills and Dawson face important decisions.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813210000 +0000" stop="20250813220000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Lt. Severide is targeted by an arsonist; Battalion Chief Boden clashes with Gail McLeod; the anniversary of Andy's death; Shay has suspicions; Mari visits Mouch.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813220000 +0000" stop="20250813230000 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Casey struggles with his new responsibilities; Severide dreads the arsonist's next attack; Mouch starts campaigning; Dawson and Shay decide they need to get out more.</desc>
-    <date>2025-08-13</date>
-  </programme>
-  <programme channel="403626" start="20250813230000 +0000" stop="20250814000000 +0000">
-    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
-    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
-    <date>2025-08-13</date>
-  </programme>
   <programme channel="403626" start="20250814020800 +0000" stop="20250814050000 +0000">
     <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
     <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make a sacrifice on their journey.</desc>
@@ -229,9 +104,104 @@
     <desc>Detectives Benson and Tutuola dig into the past of a basketball star while investigating sexual abuse charges against his former coach.</desc>
     <date>2025-08-14</date>
   </programme>
-  <programme channel="403626" start="20250815000000 +0000" stop="20250816000000 +0000">
+  <programme channel="403626" start="20250815000000 +0000" stop="20250815022800 +0000">
     <title lang="zh">Click</title>
     <desc>An overworked architect meets an eccentric inventor who gives him a universal remote that allows him to control the world around him.</desc>
     <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815022800 +0000" stop="20250815043200 +0000">
+    <title lang="zh">The Waterboy</title>
+    <desc>Raised by his overprotective mother, Helen, Bobby Boucher Jr. is the water boy for a successful college football team coached by Red Beaulieu.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815043200 +0000" stop="20250815043300 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>A chance to witness a special preview of USA's new series, The Rainmaker.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815043300 +0000" stop="20250815070100 +0000">
+    <title lang="zh">Click</title>
+    <desc>An overworked architect meets an eccentric inventor who gives him a universal remote that allows him to control the world around him.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815070100 +0000" stop="20250815080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A teenage girl's death in a hit-and-run accident leads Benson and Stabler to a human trafficking ring; Cragen becomes frustrated by his crumbling precinct.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815080000 +0000" stop="20250815090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When Benson and Stabler investigate a young woman's rape and murder, the case puts them in the line of fire and exposes a larger mystery that includes more victims.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815090000 +0000" stop="20250815100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Stabler notices that Benson is bonding with Calvin, the boy left in her care; Fin and Munch must investigate when the name of Calvin's mother (Maria Bello) comes up during a rape investigation.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815100000 +0000" stop="20250815110000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Emergency response providers put their lives at risk to save others.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815110000 +0000" stop="20250815120000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A night at an amusement park takes a deadly turn when a roller coaster malfunction leaves lives hanging in the balance; Abby reaches out to Buck; Athena and Hen respond to an unusual home invasion.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815120000 +0000" stop="20250815130000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Bobby and his team respond to an emergency at a children's birthday party; the crew jumps into action after one of their own is involved in a devastating accident; Athena tries to cope with a tragedy that hits way too close to home.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815130000 +0000" stop="20250815140000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Bobby and the team race to help the survivors of a deadly plane crash; Athena deals with chaos at the airport; Bobby confronts his past demons; Athena is out for revenge against teen bullies; Abby delivers an important message from a 9-1-1 caller.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815140000 +0000" stop="20250815150000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The crew races to an emergency at an Indian wedding; Abby enlists Buck to help her find her mother; Abby meets Athena for the first time; Bobby confronts his past; Hen struggles to make the right decision.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815150000 +0000" stop="20250815160000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>On Valentine's Day, a surprise marriage proposal goes awry with dangerous consequences; Athena attempts to help a desperate woman; Bobby and Chimney pull holiday duty; Abby and Buck go on their first official date.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815160000 +0000" stop="20250815170000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A full moon keeps the crew busy with crazy calls; Athena investigates a potential home invasion; Abby helps investigate a caller's murder; Bobby and Buck have their hands full at a yoga studio for pregnant women; Hen's past may become her future.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815170000 +0000" stop="20250815180000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Bobby gets a surprising phone call from his doctor after donating at Chimney's blood drive; Athena confronts Michael after having a heart-to-heart with their kids.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815180000 +0000" stop="20250815190000 +0000">
+    <title lang="zh">Live: Premier League Live</title>
+    <desc>Discussion and analysis of Premier League soccer.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815190000 +0000" stop="20250815210000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>The 2025-26 Premier League campaign begins with defending champion Liverpool hosting Bournemouth. Liverpool endured a difficult off-season, with longtime wing back Trent Alexander-Arnold replaced by former Bournemouth defender Milos Kerkez.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815210000 +0000" stop="20250815220000 +0000">
+    <title lang="zh">Live: Premier League Goal Zone</title>
+    <desc>The best moments from the weekend in Premier League action.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250815220000 +0000" stop="20250816000000 +0000">
+    <title lang="zh">The Waterboy</title>
+    <desc>Raised by his overprotective mother, Helen, Bobby Boucher Jr. is the water boy for a successful college football team coached by Red Beaulieu.</desc>
+    <date>2025-08-15</date>
+  </programme>
+  <programme channel="403626" start="20250816000000 +0000" stop="20250817000000 +0000">
+    <title lang="zh">Live: WWE Friday Night SmackDown</title>
+    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-08-16</date>
   </programme>
 </tv>
