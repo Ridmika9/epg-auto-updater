@@ -1,134 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250816110811 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250816.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250816&amp;timezone=None">
+<tv date="20250817100053 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250817.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250817&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250816000000 +0000" stop="20250816020000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816020000 +0000" stop="20250816030100 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816030100 +0000" stop="20250816030500 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>A look inside Episode 1 of USA's The Rainmaker.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816030500 +0000" stop="20250816040400 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 and Tommy are presented with the Medal of Valor for their work on the cruise ship rescue; Hen and Karen encounter an unforeseen hurdle in their foster care journey; Eddie's emotional affair develops further.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816040400 +0000" stop="20250816050300 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Following the devastating fire at the Nash home, Bobby's fate remains uncertain; Athena embarks on a mission to uncover the truth; Hen and Karin engage in a heated custody battle; Christopher grapples with forgiving Eddie.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816050300 +0000" stop="20250816060300 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816060300 +0000" stop="20250816070200 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>The case of Johnny Hincapie, whose conviction for the 1990 murder of a Utah tourist in New York -- a case that represented a tipping point in the city's law enforcement -- was overturned after 25 years.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816070200 +0000" stop="20250816080000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>After a young Army veteran disappears, detectives uncover a cryptic 911 call placed 11 days before she went missing, which exposes a twisted story -- and the truth.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816080000 +0000" stop="20250816090000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>A wife and mother survives an attack in her home and a shot to the head; authorities search for a motive.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816090000 +0000" stop="20250816100000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>A wife and mother survives an attack in her home and a shot to the head; authorities search for a motive.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816100000 +0000" stop="20250816110000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>When the Hollywood Reservoir dam breaks, Bobby and the 118 race into action to save passengers on a city bus that has crashed into a building several stories in the air; the team adjusts to life as first responders during the pandemic.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816110000 +0000" stop="20250816113000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816113000 +0000" stop="20250816133000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Aston Villa host Newcastle United. In 2024-25, both clubs finished level on 66 points, with Newcastle earning the fifth and final UEFA Champions League spot on goal differential. Villa thrashed Newcastle 4-1 during the last meeting in Birmingham.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816133000 +0000" stop="20250816140000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816140000 +0000" stop="20250816160000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Fulham head to the south shore of England to begin their 2025-26 Premier League campaign by facing Brighton. The Seagulls just missed out on European qualification with their eighth-place finish last season and lost striker João Pedro to Chelsea.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816160000 +0000" stop="20250816163000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816163000 +0000" stop="20250816173100 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816173100 +0000" stop="20250816180000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>Who put a bomb in the home of a 29-year-old woman and killed her?</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816180000 +0000" stop="20250816190000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>In the aftermath of the dam break, massive mudslides wreak havoc throughout Los Angeles; Athena fights to save herself and an agoraphobic woman after her house collapses; a group of pregnant women trapped in a submerged house.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816190000 +0000" stop="20250816200000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The team races to save a man under siege by his high-tech smart home; a yoga teacher loses her vision; Athena hunts down a bank robber disguised by COVID-19 protocols; members of the 118's crew prepare for an out-of-state mission.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816200000 +0000" stop="20250816210000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Athena investigates a mysterious murder during a neighborhood block party; the 118 rush to save lives endangered by a bomb threat; Chimney has a hard time keeping secrets when Maddie and Buck's parents come to town.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816210000 +0000" stop="20250816220000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 races to save the lives of workers trapped in a factory fire; Maddie reveals a painful family secret that causes Buck to confront his childhood and answer why he is the daredevil he is today.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816220000 +0000" stop="20250816230000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 has a day from hell with a never-ending series of bizarre emergency calls; a man tapes himself to a freeway billboard; a restaurant manager destroys his own business; Eddie feels a spark with Christopher's former teacher.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816230000 +0000" stop="20250816233000 +0000">
-    <title lang="zh">Live: NASCAR Cup Series Countdown to Green</title>
-    <desc>Pre-race show with analysis, driver profiles, reports from the garage, interviews with drivers and crew chiefs, and more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816233000 +0000" stop="20250817000000 +0000">
-    <title lang="zh">Live: NASCAR Cup Series</title>
-    <desc>The NASCAR Cup Series season rolls on with the Cook Out 400. Shane van Gisbergen ran his road-course win streak to four races Aug. 10 in New York, and joined Dan Gurney as the only drivers to collect their first five career victories on road courses.</desc>
-    <date>2025-08-16</date>
-  </programme>
   <programme channel="403626" start="20250817023000 +0000" stop="20250817030000 +0000">
     <title lang="zh">Live: NASCAR Cup Series Post Race</title>
     <desc>Post race coverage from the latest Cup event.</desc>
@@ -239,9 +114,134 @@
     <desc>The female CEO of a popular wellness company says she was raped, but her business partner claims the accusation is part of an embezzlement cover-up.</desc>
     <date>2025-08-17</date>
   </programme>
-  <programme channel="403626" start="20250818000000 +0000" stop="20250819000000 +0000">
+  <programme channel="403626" start="20250818000000 +0000" stop="20250818010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>While Fin and Phoebe make wedding plans, Benson and Rollins try to help a homeless single mother who's being trafficked in exchange for safe housing.</desc>
     <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818010000 +0000" stop="20250818020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>As the investigation into a sex-for-housing scheme expands, Benson's loyalty to Garland is tested; Rollins and Carisi try to keep their witnesses on board when a powerful congressman is identified as a suspect.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818020000 +0000" stop="20250818030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The search for a missing witness leads Fin and Kat down a dangerous path; Chief McGrath puts pressure on Garland and Benson to get a conviction.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818030000 +0000" stop="20250818040100 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818040100 +0000" stop="20250818050100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler suspect a pair of college basketball players of murdering a female student, but officials don't want to draw negative attention to the school.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818050100 +0000" stop="20250818060100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When two police officers in separate precincts attack their wives and demonstrate suicidal behavior, Benson and Stabler suspect a malaria drug both men received while serving in a reserve unit in Afghanistan.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818060100 +0000" stop="20250818070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler believe a fellow cop may be behind murders going back 30 years; Munch is in rare form during a child molestation case.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818070000 +0000" stop="20250818080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler investigate the shooting death of a sleazy judge who abused the criminal-justice system.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818080000 +0000" stop="20250818090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler investigate the case of a woman (Cynthia Nixon) with multiple personalities who may have abused and killed her daughter; the detectives must adjust to sweeping changes in the SVU.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818090000 +0000" stop="20250818100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When Officer Michael Groves ends up in a psych ward after leveling accusations at the 12th Precinct, Internal Affairs asks the team to help investigate.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818100000 +0000" stop="20250818103000 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>A killer tried to destroy everything which could link them to the crime; but in doing so, they inadvertently created new forensic evidence, evidence which came to light using a technique never before used in a criminal investigation.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818103000 +0000" stop="20250818113000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A woman with a seemingly squeaky-clean image is found dead in a fountain; further investigation reveals a surprising motive and multiple suspects.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818113000 +0000" stop="20250818123000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a young woman is attacked in her apartment, evidence points to traumatic events from her buried past.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818123000 +0000" stop="20250818133000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson questions Detective Qadri's involvement in the case of a district attorney who fell to her death.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818133000 +0000" stop="20250818143000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler's investigation into a sexual abuse case goes awry when their wealthy suspect involves his lawyer.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818143000 +0000" stop="20250818153000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a pregnant 13-year-old won't identify the father of her baby, Benson and the squad try to determine if she was raped; after the investigation uncovers a secret, someone goes missing.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818153000 +0000" stop="20250818163000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a dancer is raped by a man with a unique tattoo, details of the case remind Rollins of a serial rapist she was tracking in Atlanta.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818163000 +0000" stop="20250818173000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives investigate when woman visiting from Buffalo, N.Y., claims her car was stolen with her baby in the backseat.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818173000 +0000" stop="20250818183000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a young mail-order bride is found dead, the investigation leads the detectives to the Russian mafia.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818183000 +0000" stop="20250818190000 +0000">
+    <title lang="zh">Live: Premier League Live</title>
+    <desc>Discussion and analysis of Premier League soccer.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818190000 +0000" stop="20250818210000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>Leeds United host Everton in this 2025-26 Premier League opener. Leeds returns to England's top tier after winning the Championship in 2024-25. The clubs played to a 1-1 draw during their last league outing at Elland Road on Aug. 30, 2022.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818210000 +0000" stop="20250818213000 +0000">
+    <title lang="zh">Live: Premier League Goal Zone</title>
+    <desc>The best moments from the weekend in Premier League action.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818213000 +0000" stop="20250818220000 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>When an aspiring model turns up dead, police suspect her boyfriend. But must dig deeper for clues when he is cleared.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818220000 +0000" stop="20250818230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Rollins investigate when a mental patient says he witnessed a rape, but the alleged victim denies the assault happened.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818230000 +0000" stop="20250819000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a child disappears on his way home from school, Benson and Amaro interview the distraught parents, who don't trust the police; with the help of their TARU tech (Gilbert Gottfried) and a meddling reporter, the detectives narrow the suspects list.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250819000000 +0000" stop="20250820000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When the detectives find a missing 14-year-old working as a prostitute, they set up a sting to put the johns away for statutory rape and find one of her customers is a former professional football player.</desc>
+    <date>2025-08-19</date>
   </programme>
 </tv>
