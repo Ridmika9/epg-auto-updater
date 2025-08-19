@@ -1,134 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250818100601 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250818.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250818&amp;timezone=None">
+<tv date="20250819095306 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250819.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250819&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250818000000 +0000" stop="20250818010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>While Fin and Phoebe make wedding plans, Benson and Rollins try to help a homeless single mother who's being trafficked in exchange for safe housing.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818010000 +0000" stop="20250818020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>As the investigation into a sex-for-housing scheme expands, Benson's loyalty to Garland is tested; Rollins and Carisi try to keep their witnesses on board when a powerful congressman is identified as a suspect.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818020000 +0000" stop="20250818030000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The search for a missing witness leads Fin and Kat down a dangerous path; Chief McGrath puts pressure on Garland and Benson to get a conviction.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818030000 +0000" stop="20250818040100 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818040100 +0000" stop="20250818050100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler suspect a pair of college basketball players of murdering a female student, but officials don't want to draw negative attention to the school.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818050100 +0000" stop="20250818060100 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When two police officers in separate precincts attack their wives and demonstrate suicidal behavior, Benson and Stabler suspect a malaria drug both men received while serving in a reserve unit in Afghanistan.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818060100 +0000" stop="20250818070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler believe a fellow cop may be behind murders going back 30 years; Munch is in rare form during a child molestation case.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818070000 +0000" stop="20250818080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler investigate the shooting death of a sleazy judge who abused the criminal-justice system.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818080000 +0000" stop="20250818090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler investigate the case of a woman (Cynthia Nixon) with multiple personalities who may have abused and killed her daughter; the detectives must adjust to sweeping changes in the SVU.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818090000 +0000" stop="20250818100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When Officer Michael Groves ends up in a psych ward after leveling accusations at the 12th Precinct, Internal Affairs asks the team to help investigate.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818100000 +0000" stop="20250818103000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>A killer tried to destroy everything which could link them to the crime; but in doing so, they inadvertently created new forensic evidence, evidence which came to light using a technique never before used in a criminal investigation.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818103000 +0000" stop="20250818113000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A woman with a seemingly squeaky-clean image is found dead in a fountain; further investigation reveals a surprising motive and multiple suspects.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818113000 +0000" stop="20250818123000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a young woman is attacked in her apartment, evidence points to traumatic events from her buried past.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818123000 +0000" stop="20250818133000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson questions Detective Qadri's involvement in the case of a district attorney who fell to her death.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818133000 +0000" stop="20250818143000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Stabler's investigation into a sexual abuse case goes awry when their wealthy suspect involves his lawyer.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818143000 +0000" stop="20250818153000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a pregnant 13-year-old won't identify the father of her baby, Benson and the squad try to determine if she was raped; after the investigation uncovers a secret, someone goes missing.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818153000 +0000" stop="20250818163000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a dancer is raped by a man with a unique tattoo, details of the case remind Rollins of a serial rapist she was tracking in Atlanta.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818163000 +0000" stop="20250818173000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives investigate when woman visiting from Buffalo, N.Y., claims her car was stolen with her baby in the backseat.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818173000 +0000" stop="20250818183000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a young mail-order bride is found dead, the investigation leads the detectives to the Russian mafia.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818183000 +0000" stop="20250818190000 +0000">
-    <title lang="zh">Live: Premier League Live</title>
-    <desc>Discussion and analysis of Premier League soccer.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818190000 +0000" stop="20250818210000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Leeds United host Everton in this 2025-26 Premier League opener. Leeds returns to England's top tier after winning the Championship in 2024-25. The clubs played to a 1-1 draw during their last league outing at Elland Road on Aug. 30, 2022.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818210000 +0000" stop="20250818213000 +0000">
-    <title lang="zh">Live: Premier League Goal Zone</title>
-    <desc>The best moments from the weekend in Premier League action.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818213000 +0000" stop="20250818220000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>When an aspiring model turns up dead, police suspect her boyfriend. But must dig deeper for clues when he is cleared.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818220000 +0000" stop="20250818230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Rollins investigate when a mental patient says he witnessed a rape, but the alleged victim denies the assault happened.</desc>
-    <date>2025-08-18</date>
-  </programme>
-  <programme channel="403626" start="20250818230000 +0000" stop="20250819000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a child disappears on his way home from school, Benson and Amaro interview the distraught parents, who don't trust the police; with the help of their TARU tech (Gilbert Gottfried) and a meddling reporter, the detectives narrow the suspects list.</desc>
-    <date>2025-08-18</date>
-  </programme>
   <programme channel="403626" start="20250819000000 +0000" stop="20250819010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>When the detectives find a missing 14-year-old working as a prostitute, they set up a sting to put the johns away for statutory rape and find one of her customers is a former professional football player.</desc>
@@ -249,9 +124,129 @@
     <desc>When a janitor violently attacks a coach, the SVU team connects the janitor's behavior to a history of sexual abuse; the detectives find more victims of the same predator -- including a prisoner (Mike Tyson) on death row.</desc>
     <date>2025-08-19</date>
   </programme>
-  <programme channel="403626" start="20250820000000 +0000" stop="20250821000000 +0000">
+  <programme channel="403626" start="20250820000000 +0000" stop="20250820010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>As the SVU detectives investigate the alleged rape of a sorority pledge, drunken students and conflicting accounts complicate matters.</desc>
     <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820010000 +0000" stop="20250820020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a concert turns into a mob scene, a teenager is brutally assaulted; Detective Amaro ends up defending the prime suspect's reputation.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820020000 +0000" stop="20250820030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When two sniper attacks on the NYPD link to Detective Tutuola's past as a narcotics officer, he reconnects with his former partner in hope of finding a motive; Lt. Alexandra Eames helps SVU investigate.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820030000 +0000" stop="20250820040100 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820040100 +0000" stop="20250820050100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The investigation into how a comatose woman ended up in a river near the mayor's home reveals the victim's unexpected wild side.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820050100 +0000" stop="20250820060100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a young boy is abandoned, the squad discovers more victims waiting to be rescued.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820060100 +0000" stop="20250820070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A vigilante group forms in response to a string of rapes; concerns over his wife's fidelity distract Amaro.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820070000 +0000" stop="20250820080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The special victims squad tries to take down a sex-trafficking operation that enslaves young women; when the investigation is halted by Lt. Alexandra Eames (Kathryn Erbe), Detective Benson has to get creative.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820080000 +0000" stop="20250820090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a woman claims that the baby she kidnapped is hers with a respected legal expert, the investigation changes the lives of two families.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820090000 +0000" stop="20250820100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A man goes on a killing spree, but he has links to a prostitute that Benson encountered in an earlier investigation, so the FBI contacts SVU for information.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820100000 +0000" stop="20250820110000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Detectives from New York's SVU come to Chicago to help take down a pedophilia ring; Platt shows her respect for the police.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820110000 +0000" stop="20250820120000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>When Asher is killed while Antonio is on his security duty, Voight and Olinsky make sure he is covered; Halstead and Lindsay go under cover; Kot wants an answer from Lindsay.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820120000 +0000" stop="20250820130000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Following a big heroin bust, Olinsky learns that the suspects are holding his wife hostage; Burgess and Roman get an assignment that pairs them with a K-9 officer: Roman's former partner (Spencer Grammer).</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820130000 +0000" stop="20250820140000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>The intelligence team works to find those responsible for Burgess' wounds; a search of the house provides valuable information.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820140000 +0000" stop="20250820150000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Lindsay calls on Voight and his unit for help with her first case on the federal task force; Burgess is relegated to desk duty.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820150000 +0000" stop="20250820160000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Ruzek's father (Jack Coleman) is first on the scene of a double murder; Lindsay prepares for an undercover investigation in Bolivia; Roman and Burgess try to move forward.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820160000 +0000" stop="20250820170000 +0000">
+    <title lang="zh">Chicago P.D.</title>
+    <desc>Antonio and his sister talk to Elliot Gish about the person they think is responsible for the fire that killed Shay; Lindsay has second thoughts about the task force; Platt's new, sunny demeanor results in curiosity.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820170000 +0000" stop="20250820180000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Severide tries to prove his suspicions about the arsonist's identity; Casey gets accustomed to his new lifestyle; Dawson goes on a date with a regular from the bar.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820180000 +0000" stop="20250820190000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Severide wants to implicate the serial arsonist; Dawson and Shay face the unexpected on a routine call; suspicions indicate Clarke is the mole; Mouch campaigns for union president.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820190000 +0000" stop="20250820200000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>McLeod pushes Boden toward an early retirement and chooses a potential replacement; all make known their disdain for the mole; Shay enjoys a full social life.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820200000 +0000" stop="20250820210000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Severide comes across a boy in need of help while out on a jog; Boden and McLeod clash over the future of the firehouse; Mouch and Greg Sullivan debate on Otis' podcast.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820210000 +0000" stop="20250820220000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>The firehouse crew goes to the scene of a railroad accident; Boden must make a big decision about his future; Severide learns more about the woman he saw with his father; Shay and Dawson continue to butt heads.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820220000 +0000" stop="20250820230000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>The shooting of a child in their neighborhood forces Cruz and his brother to think about the gang; Isabella gets Mills to dress up for a gala; Casey feels sad he will be seeing Dawson less; Shay gets in deeper with Devon.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250820230000 +0000" stop="20250821000000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Boden tries to keep the firehouse from closing; the romance between Dawson and Casey grows; Cruz worries for his brother's safety; Severide and Katie make up for lost time.</desc>
+    <date>2025-08-20</date>
+  </programme>
+  <programme channel="403626" start="20250821000000 +0000" stop="20250822000000 +0000">
+    <title lang="zh">National Treasure</title>
+    <desc>An adventurer (Nicolas Cage) must steal the Declaration of Independence and use its hidden map to find a legendary fortune.</desc>
+    <date>2025-08-21</date>
   </programme>
 </tv>
