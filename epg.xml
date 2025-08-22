@@ -1,119 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250821110129 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250821.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250821&amp;timezone=None">
+<tv date="20250822095034 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250822&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250821000000 +0000" stop="20250821030000 +0000">
-    <title lang="zh">National Treasure</title>
-    <desc>An adventurer (Nicolas Cage) must steal the Declaration of Independence and use its hidden map to find a legendary fortune.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821030000 +0000" stop="20250821040100 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821040100 +0000" stop="20250821050100 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Chief Boden leads the fight to keep the firehouse open; an emergency call to an apartment structure puts the squad in harm's way; Dawson receives life-changing news.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821050100 +0000" stop="20250821060100 +0000">
-    <title lang="zh">Chicago Fire</title>
-    <desc>Casey returns to work after a brush with death; Shay's new partner is friendly to everyone but her; Dawson begins training; Severide prepares for his instructor duties; Clarke refuses to talk to the police about the murder.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821060100 +0000" stop="20250821070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives investigate when woman visiting from Buffalo, N.Y., claims her car was stolen with her baby in the backseat.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821070000 +0000" stop="20250821080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a young mail-order bride is found dead, the investigation leads the detectives to the Russian mafia.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821080000 +0000" stop="20250821090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detectives Benson and Rollins investigate when a mental patient says he witnessed a rape, but the alleged victim denies the assault happened.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821090000 +0000" stop="20250821100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a child disappears on his way home from school, Benson and Amaro interview the distraught parents, who don't trust the police; with the help of their TARU tech (Gilbert Gottfried) and a meddling reporter, the detectives narrow the suspects list.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821100000 +0000" stop="20250821110000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>An elaborate bank heist to steal a single safe deposit box held by a Navy contractor leads NCIS to investigate her corrupt consulting firm.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821110000 +0000" stop="20250821120000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>The NCIS team searches for a Marine reservist with a history of post-traumatic stress disorder who disappears following a drunk and disorderly altercation.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821120000 +0000" stop="20250821130000 +0000">
-    <title lang="zh">NCIS: Los Angeles</title>
-    <desc>The team investigates a possible terror threat after the chief of logistics for a naval weapons station collapses on the job; Kensi and Deeks research different honeymoon locations.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821130000 +0000" stop="20250821140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When the investigation into a missing teen leads the detectives to a severed leg, they are drawn into the world of self-mutilation and ritual amputation.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821140000 +0000" stop="20250821150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A promising singer is beaten by her boyfriend, a famous hip-hop star, but she refuses to help ADA Barba build his case; the defendant and his attorney turn the case into a media circus.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821150000 +0000" stop="20250821160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Investigation into the suspected rape of a woman Benson helped earlier leads to a cybermogul; the team bids farewell to Sgt. Munch.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821160000 +0000" stop="20250821170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>ADA Barba finds that a friend (Kirk Acevedo) -- with a connection to a mayoral candidate frontrunner -- is accused of rape.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821170000 +0000" stop="20250821180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a suspect is gravely injured and the case becomes a public spectacle, Amaro's badge is on the line; Cragen surprises everyone with an announcement.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821180000 +0000" stop="20250821190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When an underage runaway is found beaten and raped, the SVU team works with federal prosecutor Connie Rubirosa (Alana De La Garza); ADA Barba suspects a cover-up when he fails to get the help he needs from Jersey law enforcement.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821190000 +0000" stop="20250821200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Amaro suspects the boyfriend of a missing girl is involved with a gang; Sgt. Benson becomes the SVU's new commanding officer.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821200000 +0000" stop="20250821210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The already frantic search for a missing diabetic boy becomes more urgent when he is spotted with a couple known for child endangerment and pornography.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821210000 +0000" stop="20250821220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a controversial misogynistic comic is accused of rape, Benson is happy to arrest him, but Barba feels the case is weak.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821220000 +0000" stop="20250821230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Rollins is contacted by a hometown friend when his nephew, a high school football star, goes missing in New York; Rollins seeks help with her escalating problems.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="403626" start="20250821230000 +0000" stop="20250822000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When Rollins strikes a deal with the managers of a gambling club in order to protect her job, she ends up drawing the suspicion of Benson and Tutuola.</desc>
-    <date>2025-08-21</date>
-  </programme>
   <programme channel="403626" start="20250822000000 +0000" stop="20250822023200 +0000">
     <title lang="zh">National Treasure: Book of Secrets</title>
     <desc>A page from the diary of John Wilkes Booth implicates Ben Gates' (Nicolas Cage) great-great grandfather as a major conspirator in the assassination of President Lincoln.</desc>
@@ -224,9 +114,129 @@
     <desc>Detectives Stabler and Tutuola search for a victim and her attacker after video of a sexual assault is featured on a college campus Intranet feed.</desc>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="403626" start="20250823000000 +0000" stop="20250824000000 +0000">
+  <programme channel="403626" start="20250823000000 +0000" stop="20250823020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823020000 +0000" stop="20250823030100 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Rudy and Deck have a tense encounter with a witness and make a crucial discovery about their client.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823030100 +0000" stop="20250823030500 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>A look inside Episode 2 of USA's The Rainmaker.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823030500 +0000" stop="20250823040400 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The first responders race to help a homeless man crushed in a garbage truck, a mother and son in a crashed elevator, and extreme hoarders trapped in their house; Athena starts dating; the situation with Abby's mother tests her relationship with Buck.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823040400 +0000" stop="20250823050300 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The first responders take calls involving an unusual domestic disturbance, a "death" at a psychic's place, and a motorcycle crash; Bobby dips his toes into the dating pool; Abby walks down memory lane, and Buck is confronted by his past actions.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823050300 +0000" stop="20250823060300 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Rudy and Deck have a tense encounter with a witness and make a crucial discovery about their client.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823060300 +0000" stop="20250823070200 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>After shedding hundreds of pounds, a popular kindergarten teacher goes missing; investigators find a link between her weight loss and her disappearance.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823070200 +0000" stop="20250823080000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When Bonnie Craig was found dead, police collected DNA, but it didn't match anyone in the system; 12 years later there is a hit, but the man is thousands of miles away and, as it turns out, prosecutors need more than DNA to convict a killer.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823080000 +0000" stop="20250823090000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>As a murder victim's sisters dedicate themselves to finding the killer, an unexpected source turns the case upside down.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823090000 +0000" stop="20250823100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>As a murder victim's sisters dedicate themselves to finding the killer, an unexpected source turns the case upside down.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823100000 +0000" stop="20250823110000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Firehouse 51 responds to a massive freeway accident that impacts someone close to them; Foster runs into someone from her past after a harrowing call; Casey and Naomi grow closer; Severide and Kidd's relationship is tested.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823110000 +0000" stop="20250823113000 +0000">
+    <title lang="zh">Live: Premier League Mornings</title>
+    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823113000 +0000" stop="20250823133000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>Manchester City go up against Tottenham Hotspur. Man City ran wild with Wolves during their season opener, winning 4-0 behind a brace from Erling Haaland. Thomas Frank's reign with Spurs began with a 3-0 result over recently-promoted Burnley.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823133000 +0000" stop="20250823140000 +0000">
+    <title lang="zh">Live: Premier League Mornings</title>
+    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823140000 +0000" stop="20250823160000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>Brentford's 2025-26 Premier League home slate begins with a game against Aston Villa. Since 2022-23, the Villans are 4-2-0 facing the Bees in league action. Villa striker Ollie Watkins scored twice against his former team last season.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823160000 +0000" stop="20250823163000 +0000">
+    <title lang="zh">Live: Premier League Mornings</title>
+    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823163000 +0000" stop="20250823173100 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Rudy and Deck have a tense encounter with a witness and make a crucial discovery about their client.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823173100 +0000" stop="20250823180100 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>Tiny fibers and an asthma inhaler are the clues that lead officers to the killer of an off-duty policeman.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823180100 +0000" stop="20250823190000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Casey and Naomi fight to escape a raging fire in Casey's apartment; Brett and the team struggle to create an engaging community fire safety presentation; Severide and Kidd's relationship reaches a crossroads.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823190000 +0000" stop="20250823200000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Casey further investigates a motorcycle accident at the request of the victim's son; Kidd, Foster and Brett bond while helping Kidd fix a mistake; Mouch and Otis have a falling out after Otis' teasing hits a sore spot.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823200000 +0000" stop="20250823210000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Cruz leads the charge in getting the firehouse to gear up for the Polar Plunge; Herrmann has a hard time bouncing back after dealing with a tough call; Foster's personal relationships begin to interfere with her job.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823210000 +0000" stop="20250823220000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Brett, Foster and Kidd take a road trip to Indiana and encounter an accident involving a boys' hockey team that leaves them scrambling and relying on their instincts to save the injured; the rest of Firehouse 51 competes in the annual chili cook-off.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823220000 +0000" stop="20250823230000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>A spate of robberies comes to light after a firehouse lockbox key goes missing; Sgt. Hank Voight suspects a firefighter may be involved, and with Boden's support, he recruits Cruz to go under cover to help sniff out any suspicious activity.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250823230000 +0000" stop="20250824000000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Casey struggles after experiencing a narrow miss on a call; Otis wins a unique sporting opportunity in a raffle; Grissom turns to Severide for assistance when the mayor's office sends a task force to Firehouse 51.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="403626" start="20250824000000 +0000" stop="20250825000000 +0000">
+    <title lang="zh">Chicago Fire</title>
+    <desc>Tensions run high between Casey and Herrmann after the firehouse responds to an apartment complex fire; after discovering something extremely suspicious during the call, Kidd and Severide do some investigating and get CPD on the case.</desc>
+    <date>2025-08-24</date>
   </programme>
 </tv>
