@@ -1,124 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250830100005 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250830.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250830&amp;timezone=None">
+<tv date="20250831095223 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250831.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250831&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250830000000 +0000" stop="20250830020000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830020000 +0000" stop="20250830030100 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>As Rudy and Deck search for a missing nurse, their investigation suggests a dark conspiracy at play.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830030100 +0000" stop="20250830030500 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>A look inside Episode 3 of USA's The Rainmaker.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830030500 +0000" stop="20250830040400 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Maddie fears for herself and her co-workers when the call center is taken hostage.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830040400 +0000" stop="20250830050300 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Eddie's journey to rescue a boy from a well turns into a mission to save himself from his past.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830050300 +0000" stop="20250830060300 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>As Rudy and Deck search for a missing nurse, their investigation suggests a dark conspiracy at play.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830060300 +0000" stop="20250830070200 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>An in-depth look at the journalists who exposed the dangers of cult leader Reverend Jim Jones; interviews with witnesses to murders carried out by Jones' followers.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830070200 +0000" stop="20250830080000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>When 19-year-old Anton Black dies while being taken into police custody, the community seeks justice; a yearlong "Dateline" investigation looks at the officer at the center of the case and missed warning signs.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830080000 +0000" stop="20250830100000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>A Connecticut bank executive is targeted by criminals who force him to rob his own bank.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830100000 +0000" stop="20250830110000 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Rudy and Deck have a tense encounter with a witness and make a crucial discovery about their client.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830110000 +0000" stop="20250830113000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830113000 +0000" stop="20250830133000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>From Stamford Bridge in London.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830133000 +0000" stop="20250830140000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830140000 +0000" stop="20250830160000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>From Stadium of Light in Sunderland, Tyne and Wear, England.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830160000 +0000" stop="20250830163000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830163000 +0000" stop="20250830173000 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>As Rudy and Deck search for a missing nurse, their investigation suggests a dark conspiracy at play.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830173000 +0000" stop="20250830180000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>A man calls for help when his wife has a fatal fall down the stairs; numerous amount of bloodstains make police suspicious.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830180000 +0000" stop="20250830190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU investigates when a woman claims a charismatic spiritual healer used hypnosis to incapacitate her and assault her.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830190000 +0000" stop="20250830200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and the team investigate a father's murder after his teenage daughters call in a home burglary that turns into an attempted assault; when the team speaks with the medical examiner, the details don't add up.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830200000 +0000" stop="20250830210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson, Fin, Carisi and Rollins debate what they should and should not conjecture about a defendant's situation while waiting to testify at her murder trial.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830210000 +0000" stop="20250830220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and the team investigate the death of a prostitute at a brothel; they wonder if there was foul play or if this could be a case of a junkie who relapsed, turned to tricking, got depressed and committed suicide.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830220000 +0000" stop="20250830230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Rollins must contend with the FBI and the Organized Crime bureau when a rape victim identifies a dangerous mobster as her assailant.</desc>
-    <date>2025-08-30</date>
-  </programme>
-  <programme channel="403626" start="20250830230000 +0000" stop="20250831000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU searches for a serial rapist who preys on mothers with young children; Benson and Fin struggle under the tightened reins of Chief McGrath.</desc>
-    <date>2025-08-30</date>
-  </programme>
   <programme channel="403626" start="20250831000000 +0000" stop="20250831010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>The SVU faces the fury of social media fans when they arrest two popular influencer brothers.</desc>
@@ -228,5 +113,45 @@
     <title lang="zh">Live: NASCAR Cup Series</title>
     <desc>The NASCAR Cup Series Round of 16 gets underway with the Cook Out Southern 500 from Darlington Raceway. Ryan Blaney won in a photo-finish during the regular-season finale at Daytona, while Alex Bowman grabbed the 16th and final playoff spot.</desc>
     <date>2025-08-31</date>
+  </programme>
+  <programme channel="403626" start="20250901020000 +0000" stop="20250901023000 +0000">
+    <title lang="zh">Live: NASCAR Cup Series Post Race</title>
+    <desc>Post race coverage from the latest Cup event.</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="403626" start="20250901023000 +0000" stop="20250901033100 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>As Rudy and Deck search for a missing nurse, their investigation suggests a dark conspiracy at play.</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="403626" start="20250901033100 +0000" stop="20250901043100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Rollins and Fin investigate an assault in Kentucky that has striking similarities to that of a victim found in Central Park; Benson receives intel that turns the case upside down.</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="403626" start="20250901043100 +0000" stop="20250901053100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Garland asks Benson to reopen a missing persons case he worked as a rookie officer; a victim in one of Carisi's recent cases is arrested.</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="403626" start="20250901053100 +0000" stop="20250901063100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When the only evidence in a crime is a church confession, Carisi must find another way to prove his suspect guilty; Benson agrees to meet with an old friend seeking to make amends for past transgressions.</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="403626" start="20250901063100 +0000" stop="20250901070100 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>A decade old case reopens, and a few seconds of a 911 call enable investigators to determine who is responsible for a murder.</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="403626" start="20250901070100 +0000" stop="20250901080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and the SVU investigate the death of a man they believe to be a pedophile; when they dig deeper, they realize things are not what they seem and that the case actually hits really close to home.</desc>
+    <date>2025-09-01</date>
+  </programme>
+  <programme channel="403626" start="20250901080000 +0000" stop="20250902000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU pursues a suspect when a child is discovered in the trunk of an abandoned car.</desc>
+    <date>2025-09-01</date>
   </programme>
 </tv>
