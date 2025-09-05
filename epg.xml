@@ -1,94 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250904094217 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250904.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250904&amp;timezone=None">
+<tv date="20250905105305 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250905.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250905&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250904013000 +0000" stop="20250904043000 +0000">
-    <title lang="zh">Rudy</title>
-    <desc>With heart and determination an Illinois youth (Sean Astin) tackles shortcomings to play Notre Dame football.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904043000 +0000" stop="20250904070000 +0000">
-    <title lang="zh">The Replacements</title>
-    <desc>A football coach (Gene Hackman) and his team's owner recruit a ragtag band of has-beens and wannabes after failed negotiations lead to a strike.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904070000 +0000" stop="20250904080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Carisi poses as a homeless man at a shelter to see if one of the resident sex offenders is tied to a string of rapes.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904080000 +0000" stop="20250904090000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU investigates when a contestant from a reality dating series says she was raped; the producers of the series make Benson and the team part of the show.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904090000 +0000" stop="20250904100000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a young boy is found alone in Central Park, the search for his parents leads to evidence of a planned mass-casualty event in the city; the SVU works with the joint-terrorism task force to identify the suspects and the motive.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904100000 +0000" stop="20250904130000 +0000">
-    <title lang="zh">Rudy</title>
-    <desc>With heart and determination an Illinois youth (Sean Astin) tackles shortcomings to play Notre Dame football.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904130000 +0000" stop="20250904140000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A famous fashion photographer accused of raping a young model asks his successful brother to help him avoid charges.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904140000 +0000" stop="20250904150000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The detectives interrogate the CEO of a recording company and his protégé for their involvement in an assault on a transgender student.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904150000 +0000" stop="20250904160000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Fin crosses international borders to catch a fugitive rapist; a political tug-of-war derails Barba's legal case; shocking allegations against Benson lead to the return of an old friend.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904160000 +0000" stop="20250904170000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Rollins and Carisi suspect a woman's bizarre rape story is fabricated; Benson goes on the offensive when her personal life is scrutinized.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904170000 +0000" stop="20250904180000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A teenager disappears after schoolmates make her the subject of a vicious cyberbullying attack.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904180000 +0000" stop="20250904190000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a teenage girl is found dead, Rollins goes under cover at a high-end rehab center where the victim was last seen; Benson tries to overcome her doubts about Sheila.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904190000 +0000" stop="20250904200000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson must disclose the secrets of her past to help a rape victim recall the details of one terrible, traumatic night.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904200000 +0000" stop="20250904210000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU investigates a case involving two students in a special needs school; Rollins discovers that one child's medical issues stem from a surprising source.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904210000 +0000" stop="20250904220000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Carisi opens a police investigation when his niece reports a classmate for sexual assault; Stone learns there are no perfect witnesses when it comes to sex crimes.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904220000 +0000" stop="20250904230000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>When a student disappears during a school trip to New York, the cops race to find a mysterious masked man; Fin and Stone both get visits from family.</desc>
-    <date>2025-09-04</date>
-  </programme>
-  <programme channel="403626" start="20250904230000 +0000" stop="20250905000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>The SVU must break through military red tape when a soldier is suspected of sexual assault.</desc>
-    <date>2025-09-04</date>
-  </programme>
   <programme channel="403626" start="20250905000000 +0000" stop="20250905010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>The search for an abducted woman and her young daughter leads Lt. Benson to cross paths with an old friend; Stone must make a tough decision on behalf of his sister.</desc>
@@ -194,9 +109,84 @@
     <desc>A Boston bank robber (Ben Affleck) looks for a way out of his criminal lifestyle after beginning a passionate romance with the woman (Rebecca Hall) that his gang briefly took hostage.</desc>
     <date>2025-09-05</date>
   </programme>
-  <programme channel="403626" start="20250906000000 +0000" stop="20250907000000 +0000">
+  <programme channel="403626" start="20250906000000 +0000" stop="20250906020000 +0000">
     <title lang="zh">Live: WWE Friday Night SmackDown</title>
     <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906020000 +0000" stop="20250906030100 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>When Sarah reveals a detail about the case, Rudy must choose between his client and girlfriend.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906030100 +0000" stop="20250906030500 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Young attorney Rudy Baylor, alongside Bruiser Stone and Deck Shifflet, battles a powerful law firm led by Leo F. Drummond and his girlfriend, Sarah Plankmore, unearthing a dark conspiracy that shows how far his opponents are willing to go to win.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906030500 +0000" stop="20250906050500 +0000">
+    <title lang="zh">London Has Fallen</title>
+    <desc>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906050500 +0000" stop="20250906060500 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>When Sarah reveals a detail about the case, Rudy must choose between his client and girlfriend.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906060500 +0000" stop="20250906070400 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>Mischele Lewis' new boyfriend seems almost too good to be true, then she discovers he is a con man harboring dark secrets and embarks on a dangerous mission to expose him.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906070400 +0000" stop="20250906080300 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>After a tech millionaire's neighbor is found murdered, he goes on the run and plays a high-stakes game of hide-and-seek with the authorities and the press.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906080300 +0000" stop="20250906100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A man who was recently acquitted of the murder of his ex-girlfriend's 12-year-old son tells his story; interview with the victim's mother and key players in the case.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906100000 +0000" stop="20250906110000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>The members of the 118 make calls to save a bridezilla at a disastrous wedding; Hen plays medical detective when her mother falls ill; Eddie and Christopher receive a visit from Carla; Athena uncovers a secret Bobby has been hiding.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906110000 +0000" stop="20250906120000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Athena and the 118 are on high alert when a sniper is targeting members of the LAFD; Maddie makes a life decision.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906120000 +0000" stop="20250906130000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>A series of ransomware threats leads to emergencies for the 118, including a helicopter crash at a hospital and an air traffic control tower system failure; the case of the realtor serial rapist goes to trial.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906130000 +0000" stop="20250906153000 +0000">
+    <title lang="zh">Olympus Has Fallen</title>
+    <desc>Disgraced Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906153000 +0000" stop="20250906173000 +0000">
+    <title lang="zh">London Has Fallen</title>
+    <desc>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906173000 +0000" stop="20250906200000 +0000">
+    <title lang="zh">The Town</title>
+    <desc>A Boston bank robber (Ben Affleck) looks for a way out of his criminal lifestyle after beginning a passionate romance with the woman (Rebecca Hall) that his gang briefly took hostage.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906200000 +0000" stop="20250906223000 +0000">
+    <title lang="zh">Thor: Love and Thunder</title>
+    <desc>God of Thunder teams up with King Valkyrie, Korg and ex-girlfriend-turned-Mighty-Thor Jane Foster to take on a galactic killer known as Gorr the God Butcher.</desc>
+    <date>2025-09-06</date>
+  </programme>
+  <programme channel="403626" start="20250906223000 +0000" stop="20250907000000 +0000">
+    <title lang="zh">Black Panther</title>
+    <desc>Black Panther's mettle as king gets tested when an old enemy draws him into a conflict that puts his nation and the world at risk. The king must soon rally his allies and release his full power to defeat his foes and secure the safety of his people.</desc>
     <date>2025-09-06</date>
   </programme>
 </tv>
