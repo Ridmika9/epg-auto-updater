@@ -1,89 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250906090024 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250906.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250906&amp;timezone=None">
+<tv date="20250907090027 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250907.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250907&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250906000000 +0000" stop="20250906020000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906020000 +0000" stop="20250906030100 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>When Sarah reveals a detail about the case, Rudy must choose between his client and girlfriend.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906030100 +0000" stop="20250906030500 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Young attorney Rudy Baylor, alongside Bruiser Stone and Deck Shifflet, battles a powerful law firm led by Leo F. Drummond and his girlfriend, Sarah Plankmore, unearthing a dark conspiracy that shows how far his opponents are willing to go to win.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906030500 +0000" stop="20250906050500 +0000">
-    <title lang="zh">London Has Fallen</title>
-    <desc>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906050500 +0000" stop="20250906060500 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>When Sarah reveals a detail about the case, Rudy must choose between his client and girlfriend.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906060500 +0000" stop="20250906070400 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>Mischele Lewis' new boyfriend seems almost too good to be true, then she discovers he is a con man harboring dark secrets and embarks on a dangerous mission to expose him.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906070400 +0000" stop="20250906080300 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>After a tech millionaire's neighbor is found murdered, he goes on the run and plays a high-stakes game of hide-and-seek with the authorities and the press.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906080300 +0000" stop="20250906100000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>A man who was recently acquitted of the murder of his ex-girlfriend's 12-year-old son tells his story; interview with the victim's mother and key players in the case.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906100000 +0000" stop="20250906110000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The members of the 118 make calls to save a bridezilla at a disastrous wedding; Hen plays medical detective when her mother falls ill; Eddie and Christopher receive a visit from Carla; Athena uncovers a secret Bobby has been hiding.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906110000 +0000" stop="20250906120000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Athena and the 118 are on high alert when a sniper is targeting members of the LAFD; Maddie makes a life decision.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906120000 +0000" stop="20250906130000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>A series of ransomware threats leads to emergencies for the 118, including a helicopter crash at a hospital and an air traffic control tower system failure; the case of the realtor serial rapist goes to trial.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906130000 +0000" stop="20250906153000 +0000">
-    <title lang="zh">Olympus Has Fallen</title>
-    <desc>Disgraced Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906153000 +0000" stop="20250906173000 +0000">
-    <title lang="zh">London Has Fallen</title>
-    <desc>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906173000 +0000" stop="20250906200000 +0000">
-    <title lang="zh">The Town</title>
-    <desc>A Boston bank robber (Ben Affleck) looks for a way out of his criminal lifestyle after beginning a passionate romance with the woman (Rebecca Hall) that his gang briefly took hostage.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906200000 +0000" stop="20250906223000 +0000">
-    <title lang="zh">Thor: Love and Thunder</title>
-    <desc>God of Thunder teams up with King Valkyrie, Korg and ex-girlfriend-turned-Mighty-Thor Jane Foster to take on a galactic killer known as Gorr the God Butcher.</desc>
-    <date>2025-09-06</date>
-  </programme>
-  <programme channel="403626" start="20250906223000 +0000" stop="20250907000000 +0000">
-    <title lang="zh">Black Panther</title>
-    <desc>Black Panther's mettle as king gets tested when an old enemy draws him into a conflict that puts his nation and the world at risk. The king must soon rally his allies and release his full power to defeat his foes and secure the safety of his people.</desc>
-    <date>2025-09-06</date>
-  </programme>
   <programme channel="403626" start="20250907013000 +0000" stop="20250907050000 +0000">
     <title lang="zh">Black Panther: Wakanda Forever</title>
     <desc>Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T'Challa's death.</desc>
@@ -179,9 +99,49 @@
     <desc>When Sarah reveals a detail about the case, Rudy must choose between his client and girlfriend.</desc>
     <date>2025-09-07</date>
   </programme>
-  <programme channel="403626" start="20250908000000 +0000" stop="20250909000000 +0000">
+  <programme channel="403626" start="20250908000000 +0000" stop="20250908010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>A nanny's Internet love interest (Steven Bauer) is the obvious suspect when she is found murdered, but detectives look more closely at her employers (Mark Valley, Anastasia Griffith) when skeletons are found in their closet.</desc>
+    <date>2025-09-08</date>
+  </programme>
+  <programme channel="403626" start="20250908010000 +0000" stop="20250908020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a polygamist's wife is murdered, he fears his testimony in a separate case may have led to her death; a Web site exposes potential witnesses.</desc>
+    <date>2025-09-08</date>
+  </programme>
+  <programme channel="403626" start="20250908020000 +0000" stop="20250908030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A wealthy teen is found murdered in New York's Central Park, and the clues lead to a gang of homeless children.</desc>
+    <date>2025-09-08</date>
+  </programme>
+  <programme channel="403626" start="20250908030000 +0000" stop="20250908040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A woman's body is found in a park alongside a man with a bullet in his head.</desc>
+    <date>2025-09-08</date>
+  </programme>
+  <programme channel="403626" start="20250908040000 +0000" stop="20250908050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler suspect the drug-dealing uncle of a girl (Shareeka Epps) found raped and beaten, but the theft of the rape kit identifying her attacker leads them to a crooked prison guard.</desc>
+    <date>2025-09-08</date>
+  </programme>
+  <programme channel="403626" start="20250908050000 +0000" stop="20250908060000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives suspect a wealthy family of coffee traders when a pregnant woman is found raped and murdered in her burned-out loft.</desc>
+    <date>2025-09-08</date>
+  </programme>
+  <programme channel="403626" start="20250908060000 +0000" stop="20250908070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a video gamer goes missing, Benson and Stabler use the woman's avatar to track down her kidnapper before it is too late.</desc>
+    <date>2025-09-08</date>
+  </programme>
+  <programme channel="403626" start="20250908070000 +0000" stop="20250908080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A 15-year-old with a sexually transmitted disease says he caught it from his teacher (Melissa Joan Hart); Benson and Stabler uncover dark secrets while searching into the pair's lives.</desc>
+    <date>2025-09-08</date>
+  </programme>
+  <programme channel="403626" start="20250908080000 +0000" stop="20250909000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives link the stabbing death of a schoolteacher to her volunteer job at a victims rehabilitation center, where she was working with an Iraqi who helped uncover some military secrets.</desc>
     <date>2025-09-08</date>
   </programme>
 </tv>
