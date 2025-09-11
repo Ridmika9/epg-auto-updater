@@ -1,52 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250910102339 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250910.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250910&amp;timezone=None">
+<tv date="20250911094542 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250911&amp;timezone=None">
   <channel id="403626">
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250910000000 +0000" stop="20250910010000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>A group of teens terrorizing tourists has the SVU squad working overtime; McGrath teams them up with the Bronx gang unit to track down a crucial lead.</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="403626" start="20250910010000 +0000" stop="20250910020000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Carisi are baffled when a series of assaults have the same M.O. but different DNA at each crime scene; Muncy believes Elias Olsen has struck again and is determined to prove it.</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="403626" start="20250910020000 +0000" stop="20250910030000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>In the search for a revenge-for-hire crime ring, Benson and Stabler combine forces on a case that has now spread globally; Fin and Bruno help a victim assaulted a second time; Jet's plan to hack the dark web backfires and puts the team in danger.</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="403626" start="20250910030000 +0000" stop="20250910040000 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>When Sarah reveals a detail about the case, Rudy must choose between his client and girlfriend.</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="403626" start="20250910040000 +0000" stop="20250910050000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Carisi's niece helps a friend report a sexual assault; Benson investigates a college's secret society that preys on female students.</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="403626" start="20250910050000 +0000" stop="20250910060000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Agent Sykes struggles to cope on the anniversary of her sister's disappearance; Benson suspects a cold case from Manhattan could help her get closure.</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="403626" start="20250910060000 +0000" stop="20250910070000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Benson and Stabler team with detectives Briscoe and Green to investigate the gunshot murder of a man believed to be a sexual aggressor.</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="403626" start="20250910070000 +0000" stop="20250910080000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>After recovering from being shot during a robbery, Fin returns to the narcotics division to keep a promise he made to locate a missing person.</desc>
-    <date>2025-09-10</date>
-  </programme>
-  <programme channel="403626" start="20250910080000 +0000" stop="20250911000000 +0000">
-    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
-    <desc>Detective Stabler and CSU technician Millie Vizcarrondo (Paula Garcés) investigate a child's remains found at a construction site and find they belong to one of five boys reported missing 30 years earlier.</desc>
-    <date>2025-09-10</date>
-  </programme>
 </tv>
