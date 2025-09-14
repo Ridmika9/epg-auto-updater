@@ -1,7 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250913093714 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250913.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250913&amp;timezone=None">
-  <channel id="403626">
-    <display-name lang="US">USA Network - East Feed</display-name>
-    <icon src="" />
-  </channel>
-</tv>
+<tv date="20250914093912 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403626/20250914.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403626&amp;date=20250914&amp;timezone=None" />
